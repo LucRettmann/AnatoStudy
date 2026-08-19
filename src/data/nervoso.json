@@ -1,0 +1,555 @@
+[
+  {
+    "id": "giro-precentral",
+    "sistema": "nervoso",
+    "nome": "Giro pré-central",
+    "nomeLatim": "Gyrus precentralis",
+    "sinonimos": [
+      "córtex motor primário",
+      "área 4 de Brodmann"
+    ],
+    "pecas": [
+      "^(right|left) precentral gyrus$"
+    ],
+    "localizacao": "Lobo frontal, imediatamente à frente do sulco central.",
+    "funcao": "Córtex motor primário: origem do trato corticoespinal e comando dos movimentos voluntários do lado oposto do corpo.",
+    "curiosidade": "Sua representação somatotópica é o homúnculo motor, com mão e face desproporcionalmente grandes.",
+    "fmaIds": [
+      "FMA72661",
+      "FMA72662"
+    ]
+  },
+  {
+    "id": "giro-poscentral",
+    "sistema": "nervoso",
+    "nome": "Giro pós-central",
+    "nomeLatim": "Gyrus postcentralis",
+    "sinonimos": [
+      "córtex somatossensitivo primário"
+    ],
+    "pecas": [
+      "^(right|left) postcentral gyrus$"
+    ],
+    "localizacao": "Lobo parietal, logo atrás do sulco central.",
+    "funcao": "Recebe as informações de tato, pressão, dor, temperatura e propriocepção do hemicorpo contralateral.",
+    "fmaIds": [
+      "FMA72665",
+      "FMA72666"
+    ]
+  },
+  {
+    "id": "giro-frontal-superior",
+    "sistema": "nervoso",
+    "nome": "Giro frontal superior",
+    "nomeLatim": "Gyrus frontalis superior",
+    "pecas": [
+      "^(right|left) superior frontal gyrus$"
+    ],
+    "localizacao": "Borda superomedial do lobo frontal.",
+    "funcao": "Abriga a área motora suplementar e participa do planejamento motor e da atenção.",
+    "fmaIds": [
+      "FMA72653",
+      "FMA72654"
+    ]
+  },
+  {
+    "id": "giro-frontal-medio",
+    "sistema": "nervoso",
+    "nome": "Giro frontal médio",
+    "nomeLatim": "Gyrus frontalis medius",
+    "pecas": [
+      "^(right|left) middle frontal gyrus$"
+    ],
+    "localizacao": "Face lateral do lobo frontal, entre os sulcos frontais superior e inferior.",
+    "funcao": "Córtex pré-frontal dorsolateral: memória de trabalho, funções executivas e campo ocular frontal.",
+    "fmaIds": [
+      "FMA72655",
+      "FMA72656"
+    ]
+  },
+  {
+    "id": "giros-orbitais",
+    "sistema": "nervoso",
+    "nome": "Giros orbitais e giro reto",
+    "nomeLatim": "Gyri orbitales et gyrus rectus",
+    "pecas": [
+      "^orbital gyri straight gyrus$"
+    ],
+    "localizacao": "Face inferior (orbital) do lobo frontal, sobre o teto das órbitas.",
+    "funcao": "Córtex órbito-frontal: julgamento social, controle de impulsos e processamento de recompensa; recebe também aferências olfatórias.",
+    "fmaIds": [
+      "BP51"
+    ]
+  },
+  {
+    "id": "giro-temporal-superior",
+    "sistema": "nervoso",
+    "nome": "Giro temporal superior",
+    "nomeLatim": "Gyrus temporalis superior",
+    "pecas": [
+      "part of (right|left) superior temporal gyrus"
+    ],
+    "localizacao": "Parte mais alta do lobo temporal, abaixo do sulco lateral.",
+    "funcao": "Contém o córtex auditivo primário e, no hemisfério dominante, a área de Wernicke, ligada à compreensão da linguagem.",
+    "fmaIds": [
+      "FMA72800",
+      "FMA72801",
+      "FMA72804",
+      "FMA72805"
+    ]
+  },
+  {
+    "id": "giro-temporal-medio-inferior",
+    "sistema": "nervoso",
+    "nome": "Giros temporais médio e inferior",
+    "nomeLatim": "Gyri temporales medius et inferior",
+    "pecas": [
+      "^(right|left) (middle|inferior) temporal gyrus$"
+    ],
+    "localizacao": "Face lateral do lobo temporal, abaixo do giro temporal superior.",
+    "funcao": "Reconhecimento visual complexo, memória semântica e nomeação de objetos.",
+    "fmaIds": [
+      "FMA72685",
+      "FMA72686",
+      "FMA72687",
+      "FMA72688"
+    ]
+  },
+  {
+    "id": "giro-fusiforme",
+    "sistema": "nervoso",
+    "nome": "Giro fusiforme",
+    "nomeLatim": "Gyrus fusiformis",
+    "pecas": [
+      "^(right|left) fusiform gyrus$"
+    ],
+    "localizacao": "Face inferior dos lobos temporal e occipital.",
+    "funcao": "Reconhecimento de faces (área fusiforme das faces) e de palavras escritas.",
+    "curiosidade": "Lesões nessa região causam prosopagnosia — a incapacidade de reconhecer rostos familiares.",
+    "fmaIds": [
+      "FMA72689",
+      "FMA72690"
+    ]
+  },
+  {
+    "id": "giro-angular-e-supramarginal",
+    "sistema": "nervoso",
+    "nome": "Giros angular e supramarginal",
+    "nomeLatim": "Gyri angularis et supramarginalis",
+    "pecas": [
+      "^(right|left) (angular|supramarginal) gyrus$"
+    ],
+    "localizacao": "Lóbulo parietal inferior, ao redor das extremidades dos sulcos temporal superior e lateral.",
+    "funcao": "Integração multissensorial; no hemisfério dominante participam da leitura, da escrita e do cálculo.",
+    "fmaIds": [
+      "FMA72667",
+      "FMA72668",
+      "FMA72669",
+      "FMA72670"
+    ]
+  },
+  {
+    "id": "lobulo-parietal-superior",
+    "sistema": "nervoso",
+    "nome": "Lóbulo parietal superior e pré-cúneo",
+    "nomeLatim": "Lobulus parietalis superior et precuneus",
+    "pecas": [
+      "superior parietal lobule precuneus"
+    ],
+    "localizacao": "Parte superior e medial do lobo parietal, atrás do giro pós-central.",
+    "funcao": "Orientação espacial, atenção visuoespacial e integração da imagem corporal.",
+    "fmaIds": [
+      "BP49",
+      "BP50"
+    ]
+  },
+  {
+    "id": "lobo-occipital",
+    "sistema": "nervoso",
+    "nome": "Lobo occipital",
+    "nomeLatim": "Lobus occipitalis",
+    "pecas": [
+      "^(right|left) occipital lobe$"
+    ],
+    "localizacao": "Polo posterior do hemisfério cerebral.",
+    "funcao": "Córtex visual primário (ao redor do sulco calcarino) e áreas visuais associativas.",
+    "fmaIds": [
+      "FMA72975",
+      "FMA72976"
+    ]
+  },
+  {
+    "id": "giro-do-cingulo",
+    "sistema": "nervoso",
+    "nome": "Giro do cíngulo",
+    "nomeLatim": "Gyrus cinguli",
+    "pecas": [
+      "^(right|left) cingulate gyrus$"
+    ],
+    "localizacao": "Face medial do hemisfério, envolvendo o corpo caloso.",
+    "funcao": "Componente do sistema límbico: regula emoção, motivação, dor afetiva e monitoramento de conflito.",
+    "fmaIds": [
+      "FMA72717",
+      "FMA72718"
+    ]
+  },
+  {
+    "id": "insula",
+    "sistema": "nervoso",
+    "nome": "Ínsula",
+    "nomeLatim": "Insula",
+    "pecas": [
+      "^(right|left) insula$",
+      "accessory short gyrus"
+    ],
+    "localizacao": "Fundo do sulco lateral, coberta pelos opérculos frontal, parietal e temporal.",
+    "funcao": "Interocepção, paladar, percepção visceral, nojo e regulação autonômica.",
+    "fmaIds": [
+      "FMA72701",
+      "FMA72702",
+      "FMA72977",
+      "FMA72978"
+    ]
+  },
+  {
+    "id": "hipocampo",
+    "sistema": "nervoso",
+    "nome": "Hipocampo",
+    "nomeLatim": "Hippocampus",
+    "pecas": [
+      "^(right|left) hippocampus$",
+      "^(right|left) parahippocampal gyrus$"
+    ],
+    "localizacao": "Face medial do lobo temporal, no assoalho do corno inferior do ventrículo lateral.",
+    "funcao": "Formação de novas memórias declarativas e navegação espacial.",
+    "curiosidade": "A lesão bilateral impede a formação de memórias novas, preservando as antigas — o caso clássico do paciente H.M.",
+    "fmaIds": [
+      "FMA72705",
+      "FMA72706",
+      "FMA72713",
+      "FMA72714"
+    ]
+  },
+  {
+    "id": "amigdala",
+    "sistema": "nervoso",
+    "nome": "Corpo amigdaloide",
+    "nomeLatim": "Corpus amygdaloideum",
+    "sinonimos": [
+      "amígdala cerebral"
+    ],
+    "pecas": [
+      "^(right|left) amygdala$"
+    ],
+    "localizacao": "Polo temporal medial, à frente do hipocampo.",
+    "funcao": "Processamento do medo e das emoções, memória emocional e resposta de alerta.",
+    "fmaIds": [
+      "FMA72832",
+      "FMA72833"
+    ]
+  },
+  {
+    "id": "nucleo-caudado",
+    "sistema": "nervoso",
+    "nome": "Núcleo caudado",
+    "nomeLatim": "Nucleus caudatus",
+    "pecas": [
+      "^(right|left) caudate nucleus$"
+    ],
+    "localizacao": "Acompanha a curvatura do ventrículo lateral, com cabeça, corpo e cauda.",
+    "funcao": "Núcleo da base: participa do controle motor, do aprendizado de hábitos e do comportamento dirigido a objetivos.",
+    "fmaIds": [
+      "FMA72826",
+      "FMA72827"
+    ]
+  },
+  {
+    "id": "putame-e-globo-palido",
+    "sistema": "nervoso",
+    "nome": "Putame e globo pálido",
+    "nomeLatim": "Putamen et globus pallidus",
+    "sinonimos": [
+      "núcleo lentiforme"
+    ],
+    "pecas": [
+      "^(right|left) putamen$",
+      "^(right|left) globus pallidus$"
+    ],
+    "localizacao": "Profundamente no hemisfério, lateralmente à cápsula interna; juntos formam o núcleo lentiforme.",
+    "funcao": "Núcleos da base: modulam a iniciação e a amplitude do movimento pelas vias direta e indireta.",
+    "curiosidade": "A degeneração da via nigroestriatal para o putame é a base motora da doença de Parkinson.",
+    "fmaIds": [
+      "FMA72828",
+      "FMA72829",
+      "FMA72830",
+      "FMA72831"
+    ]
+  },
+  {
+    "id": "talamo",
+    "sistema": "nervoso",
+    "nome": "Tálamo",
+    "nomeLatim": "Thalamus",
+    "pecas": [
+      "^(right|left) thalamus$",
+      "stria medullaris of thalamus",
+      "^habenula$"
+    ],
+    "localizacao": "Massa oval de substância cinzenta em cada lado do terceiro ventrículo.",
+    "funcao": "Estação de retransmissão de quase todas as vias sensitivas para o córtex; participa da consciência e da regulação do sono.",
+    "fmaIds": [
+      "FMA258714",
+      "FMA258716",
+      "FMA62032",
+      "FMA73413",
+      "FMA73414"
+    ]
+  },
+  {
+    "id": "corpos-geniculados",
+    "sistema": "nervoso",
+    "nome": "Corpos geniculados lateral e medial",
+    "nomeLatim": "Corpora geniculata laterale et mediale",
+    "pecas": [
+      "geniculate body$"
+    ],
+    "localizacao": "Face posteroinferior do tálamo (metatálamo).",
+    "funcao": "Lateral: estação da via visual, entre o trato óptico e o córtex occipital. Medial: estação da via auditiva.",
+    "fmaIds": [
+      "FMA73303",
+      "FMA73304",
+      "FMA73309",
+      "FMA73310"
+    ]
+  },
+  {
+    "id": "hipotalamo",
+    "sistema": "nervoso",
+    "nome": "Hipotálamo",
+    "nomeLatim": "Hypothalamus",
+    "pecas": [
+      "^hypothalamus",
+      "^mammillary body$",
+      "^tuber cinereum$",
+      "^lamina terminalis$",
+      "^interpeduncular fossa$"
+    ],
+    "localizacao": "Assoalho e paredes inferiores do terceiro ventrículo, abaixo do tálamo.",
+    "funcao": "Centro integrador da homeostase: temperatura, fome, sede, ritmo circadiano, comportamento sexual e controle da hipófise.",
+    "fmaIds": [
+      "FMA61975",
+      "FMA62008nsn",
+      "FMA62327",
+      "FMA74877",
+      "FMA83740"
+    ]
+  },
+  {
+    "id": "capsula-interna",
+    "sistema": "nervoso",
+    "nome": "Cápsula interna e substância branca hemisférica",
+    "nomeLatim": "Capsula interna",
+    "pecas": [
+      "limb of (right|left) internal capsule",
+      "white matter structure of cerebral hemisphere"
+    ],
+    "localizacao": "Faixa de substância branca entre o núcleo caudado, o tálamo e o núcleo lentiforme.",
+    "funcao": "Reúne as fibras de projeção que ligam o córtex ao tronco encefálico e à medula, incluindo o trato corticoespinal.",
+    "curiosidade": "Um pequeno infarto na cápsula interna pode causar hemiplegia completa, por concentrar todas as fibras motoras.",
+    "fmaIds": [
+      "FMA61822",
+      "FMA72908",
+      "FMA72909"
+    ]
+  },
+  {
+    "id": "corpo-caloso",
+    "sistema": "nervoso",
+    "nome": "Corpo caloso",
+    "nomeLatim": "Corpus callosum",
+    "pecas": [
+      "^corpus callosum$",
+      "^(anterior|posterior) commissure$",
+      "commissure of fornix of forebrain"
+    ],
+    "localizacao": "Grande lâmina de substância branca no fundo da fissura longitudinal.",
+    "funcao": "Maior comissura do encéfalo: conecta áreas homólogas dos dois hemisférios.",
+    "acidentes": "Rostro, joelho, tronco e esplênio.",
+    "fmaIds": [
+      "FMA61961",
+      "FMA61970",
+      "FMA62072",
+      "FMA86464"
+    ]
+  },
+  {
+    "id": "fornice",
+    "sistema": "nervoso",
+    "nome": "Fórnice",
+    "nomeLatim": "Fornix",
+    "pecas": [
+      "^(right|left) fornix of forebrain$",
+      "stria terminalis"
+    ],
+    "localizacao": "Arco de substância branca sob o corpo caloso, do hipocampo aos corpos mamilares.",
+    "funcao": "Principal via eferente do hipocampo, componente do circuito de Papez, ligado à memória.",
+    "fmaIds": [
+      "FMA72924",
+      "FMA72925",
+      "FMA72939",
+      "FMA72940"
+    ]
+  },
+  {
+    "id": "septo-pelucido",
+    "sistema": "nervoso",
+    "nome": "Septo pelúcido",
+    "nomeLatim": "Septum pellucidum",
+    "pecas": [
+      "^septum pellucidum$"
+    ],
+    "localizacao": "Fina lâmina dupla entre o corpo caloso e o fórnice, separando os ventrículos laterais.",
+    "funcao": "Divide os ventrículos laterais e conecta estruturas límbicas.",
+    "fmaIds": [
+      "FMA61844"
+    ]
+  },
+  {
+    "id": "quiasma-e-trato-optico",
+    "sistema": "nervoso",
+    "nome": "Quiasma e tratos ópticos",
+    "nomeLatim": "Chiasma opticum et tractus optici",
+    "pecas": [
+      "^optic chiasm$",
+      "^(right|left) optic tract$",
+      "^(right|left) optic nerve$"
+    ],
+    "localizacao": "Face inferior do encéfalo, à frente da haste hipofisária.",
+    "funcao": "Conduzem a informação visual da retina ao corpo geniculado lateral; no quiasma cruzam as fibras nasais.",
+    "curiosidade": "Uma lesão do quiasma (típica de tumores hipofisários) produz hemianopsia bitemporal — perda da visão periférica dos dois lados.",
+    "fmaIds": [
+      "FMA50875",
+      "FMA50878",
+      "FMA62045",
+      "FMA62382",
+      "FMA67936"
+    ]
+  },
+  {
+    "id": "mesencefalo",
+    "sistema": "nervoso",
+    "nome": "Mesencéfalo",
+    "nomeLatim": "Mesencephalon",
+    "pecas": [
+      "^midbrain",
+      "peduncle of midbrain",
+      "^cerebral aqueduct$"
+    ],
+    "localizacao": "Porção mais alta do tronco encefálico, entre o diencéfalo e a ponte.",
+    "funcao": "Conduz as vias motoras e sensitivas, abriga a substância negra e os núcleos dos nervos III e IV e controla reflexos visuais e auditivos.",
+    "acidentes": "Pedúnculos cerebrais, tegmento, teto (lâmina quadrigêmea), aqueduto do mesencéfalo.",
+    "fmaIds": [
+      "FMA61993nsn",
+      "FMA62394",
+      "FMA78467"
+    ]
+  },
+  {
+    "id": "colicullos",
+    "sistema": "nervoso",
+    "nome": "Colículos superiores e inferiores",
+    "nomeLatim": "Colliculi superiores et inferiores",
+    "sinonimos": [
+      "lâmina quadrigêmea",
+      "tecto"
+    ],
+    "pecas": [
+      "colliculus$",
+      "brachium of (right|left) (superior|inferior) colliculus"
+    ],
+    "localizacao": "Face posterior do mesencéfalo (teto).",
+    "funcao": "Colículo superior: reflexos visuais e de orientação do olhar. Colículo inferior: estação da via auditiva.",
+    "fmaIds": [
+      "FMA73422",
+      "FMA73423",
+      "FMA73434",
+      "FMA73435",
+      "FMA73461",
+      "FMA73462",
+      "FMA73463",
+      "FMA73464"
+    ]
+  },
+  {
+    "id": "ponte",
+    "sistema": "nervoso",
+    "nome": "Ponte",
+    "nomeLatim": "Pons",
+    "pecas": [
+      "^pons$"
+    ],
+    "localizacao": "Parte média do tronco encefálico, entre o mesencéfalo e o bulbo, à frente do cerebelo.",
+    "funcao": "Conecta o córtex ao cerebelo pelos pedúnculos cerebelares médios; abriga núcleos dos nervos V, VI, VII e VIII e centros respiratórios.",
+    "fmaIds": [
+      "FMA67943"
+    ]
+  },
+  {
+    "id": "bulbo",
+    "sistema": "nervoso",
+    "nome": "Bulbo",
+    "nomeLatim": "Medulla oblongata",
+    "sinonimos": [
+      "medula oblonga"
+    ],
+    "pecas": [
+      "^medulla oblongata$"
+    ],
+    "localizacao": "Porção inferior do tronco encefálico, continuando-se com a medula espinal no forame magno.",
+    "funcao": "Contém os centros cardiovascular e respiratório e os núcleos dos nervos IX a XII; nele ocorre a decussação das pirâmides.",
+    "curiosidade": "A decussação das pirâmides explica por que cada hemisfério comanda o hemicorpo oposto.",
+    "fmaIds": [
+      "FMA62004"
+    ]
+  },
+  {
+    "id": "cerebelo",
+    "sistema": "nervoso",
+    "nome": "Cerebelo",
+    "nomeLatim": "Cerebellum",
+    "pecas": [
+      "^cerebellum$"
+    ],
+    "localizacao": "Fossa craniana posterior, atrás do tronco encefálico e abaixo do lobo occipital.",
+    "funcao": "Coordena a execução do movimento, o equilíbrio, o tônus muscular e o aprendizado motor.",
+    "curiosidade": "Concentra mais da metade dos neurônios do encéfalo, num volume dez vezes menor que o do cérebro.",
+    "fmaIds": [
+      "FMA67944"
+    ]
+  },
+  {
+    "id": "ventriculos",
+    "sistema": "nervoso",
+    "nome": "Sistema ventricular",
+    "nomeLatim": "Ventriculi cerebri",
+    "pecas": [
+      "ventricle$",
+      "^interventricular foramen$",
+      "choroid plexus",
+      "central canal of spinal cord"
+    ],
+    "localizacao": "Cavidades no interior do encéfalo: dois ventrículos laterais, o terceiro e o quarto ventrículo.",
+    "funcao": "Produzem e conduzem o líquido cerebrospinal, que amortece e nutre o sistema nervoso central.",
+    "curiosidade": "O líquor é produzido pelos plexos corióideos e reabsorvido nas granulações aracnóideas; o bloqueio do fluxo causa hidrocefalia.",
+    "fmaIds": [
+      "FMA274027",
+      "FMA274029",
+      "FMA75351",
+      "FMA78449",
+      "FMA78450",
+      "FMA78454",
+      "FMA78469",
+      "FMA78497"
+    ]
+  }
+]

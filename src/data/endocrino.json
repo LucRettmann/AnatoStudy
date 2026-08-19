@@ -1,0 +1,57 @@
+[
+  {
+    "id": "hipofise",
+    "sistema": "endocrino",
+    "nome": "Hipófise",
+    "nomeLatim": "Hypophysis",
+    "sinonimos": [
+      "glândula pituitária"
+    ],
+    "pecas": [
+      "^pituitary gland$"
+    ],
+    "localizacao": "Sela turca do osso esfenoide, ligada ao hipotálamo pelo infundíbulo.",
+    "funcao": "Adeno-hipófise secreta GH, TSH, ACTH, FSH, LH e prolactina; neuro-hipófise libera ocitocina e ADH produzidos no hipotálamo.",
+    "irrigacao": "Artérias hipofisárias superior e inferior, da carótida interna.",
+    "relacoes": "Abaixo do quiasma óptico e entre os seios cavernosos.",
+    "curiosidade": "Pesa menos de 1 g, mas comanda tireoide, suprarrenais e gônadas — daí o apelido de \"glândula mestra\".",
+    "fmaIds": [
+      "FMA13889"
+    ]
+  },
+  {
+    "id": "glandulas-suprarrenais",
+    "sistema": "endocrino",
+    "nome": "Glândulas suprarrenais",
+    "nomeLatim": "Glandulae suprarenales",
+    "sinonimos": [
+      "adrenais"
+    ],
+    "pecas": [
+      "adrenal gland$"
+    ],
+    "localizacao": "Retroperitoneais, sobre o polo superior de cada rim.",
+    "funcao": "Córtex produz aldosterona, cortisol e androgênios; medula secreta adrenalina e noradrenalina.",
+    "irrigacao": "Artérias suprarrenais superior (frênica inferior), média (aorta) e inferior (renal).",
+    "curiosidade": "A medula suprarrenal é, na origem, um gânglio simpático modificado.",
+    "fmaIds": [
+      "FMA15629",
+      "FMA15630"
+    ]
+  },
+  {
+    "id": "glandula-pineal",
+    "sistema": "endocrino",
+    "nome": "Glândula pineal",
+    "nomeLatim": "Glandula pinealis",
+    "pecas": [
+      "^pineal body$"
+    ],
+    "localizacao": "Epitálamo, no teto do terceiro ventrículo, entre os colículos superiores.",
+    "funcao": "Secreta melatonina, sincronizando o ritmo circadiano com o ciclo claro-escuro.",
+    "curiosidade": "Calcifica-se com a idade e serve de marco radiológico da linha média do encéfalo.",
+    "fmaIds": [
+      "FMA62033"
+    ]
+  }
+]

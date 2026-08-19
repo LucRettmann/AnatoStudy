@@ -1,0 +1,71 @@
+[
+  {
+    "id": "rins",
+    "sistema": "urinario",
+    "nome": "Rins",
+    "nomeLatim": "Renes",
+    "pecas": [
+      "kidney$"
+    ],
+    "localizacao": "Retroperitoneais, entre T12 e L3; o direito é mais baixo por causa do fígado.",
+    "funcao": "Filtram o plasma, regulam água, eletrólitos e pH, e produzem eritropoetina e renina.",
+    "irrigacao": "Artérias renais, ramos diretos da aorta abdominal.",
+    "inervacao": "Plexo renal (simpático T10–L1).",
+    "relacoes": "Sobre o músculo psoas maior e o quadrado lombar; recobertos pelas glândulas suprarrenais.",
+    "curiosidade": "Juntos filtram cerca de 180 litros de plasma por dia, dos quais apenas 1,5 litro é eliminado como urina.",
+    "fmaIds": [
+      "FMA7204",
+      "FMA7205"
+    ]
+  },
+  {
+    "id": "ureteres",
+    "sistema": "urinario",
+    "nome": "Ureteres",
+    "nomeLatim": "Ureteres",
+    "pecas": [
+      "ureter$"
+    ],
+    "localizacao": "Da pelve renal à bexiga, descendo retroperitonealmente sobre o músculo psoas maior.",
+    "funcao": "Conduzem a urina por peristalse até a bexiga.",
+    "irrigacao": "Ramos das artérias renal, gonadal, ilíaca comum e vesical inferior.",
+    "curiosidade": "Têm três estreitamentos — junção ureteropélvica, cruzamento dos vasos ilíacos e junção vesical — onde os cálculos costumam impactar.",
+    "fmaIds": [
+      "FMA15571",
+      "FMA15572"
+    ]
+  },
+  {
+    "id": "bexiga",
+    "sistema": "urinario",
+    "nome": "Bexiga urinária",
+    "nomeLatim": "Vesica urinaria",
+    "pecas": [
+      "^urinary bladder$"
+    ],
+    "localizacao": "Pelve menor, atrás da sínfise púbica; quando cheia, ascende ao abdome.",
+    "funcao": "Armazena a urina e a expulsa pela contração do músculo detrusor.",
+    "irrigacao": "Artérias vesicais superior e inferior, da ilíaca interna.",
+    "inervacao": "Parassimpático S2–S4 (contrai o detrusor) e simpático L1–L2 (favorece o armazenamento).",
+    "acidentes": "Trígono vesical, delimitado pelos dois óstios ureterais e pelo óstio interno da uretra.",
+    "fmaIds": [
+      "FMA15900"
+    ]
+  },
+  {
+    "id": "uretra",
+    "sistema": "urinario",
+    "nome": "Uretra",
+    "nomeLatim": "Urethra",
+    "pecas": [
+      "^urethra$"
+    ],
+    "localizacao": "Da bexiga ao meato uretral externo; no modelo masculino, atravessa a próstata, o diafragma urogenital e o pênis.",
+    "funcao": "Conduz a urina para fora e, no homem, também o sêmen.",
+    "inervacao": "Nervo pudendo (esfíncter externo, voluntário) e plexo vesical.",
+    "curiosidade": "A uretra masculina tem cerca de 20 cm e quatro partes: pré-prostática, prostática, membranácea e esponjosa.",
+    "fmaIds": [
+      "FMA19667"
+    ]
+  }
+]

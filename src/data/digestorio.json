@@ -1,0 +1,242 @@
+[
+  {
+    "id": "esofago",
+    "sistema": "digestorio",
+    "nome": "Esôfago",
+    "nomeLatim": "Oesophagus",
+    "pecas": [
+      "^esophagus$"
+    ],
+    "localizacao": "Tubo de cerca de 25 cm que vai da faringe (C6) ao estômago, atravessando o diafragma em T10.",
+    "funcao": "Conduz o bolo alimentar ao estômago por ondas peristálticas.",
+    "irrigacao": "Artérias esofágicas da aorta, tireóidea inferior e gástrica esquerda.",
+    "inervacao": "Plexo esofágico (nervo vago) e fibras simpáticas.",
+    "curiosidade": "Tem três estreitamentos — cervical, broncoaórtico e diafragmático — onde corpos estranhos costumam alojar-se.",
+    "fmaIds": [
+      "FMA7131"
+    ]
+  },
+  {
+    "id": "estomago",
+    "sistema": "digestorio",
+    "nome": "Estômago",
+    "nomeLatim": "Gaster",
+    "pecas": [
+      "^stomach$"
+    ],
+    "localizacao": "Andar supramesocólico do abdome, no hipocôndrio esquerdo e no epigástrio.",
+    "funcao": "Armazena o alimento, secreta ácido clorídrico e pepsina e transforma o bolo em quimo.",
+    "irrigacao": "Ramos do tronco celíaco: gástricas esquerda e direita, gastromentais e gástricas curtas.",
+    "inervacao": "Vago (parassimpático, estimula a secreção) e plexo celíaco (simpático).",
+    "relacoes": "À frente do pâncreas e do baço; abaixo do diafragma e do lobo esquerdo do fígado.",
+    "acidentes": "Cárdia, fundo, corpo, antro pilórico, piloro, curvaturas maior e menor, incisura angular.",
+    "fmaIds": [
+      "FMA7148"
+    ]
+  },
+  {
+    "id": "duodeno",
+    "sistema": "digestorio",
+    "nome": "Duodeno",
+    "nomeLatim": "Duodenum",
+    "pecas": [
+      "^duodenum$"
+    ],
+    "localizacao": "Primeira porção do intestino delgado, em forma de C ao redor da cabeça do pâncreas; quase todo retroperitoneal.",
+    "funcao": "Recebe o quimo, a bile e o suco pancreático; nele começa a maior parte da digestão química.",
+    "irrigacao": "Artérias pancreaticoduodenais superiores (tronco celíaco) e inferiores (mesentérica superior).",
+    "curiosidade": "A papila duodenal maior, na 2ª porção, é onde desembocam os ductos colédoco e pancreático.",
+    "fmaIds": [
+      "FMA7206"
+    ]
+  },
+  {
+    "id": "jejuno-ileo",
+    "sistema": "digestorio",
+    "nome": "Jejuno e íleo",
+    "nomeLatim": "Jejunum et ileum",
+    "pecas": [
+      "^jejunum$",
+      "^ileum$"
+    ],
+    "localizacao": "Alças móveis suspensas pelo mesentério, ocupando a região central e inferior do abdome.",
+    "funcao": "Principal sítio de absorção de nutrientes; o íleo terminal absorve vitamina B12 e sais biliares.",
+    "irrigacao": "Artérias jejunais e ileais, ramos da mesentérica superior.",
+    "curiosidade": "As pregas circulares e as vilosidades ampliam a superfície absortiva para cerca de 200 m².",
+    "fmaIds": [
+      "FMA7207",
+      "FMA7208"
+    ]
+  },
+  {
+    "id": "colon",
+    "sistema": "digestorio",
+    "nome": "Colo",
+    "nomeLatim": "Colon",
+    "sinonimos": [
+      "cólon",
+      "intestino grosso"
+    ],
+    "pecas": [
+      "^colon",
+      "taenia$"
+    ],
+    "localizacao": "Emoldura as alças do delgado: colo ascendente, transverso, descendente e sigmoide.",
+    "funcao": "Absorve água e eletrólitos, abriga a microbiota e forma e armazena as fezes.",
+    "irrigacao": "Artérias mesentéricas superior (até a flexura esquerda) e inferior.",
+    "acidentes": "Tênias do colo, saculações (haustros) e apêndices omentais.",
+    "curiosidade": "As três tênias convergem na base do apêndice vermiforme — referência cirúrgica para encontrá-lo.",
+    "fmaIds": [
+      "FMA14543nsn",
+      "FMA76891",
+      "FMA76892",
+      "FMA76893"
+    ]
+  },
+  {
+    "id": "apendice",
+    "sistema": "digestorio",
+    "nome": "Apêndice vermiforme",
+    "nomeLatim": "Appendix vermiformis",
+    "pecas": [
+      "^appendix$"
+    ],
+    "localizacao": "Preso ao ceco, na fossa ilíaca direita; posição mais frequente é retrocecal.",
+    "funcao": "Órgão linfoide associado ao intestino; reservatório de microbiota.",
+    "irrigacao": "Artéria apendicular, ramo da ileocólica.",
+    "curiosidade": "O ponto de McBurney, na união do terço lateral com os dois mediais da linha espinho-umbilical, marca sua projeção na parede.",
+    "fmaIds": [
+      "FMA14542"
+    ]
+  },
+  {
+    "id": "reto",
+    "sistema": "digestorio",
+    "nome": "Reto",
+    "nomeLatim": "Rectum",
+    "pecas": [
+      "^rectum$"
+    ],
+    "localizacao": "Porção terminal do intestino grosso, na pelve, à frente do sacro.",
+    "funcao": "Armazena as fezes e desencadeia o reflexo da defecação.",
+    "irrigacao": "Artérias retais superior (mesentérica inferior), média (ilíaca interna) e inferior (pudenda interna).",
+    "curiosidade": "As anastomoses entre as veias retais superior e inferior ligam os sistemas porta e cava — origem das hemorroidas.",
+    "fmaIds": [
+      "FMA14544"
+    ]
+  },
+  {
+    "id": "figado",
+    "sistema": "digestorio",
+    "nome": "Fígado",
+    "nomeLatim": "Hepar",
+    "pecas": [
+      "^liver$"
+    ],
+    "localizacao": "Hipocôndrio direito e epigástrio, sob a cúpula diafragmática direita.",
+    "funcao": "Metaboliza nutrientes, sintetiza proteínas plasmáticas e bile, armazena glicogênio e detoxifica substâncias.",
+    "irrigacao": "Artéria hepática própria (30 %) e veia porta (70 %); drena pelas veias hepáticas para a cava inferior.",
+    "relacoes": "Acima da vesícula biliar, do estômago, do duodeno e da flexura direita do colo.",
+    "curiosidade": "É a maior glândula do corpo, com cerca de 1,5 kg, e o órgão com maior capacidade de regeneração.",
+    "fmaIds": [
+      "FMA7197"
+    ]
+  },
+  {
+    "id": "vesicula-biliar",
+    "sistema": "digestorio",
+    "nome": "Vesícula biliar",
+    "nomeLatim": "Vesica biliaris",
+    "pecas": [
+      "^gallbladder$"
+    ],
+    "localizacao": "Fossa na face visceral do fígado, entre os lobos direito e quadrado.",
+    "funcao": "Armazena e concentra a bile, liberando-a no duodeno em resposta à colecistocinina.",
+    "irrigacao": "Artéria cística, ramo da hepática direita.",
+    "curiosidade": "Seu fundo se projeta no ponto onde a linha hemiclavicular direita cruza o rebordo costal — o ponto cístico.",
+    "fmaIds": [
+      "FMA7202"
+    ]
+  },
+  {
+    "id": "pancreas",
+    "sistema": "digestorio",
+    "nome": "Pâncreas",
+    "nomeLatim": "Pancreas",
+    "pecas": [
+      "^pancreas",
+      "^pancreatic duct$"
+    ],
+    "localizacao": "Retroperitoneal, atravessando o abdome de C do duodeno até o hilo do baço.",
+    "funcao": "Exócrina: secreta enzimas digestivas e bicarbonato. Endócrina: as ilhotas pancreáticas produzem insulina e glucagon.",
+    "irrigacao": "Artérias pancreaticoduodenais e ramos da esplênica.",
+    "acidentes": "Cabeça, processo uncinado, colo, corpo e cauda; ductos pancreático principal e acessório.",
+    "fmaIds": [
+      "FMA10419",
+      "FMA7198nsn"
+    ]
+  },
+  {
+    "id": "dentes",
+    "sistema": "digestorio",
+    "nome": "Dentes permanentes",
+    "nomeLatim": "Dentes permanentes",
+    "pecas": [
+      "tooth$",
+      "gingiva of (lower|upper) jaw"
+    ],
+    "localizacao": "Alvéolos dos processos alveolares da maxila e da mandíbula.",
+    "funcao": "Cortam (incisivos), rasgam (caninos) e trituram (pré-molares e molares) o alimento; participam da fonação.",
+    "irrigacao": "Artérias alveolares superiores e inferior.",
+    "inervacao": "Ramos maxilar (V2) e mandibular (V3) do nervo trigêmeo.",
+    "curiosidade": "A dentição permanente tem 32 dentes; a fórmula por hemiarcada é 2 incisivos, 1 canino, 2 pré-molares e 3 molares.",
+    "fmaIds": [
+      "FMA55680",
+      "FMA55681",
+      "FMA55682",
+      "FMA55683",
+      "FMA55686",
+      "FMA55687",
+      "FMA55688",
+      "FMA55689",
+      "FMA55690",
+      "FMA55691",
+      "FMA55692",
+      "FMA55693",
+      "FMA55694",
+      "FMA55695",
+      "FMA55697",
+      "FMA55698",
+      "FMA55699",
+      "FMA55700",
+      "FMA55703",
+      "FMA55704",
+      "FMA55705",
+      "FMA55706",
+      "FMA55798",
+      "FMA55799",
+      "FMA57140",
+      "FMA57141",
+      "FMA57142",
+      "FMA57143",
+      "FMA59763",
+      "FMA59764"
+    ]
+  },
+  {
+    "id": "labios-e-boca",
+    "sistema": "digestorio",
+    "nome": "Lábios e vestíbulo da boca",
+    "nomeLatim": "Labia oris et vestibulum oris",
+    "pecas": [
+      "labial part of mouth"
+    ],
+    "localizacao": "Entrada da cavidade oral, entre a pele da face e a mucosa oral.",
+    "funcao": "Delimitam a rima da boca, participam da apreensão do alimento, da sucção e da articulação da fala.",
+    "irrigacao": "Artérias labiais superior e inferior, ramos da facial.",
+    "inervacao": "Sensitiva pelo trigêmeo (V2 e V3); motora pelo nervo facial (VII).",
+    "fmaIds": [
+      "FMA59815nsn"
+    ]
+  }
+]

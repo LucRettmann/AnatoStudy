@@ -1,0 +1,1858 @@
+[
+  {
+    "id": "esternocleidomastoideo",
+    "sistema": "muscular",
+    "nome": "Esternocleidomastóideo",
+    "nomeLatim": "Musculus sternocleidomastoideus",
+    "sinonimos": [
+      "ECOM",
+      "esternocleido"
+    ],
+    "pecas": [
+      "^(right|left) sternocleidomastoid$"
+    ],
+    "localizacao": "Face lateral do pescoço, formando o relevo oblíquo que separa os trígonos cervicais anterior e posterior.",
+    "origem": "Cabeça esternal: face anterior do manúbrio do esterno. Cabeça clavicular: terço medial da clavícula.",
+    "insercao": "Processo mastoide do osso temporal e metade lateral da linha nucal superior do occipital.",
+    "acao": "Unilateral: inclina a cabeça para o mesmo lado e roda a face para o lado oposto. Bilateral: flete o pescoço e, com a cabeça fixa, auxilia a inspiração forçada.",
+    "inervacao": "Nervo acessório (XI) para a motricidade; ramos de C2–C3 para a propriocepção.",
+    "curiosidade": "É o principal referência anatômica do pescoço: quase todas as descrições de trígonos cervicais partem das suas margens.",
+    "fmaIds": [
+      "FMA13408",
+      "FMA13409"
+    ]
+  },
+  {
+    "id": "trapezio",
+    "sistema": "muscular",
+    "nome": "Trapézio",
+    "nomeLatim": "Musculus trapezius",
+    "pecas": [
+      "(descending|transverse|ascending) part of (right|left) trapezius"
+    ],
+    "localizacao": "Região posterior do pescoço e do dorso superior, superficial, cobrindo a nuca e a cintura escapular.",
+    "origem": "Linha nucal superior, protuberância occipital externa, ligamento nucal e processos espinhosos de C7 a T12.",
+    "insercao": "Terço lateral da clavícula, acrômio e espinha da escápula.",
+    "acao": "Parte descendente eleva a escápula; parte transversa a retrai; parte ascendente a deprime. Em conjunto, rodam a escápula para cima na elevação do braço.",
+    "inervacao": "Nervo acessório (XI), com contribuição sensitiva de C3–C4.",
+    "curiosidade": "As três partes podem agir de forma independente — por isso o modelo 3D as separa.",
+    "fmaIds": [
+      "FMA33581",
+      "FMA33583",
+      "FMA33584",
+      "FMA33585",
+      "FMA33586",
+      "FMA33587"
+    ]
+  },
+  {
+    "id": "platisma",
+    "sistema": "muscular",
+    "nome": "Platisma",
+    "nomeLatim": "Platysma",
+    "pecas": [
+      "^(right|left) platysma$"
+    ],
+    "localizacao": "Lâmina muscular delgada no tecido subcutâneo da região anterolateral do pescoço.",
+    "origem": "Fáscia que recobre os músculos peitoral maior e deltoide.",
+    "insercao": "Margem inferior da mandíbula e pele da face inferior e do ângulo da boca.",
+    "acao": "Tensiona a pele do pescoço, deprime a mandíbula e traciona o ângulo da boca para baixo (expressão de tensão ou susto).",
+    "inervacao": "Ramo cervical do nervo facial (VII).",
+    "fmaIds": [
+      "FMA45739",
+      "FMA45740"
+    ]
+  },
+  {
+    "id": "temporal",
+    "sistema": "muscular",
+    "nome": "Temporal",
+    "nomeLatim": "Musculus temporalis",
+    "pecas": [
+      "^(right|left) temporalis$"
+    ],
+    "localizacao": "Fossa temporal, em forma de leque, passando profundamente ao arco zigomático.",
+    "origem": "Assoalho da fossa temporal e fáscia temporal.",
+    "insercao": "Processo coronoide e margem anterior do ramo da mandíbula.",
+    "acao": "Eleva a mandíbula (fechamento da boca); as fibras posteriores fazem a retrusão.",
+    "inervacao": "Nervos temporais profundos, do ramo mandibular do trigêmeo (V3).",
+    "fmaIds": [
+      "FMA49007",
+      "FMA49008"
+    ]
+  },
+  {
+    "id": "masseter",
+    "sistema": "muscular",
+    "nome": "Masseter",
+    "nomeLatim": "Musculus masseter",
+    "pecas": [
+      "(superficial|deep) part of (right|left) masseter"
+    ],
+    "localizacao": "Face lateral do ramo da mandíbula; é o músculo da mastigação mais superficial e palpável ao cerrar os dentes.",
+    "origem": "Parte superficial: arco zigomático (dois terços anteriores). Parte profunda: face medial do arco zigomático.",
+    "insercao": "Face lateral do ramo e do ângulo da mandíbula (tuberosidade massetérica).",
+    "acao": "Eleva a mandíbula com grande força; a parte superficial auxilia a protrusão.",
+    "inervacao": "Nervo massetérico, do ramo mandibular do trigêmeo (V3).",
+    "fmaIds": [
+      "FMA49001",
+      "FMA49002",
+      "FMA49004",
+      "FMA49005"
+    ]
+  },
+  {
+    "id": "pterigoideo-lateral",
+    "sistema": "muscular",
+    "nome": "Pterigóideos lateral e medial",
+    "nomeLatim": "Musculi pterygoidei lateralis et medialis",
+    "pecas": [
+      "(upper|lower) head of (right|left) lateral pterygoid",
+      "^(right|left) medial pterygoid$"
+    ],
+    "localizacao": "Fossa infratemporal, profundamente ao ramo da mandíbula.",
+    "origem": "Cabeça superior: face infratemporal da asa maior do esfenoide. Cabeça inferior: face lateral da lâmina pterigóidea lateral.",
+    "insercao": "Lateral: fóvea pterigóidea do colo da mandíbula e disco da ATM. Medial: face medial do ângulo da mandíbula.",
+    "acao": "O lateral protrai a mandíbula e abre a boca; o medial a eleva e auxilia a protrusão e os movimentos de lateralidade.",
+    "inervacao": "Nervos pterigóideos lateral e medial, do ramo mandibular do trigêmeo (V3).",
+    "curiosidade": "É o único músculo mastigatório que abre a boca — os demais fecham.",
+    "fmaIds": [
+      "FMA49012",
+      "FMA49013",
+      "FMA49022",
+      "FMA49023",
+      "FMA49024",
+      "FMA49025"
+    ]
+  },
+  {
+    "id": "orbicular-da-boca",
+    "sistema": "muscular",
+    "nome": "Orbicular da boca",
+    "nomeLatim": "Musculus orbicularis oris",
+    "pecas": [
+      "^orbicularis oris$"
+    ],
+    "localizacao": "Esfíncter que circunda a rima da boca, na espessura dos lábios.",
+    "origem": "Fibras vindas dos demais músculos periorais e da maxila e mandíbula, próximo à linha mediana.",
+    "insercao": "Pele e mucosa dos lábios, convergindo nos modíolos.",
+    "acao": "Fecha, comprime e projeta os lábios (assobiar, beijar, articular fonemas bilabiais).",
+    "inervacao": "Ramos bucal e marginal da mandíbula do nervo facial (VII).",
+    "fmaIds": [
+      "FMA46841"
+    ]
+  },
+  {
+    "id": "orbicular-do-olho",
+    "sistema": "muscular",
+    "nome": "Orbicular do olho",
+    "nomeLatim": "Musculus orbicularis oculi",
+    "pecas": [
+      "(orbital|palpebral) part of (right|left) orbicularis oculi"
+    ],
+    "localizacao": "Circunda a órbita e ocupa as pálpebras, dividido em partes orbital, palpebral e lacrimal.",
+    "origem": "Parte medial da margem orbital, ligamento palpebral medial e osso lacrimal.",
+    "insercao": "Pele ao redor da órbita e rafe palpebral lateral.",
+    "acao": "Parte palpebral: piscar suave e reflexo corneano. Parte orbital: fechamento forçado das pálpebras.",
+    "inervacao": "Ramos temporal e zigomático do nervo facial (VII).",
+    "fmaIds": [
+      "FMA46782",
+      "FMA46783",
+      "FMA46785",
+      "FMA46786"
+    ]
+  },
+  {
+    "id": "frontal-occipital",
+    "sistema": "muscular",
+    "nome": "Occipitofrontal",
+    "nomeLatim": "Musculus occipitofrontalis",
+    "sinonimos": [
+      "epicrânio",
+      "ventre frontal",
+      "ventre occipital"
+    ],
+    "pecas": [
+      "^(right|left) (frontalis|occipitalis)$",
+      "^aponeurosis of epicranius$"
+    ],
+    "localizacao": "Calota craniana: ventre frontal na fronte, ventre occipital na nuca, unidos pela gálea aponeurótica.",
+    "origem": "Ventre occipital: linha nucal superior. Ventre frontal: pele das sobrancelhas e glabela.",
+    "insercao": "Aponeurose epicrânica (gálea aponeurótica).",
+    "acao": "Eleva as sobrancelhas e enruga a fronte (expressão de surpresa); traciona o couro cabeludo.",
+    "inervacao": "Nervo facial (VII) — ramos temporais e auricular posterior.",
+    "fmaIds": [
+      "FMA46759",
+      "FMA46760",
+      "FMA46761",
+      "FMA46762",
+      "FMA46768"
+    ]
+  },
+  {
+    "id": "digastrico",
+    "sistema": "muscular",
+    "nome": "Digástrico",
+    "nomeLatim": "Musculus digastricus",
+    "pecas": [
+      "(anterior|posterior) belly of (right|left) digastric",
+      "^(right|left) intermediate tendon$",
+      "^(right|left) stylohyoid$"
+    ],
+    "localizacao": "Região supra-hióidea, com dois ventres unidos por um tendão intermédio preso ao hioide.",
+    "origem": "Ventre anterior: fossa digástrica da mandíbula. Ventre posterior: incisura mastóidea do temporal.",
+    "insercao": "Tendão intermédio fixado ao corpo e ao corno maior do hioide por uma alça fibrosa.",
+    "acao": "Eleva o hioide na deglutição; com o hioide fixo, deprime a mandíbula.",
+    "inervacao": "Ventre anterior: nervo milo-hióideo (V3). Ventre posterior: nervo facial (VII).",
+    "curiosidade": "É o exemplo clássico de músculo com inervação dupla, reflexo da sua origem embriológica em dois arcos faríngeos.",
+    "fmaIds": [
+      "FMA258850",
+      "FMA264840",
+      "FMA45826",
+      "FMA45827",
+      "FMA46304",
+      "FMA46305",
+      "FMA46306",
+      "FMA46307"
+    ]
+  },
+  {
+    "id": "milo-hioideo",
+    "sistema": "muscular",
+    "nome": "Milo-hióideo e gênio-hióideo",
+    "nomeLatim": "Musculi mylohyoideus et geniohyoideus",
+    "pecas": [
+      "^(right|left) mylohyoid$",
+      "^(right|left) geniohyoid$"
+    ],
+    "localizacao": "Forma o assoalho da cavidade oral, entre os dois ramos da mandíbula.",
+    "origem": "Linha milo-hióidea da mandíbula.",
+    "insercao": "Rafe milo-hióidea mediana e corpo do hioide.",
+    "acao": "Eleva o assoalho da boca e o hioide na deglutição; auxilia a depressão da mandíbula.",
+    "inervacao": "Nervo milo-hióideo, do ramo mandibular do trigêmeo (V3).",
+    "fmaIds": [
+      "FMA46321",
+      "FMA46322",
+      "FMA46326",
+      "FMA46327"
+    ]
+  },
+  {
+    "id": "escalenos",
+    "sistema": "muscular",
+    "nome": "Escalenos",
+    "nomeLatim": "Musculi scaleni",
+    "pecas": [
+      "^(right|left) scalenus (anterior|medius|posterior)$"
+    ],
+    "localizacao": "Região lateral profunda do pescoço, entre a coluna cervical e as duas primeiras costelas.",
+    "origem": "Tubérculos anteriores e posteriores dos processos transversos das vértebras cervicais.",
+    "insercao": "Escaleno anterior e médio na 1ª costela; escaleno posterior na 2ª costela.",
+    "acao": "Elevam as costelas na inspiração; inclinam e rodam a coluna cervical.",
+    "inervacao": "Ramos anteriores dos nervos cervicais (C3–C8).",
+    "curiosidade": "O plexo braquial e a artéria subclávia passam entre os escalenos anterior e médio — o espaço interescalênico, sede da síndrome do desfiladeiro torácico.",
+    "fmaIds": [
+      "FMA13388",
+      "FMA13389",
+      "FMA13390",
+      "FMA13391",
+      "FMA13392",
+      "FMA13393"
+    ]
+  },
+  {
+    "id": "peitoral-maior",
+    "sistema": "muscular",
+    "nome": "Peitoral maior",
+    "nomeLatim": "Musculus pectoralis major",
+    "pecas": [
+      "(clavicular|sternocostal|abdominal) part of (right|left) pectoralis major"
+    ],
+    "localizacao": "Parede anterior do tórax, superficial, formando a prega axilar anterior.",
+    "origem": "Parte clavicular: metade medial da clavícula. Parte esternocostal: esterno e cartilagens costais 1–6. Parte abdominal: aponeurose do oblíquo externo.",
+    "insercao": "Crista do tubérculo maior do úmero (lábio lateral do sulco intertubercular).",
+    "acao": "Adução e rotação medial do braço; a parte clavicular flete e a esternocostal estende o braço fletido.",
+    "inervacao": "Nervos peitorais lateral e medial (C5–T1).",
+    "fmaIds": [
+      "FMA34690",
+      "FMA34691",
+      "FMA45874",
+      "FMA45875",
+      "FMA79979",
+      "FMA79980"
+    ]
+  },
+  {
+    "id": "peitoral-menor",
+    "sistema": "muscular",
+    "nome": "Peitoral menor",
+    "nomeLatim": "Musculus pectoralis minor",
+    "pecas": [
+      "^(right|left) pectoralis minor$"
+    ],
+    "localizacao": "Profundamente ao peitoral maior, na parede anterior da axila.",
+    "origem": "Faces anteriores das 3ª a 5ª costelas.",
+    "insercao": "Processo coracoide da escápula.",
+    "acao": "Deprime e faz a báscula da escápula; eleva as costelas quando a escápula está fixa.",
+    "inervacao": "Nervo peitoral medial (C8–T1).",
+    "curiosidade": "É a referência usada para dividir a artéria axilar em três partes.",
+    "fmaIds": [
+      "FMA13375",
+      "FMA13376"
+    ]
+  },
+  {
+    "id": "serratil-anterior",
+    "sistema": "muscular",
+    "nome": "Serrátil anterior",
+    "nomeLatim": "Musculus serratus anterior",
+    "pecas": [
+      "^(right|left) serratus anterior$"
+    ],
+    "localizacao": "Parede lateral do tórax, entre as costelas e a escápula, com digitações visíveis sob a pele.",
+    "origem": "Faces laterais das 1ª a 8ª (ou 9ª) costelas.",
+    "insercao": "Margem medial da escápula, na sua face costal.",
+    "acao": "Protrai a escápula e a mantém aderida à parede torácica; roda a cavidade glenoidal para cima na elevação do braço.",
+    "inervacao": "Nervo torácico longo (C5–C7).",
+    "curiosidade": "A lesão do nervo torácico longo produz a escápula alada.",
+    "fmaIds": [
+      "FMA13398",
+      "FMA13399"
+    ]
+  },
+  {
+    "id": "latissimo-do-dorso",
+    "sistema": "muscular",
+    "nome": "Latíssimo do dorso",
+    "nomeLatim": "Musculus latissimus dorsi",
+    "sinonimos": [
+      "grande dorsal"
+    ],
+    "pecas": [
+      "^(right|left) latissimus dorsi$"
+    ],
+    "localizacao": "Grande músculo triangular do dorso inferior, formando a prega axilar posterior.",
+    "origem": "Processos espinhosos de T7 a L5, fáscia toracolombar, crista ilíaca e três a quatro costelas inferiores.",
+    "insercao": "Sulco intertubercular do úmero (lábio medial).",
+    "acao": "Extensão, adução e rotação medial do braço; eleva o tronco na barra fixa.",
+    "inervacao": "Nervo toracodorsal (C6–C8).",
+    "fmaIds": [
+      "FMA13358",
+      "FMA13359"
+    ]
+  },
+  {
+    "id": "romboides",
+    "sistema": "muscular",
+    "nome": "Romboides maior e menor",
+    "nomeLatim": "Musculi rhomboidei major et minor",
+    "pecas": [
+      "^(right|left) rhomboid (major|minor)$"
+    ],
+    "localizacao": "Profundamente ao trapézio, entre a coluna e a margem medial da escápula.",
+    "origem": "Menor: ligamento nucal e processos espinhosos de C7–T1. Maior: processos espinhosos de T2–T5.",
+    "insercao": "Margem medial da escápula.",
+    "acao": "Retraem e elevam a escápula, rodando a cavidade glenoidal para baixo.",
+    "inervacao": "Nervo dorsal da escápula (C4–C5).",
+    "fmaIds": [
+      "FMA13381",
+      "FMA13382",
+      "FMA13383",
+      "FMA13384"
+    ]
+  },
+  {
+    "id": "levantador-da-escapula",
+    "sistema": "muscular",
+    "nome": "Levantador da escápula",
+    "nomeLatim": "Musculus levator scapulae",
+    "pecas": [
+      "^(right|left) levator scapulae$"
+    ],
+    "localizacao": "Região posterolateral do pescoço, profundamente ao trapézio.",
+    "origem": "Processos transversos das vértebras C1–C4.",
+    "insercao": "Margem medial da escápula, acima da espinha.",
+    "acao": "Eleva a escápula e inclina a cavidade glenoidal para baixo; inclina o pescoço lateralmente.",
+    "inervacao": "Nervo dorsal da escápula (C5) e ramos de C3–C4.",
+    "fmaIds": [
+      "FMA32540",
+      "FMA32541"
+    ]
+  },
+  {
+    "id": "intercostais",
+    "sistema": "muscular",
+    "nome": "Músculos intercostais",
+    "nomeLatim": "Musculi intercostales",
+    "pecas": [
+      "(external|internal|innermost) intercostal muscle"
+    ],
+    "localizacao": "Ocupam os espaços intercostais em três camadas: externa, interna e íntima.",
+    "origem": "Margem inferior da costela superior de cada espaço.",
+    "insercao": "Margem superior da costela inferior.",
+    "acao": "Intercostais externos elevam as costelas (inspiração); internos e íntimos as deprimem (expiração forçada). Todos estabilizam a parede torácica.",
+    "inervacao": "Nervos intercostais (T1–T11).",
+    "curiosidade": "O feixe vasculonervoso intercostal corre no sulco da costela, entre as camadas interna e íntima — daí a punção torácica ser feita na borda superior da costela inferior.",
+    "fmaIds": [
+      "FMA9756",
+      "FMA9757",
+      "FMA9758"
+    ]
+  },
+  {
+    "id": "reto-do-abdome",
+    "sistema": "muscular",
+    "nome": "Reto do abdome",
+    "nomeLatim": "Musculus rectus abdominis",
+    "pecas": [
+      "^(right|left) rectus abdominis$",
+      "^(right|left) pyramidalis$",
+      "^linea alba$"
+    ],
+    "localizacao": "Faixa vertical par na parede anterior do abdome, dentro da bainha do reto, separada pela linha alba.",
+    "origem": "Sínfise púbica e crista do púbis.",
+    "insercao": "Processo xifoide e cartilagens das costelas 5 a 7.",
+    "acao": "Flexão do tronco, compressão das vísceras abdominais e retroversão da pelve.",
+    "inervacao": "Ramos anteriores dos nervos torácicos T7–T12.",
+    "curiosidade": "As intersecções tendíneas dividem o músculo e produzem o desenho do \"tanquinho\".",
+    "fmaIds": [
+      "FMA11336",
+      "FMA13377",
+      "FMA13378",
+      "FMA22346",
+      "FMA22347"
+    ]
+  },
+  {
+    "id": "obliquo-externo",
+    "sistema": "muscular",
+    "nome": "Oblíquo externo do abdome",
+    "nomeLatim": "Musculus obliquus externus abdominis",
+    "pecas": [
+      "^(right|left) external oblique$",
+      "^(right|left) inguinal ligament$"
+    ],
+    "localizacao": "Camada mais superficial da parede anterolateral do abdome; fibras dirigidas para baixo e para a frente.",
+    "origem": "Faces externas das costelas 5 a 12.",
+    "insercao": "Crista ilíaca, linha alba e tubérculo púbico, pela sua aponeurose.",
+    "acao": "Flexão e rotação contralateral do tronco; aumenta a pressão intra-abdominal.",
+    "inervacao": "Nervos toracoabdominais T7–T11, subcostal e ílio-hipogástrico.",
+    "curiosidade": "A margem inferior espessada da sua aponeurose forma o ligamento inguinal.",
+    "fmaIds": [
+      "FMA13336",
+      "FMA13337",
+      "FMA21964",
+      "FMA21965"
+    ]
+  },
+  {
+    "id": "obliquo-interno",
+    "sistema": "muscular",
+    "nome": "Oblíquo interno do abdome",
+    "nomeLatim": "Musculus obliquus internus abdominis",
+    "pecas": [
+      "^(right|left) internal oblique$"
+    ],
+    "localizacao": "Camada intermédia da parede anterolateral do abdome; fibras perpendiculares às do oblíquo externo.",
+    "origem": "Fáscia toracolombar, crista ilíaca e ligamento inguinal.",
+    "insercao": "Costelas 10 a 12, linha alba e crista púbica.",
+    "acao": "Flexão e rotação ipsilateral do tronco; compressão abdominal.",
+    "inervacao": "Nervos toracoabdominais T7–T12 e ílio-inguinal.",
+    "fmaIds": [
+      "FMA13892",
+      "FMA13893"
+    ]
+  },
+  {
+    "id": "transverso-do-abdome",
+    "sistema": "muscular",
+    "nome": "Transverso do abdome",
+    "nomeLatim": "Musculus transversus abdominis",
+    "pecas": [
+      "^(right|left) transversus abdominis$"
+    ],
+    "localizacao": "Camada mais profunda da parede anterolateral do abdome, com fibras horizontais.",
+    "origem": "Cartilagens costais 7–12, fáscia toracolombar, crista ilíaca e ligamento inguinal.",
+    "insercao": "Linha alba, crista púbica e linha pectínea.",
+    "acao": "Comprime as vísceras abdominais e estabiliza o tronco — é o principal músculo do \"cinturão\" abdominal.",
+    "inervacao": "Nervos toracoabdominais T7–T12, ílio-hipogástrico e ílio-inguinal.",
+    "fmaIds": [
+      "FMA22344",
+      "FMA22345"
+    ]
+  },
+  {
+    "id": "quadrado-lombar",
+    "sistema": "muscular",
+    "nome": "Quadrado lombar",
+    "nomeLatim": "Musculus quadratus lumborum",
+    "pecas": [
+      "^(right|left) quadratus lumborum$"
+    ],
+    "localizacao": "Parede posterior do abdome, entre a 12ª costela e a crista ilíaca.",
+    "origem": "Crista ilíaca e ligamento iliolombar.",
+    "insercao": "12ª costela e processos transversos de L1–L4.",
+    "acao": "Inclina o tronco lateralmente, fixa a 12ª costela na inspiração e estabiliza a coluna lombar.",
+    "inervacao": "Nervo subcostal e ramos do plexo lombar (T12–L4).",
+    "fmaIds": [
+      "FMA22348",
+      "FMA22349"
+    ]
+  },
+  {
+    "id": "eretor-da-espinha",
+    "sistema": "muscular",
+    "nome": "Eretor da espinha",
+    "nomeLatim": "Musculus erector spinae",
+    "sinonimos": [
+      "massa comum",
+      "iliocostal",
+      "longuíssimo",
+      "espinal"
+    ],
+    "pecas": [
+      "^(right|left) iliocostalis (cervicis|thoracis|lumborum)$",
+      "^(right|left) longissimus (capitis|cervicis|thoracis)$",
+      "^(right|left) spinalis (cervicis|thoracis)$"
+    ],
+    "localizacao": "Coluna muscular vertical que ocupa o sulco entre os processos espinhosos e os ângulos das costelas, do sacro ao crânio.",
+    "origem": "Tendão comum na face posterior do sacro, crista ilíaca e processos espinhosos lombares.",
+    "insercao": "Costelas, processos transversos e espinhosos das vértebras e processo mastoide (coluna do longuíssimo da cabeça).",
+    "acao": "Extensão e inclinação lateral da coluna; controla excentricamente a flexão do tronco.",
+    "inervacao": "Ramos posteriores dos nervos espinais.",
+    "curiosidade": "Divide-se em três colunas, de lateral para medial: iliocostal, longuíssimo e espinal.",
+    "fmaIds": [
+      "FMA22740",
+      "FMA22741",
+      "FMA22742",
+      "FMA22743",
+      "FMA22744",
+      "FMA22745",
+      "FMA22751",
+      "FMA22753",
+      "FMA22754",
+      "FMA22756",
+      "FMA22757",
+      "FMA22758",
+      "FMA22779",
+      "FMA22780",
+      "FMA22781",
+      "FMA22782"
+    ]
+  },
+  {
+    "id": "multifido",
+    "sistema": "muscular",
+    "nome": "Multífido",
+    "nomeLatim": "Musculus multifidus",
+    "pecas": [
+      "^(right|left) multifidus$",
+      "^(right|left) (cervical|thoracic|lumbar) rotator$",
+      "^(right|left) semispinalis (capitis|cervicis|thoracis)$"
+    ],
+    "localizacao": "Camada profunda dos músculos do dorso (grupo transversoespinal), preenchendo o sulco ao lado dos processos espinhosos.",
+    "origem": "Sacro, processos mamilares lombares, processos transversos torácicos e articulares cervicais.",
+    "insercao": "Processos espinhosos de duas a quatro vértebras acima.",
+    "acao": "Estabiliza segmento a segmento a coluna; produz extensão e rotação contralateral.",
+    "inervacao": "Ramos posteriores dos nervos espinais.",
+    "curiosidade": "Tem papel central na estabilidade lombar e é o alvo típico dos exercícios de \"core\".",
+    "fmaIds": [
+      "FMA22872",
+      "FMA22873",
+      "FMA22874",
+      "FMA22875",
+      "FMA22876",
+      "FMA22877",
+      "FMA22878",
+      "FMA22879",
+      "FMA23089",
+      "FMA23090",
+      "FMA81752",
+      "FMA81753"
+    ]
+  },
+  {
+    "id": "deltoide",
+    "sistema": "muscular",
+    "nome": "Deltoide",
+    "nomeLatim": "Musculus deltoideus",
+    "pecas": [
+      "(clavicular|acromial|spinal) part of (right|left) deltoid"
+    ],
+    "localizacao": "Envolve a articulação do ombro, dando-lhe o contorno arredondado.",
+    "origem": "Terço lateral da clavícula, acrômio e espinha da escápula.",
+    "insercao": "Tuberosidade deltóidea do úmero.",
+    "acao": "Parte acromial: abdução do braço acima de 15°. Parte clavicular: flexão e rotação medial. Parte espinal: extensão e rotação lateral.",
+    "inervacao": "Nervo axilar (C5–C6).",
+    "curiosidade": "A lesão do nervo axilar (comum em luxações do ombro) causa atrofia deltóidea e perda da abdução.",
+    "fmaIds": [
+      "FMA34680",
+      "FMA34681",
+      "FMA34682",
+      "FMA34683",
+      "FMA34684",
+      "FMA34685"
+    ]
+  },
+  {
+    "id": "supraespinal",
+    "sistema": "muscular",
+    "nome": "Supraespinal",
+    "nomeLatim": "Musculus supraspinatus",
+    "pecas": [
+      "^(right|left) supraspinatus$"
+    ],
+    "localizacao": "Fossa supraespinal da escápula; seu tendão passa sob o acrômio.",
+    "origem": "Fossa supraespinal da escápula.",
+    "insercao": "Faceta superior do tubérculo maior do úmero.",
+    "acao": "Inicia a abdução do braço (primeiros 15°) e estabiliza a cabeça do úmero.",
+    "inervacao": "Nervo supraescapular (C5–C6).",
+    "curiosidade": "É o tendão mais lesado do manguito rotador, por atrito no espaço subacromial.",
+    "fmaIds": [
+      "FMA32544",
+      "FMA32545"
+    ]
+  },
+  {
+    "id": "infraespinal",
+    "sistema": "muscular",
+    "nome": "Infraespinal",
+    "nomeLatim": "Musculus infraspinatus",
+    "pecas": [
+      "^(right|left) infraspinatus muscle$"
+    ],
+    "localizacao": "Fossa infraespinal da escápula, abaixo da espinha.",
+    "origem": "Fossa infraespinal da escápula.",
+    "insercao": "Faceta média do tubérculo maior do úmero.",
+    "acao": "Rotação lateral do braço; estabiliza a articulação do ombro.",
+    "inervacao": "Nervo supraescapular (C5–C6).",
+    "fmaIds": [
+      "FMA32547",
+      "FMA32548"
+    ]
+  },
+  {
+    "id": "redondo-menor",
+    "sistema": "muscular",
+    "nome": "Redondo menor",
+    "nomeLatim": "Musculus teres minor",
+    "pecas": [
+      "^(right|left) teres minor$"
+    ],
+    "localizacao": "Margem lateral da escápula, acima do redondo maior.",
+    "origem": "Margem lateral da escápula.",
+    "insercao": "Faceta inferior do tubérculo maior do úmero.",
+    "acao": "Rotação lateral e adução do braço; estabilizador do manguito rotador.",
+    "inervacao": "Nervo axilar (C5–C6).",
+    "fmaIds": [
+      "FMA32553",
+      "FMA32554"
+    ]
+  },
+  {
+    "id": "subescapular",
+    "sistema": "muscular",
+    "nome": "Subescapular",
+    "nomeLatim": "Musculus subscapularis",
+    "pecas": [
+      "^(right|left) subscapularis$"
+    ],
+    "localizacao": "Face costal (anterior) da escápula, entre ela e a parede torácica.",
+    "origem": "Fossa subescapular.",
+    "insercao": "Tubérculo menor do úmero.",
+    "acao": "Rotação medial do braço; é o componente anterior do manguito rotador.",
+    "inervacao": "Nervos subescapulares superior e inferior (C5–C6).",
+    "fmaIds": [
+      "FMA13414",
+      "FMA13415"
+    ]
+  },
+  {
+    "id": "redondo-maior",
+    "sistema": "muscular",
+    "nome": "Redondo maior",
+    "nomeLatim": "Musculus teres major",
+    "pecas": [
+      "^(right|left) teres major$"
+    ],
+    "localizacao": "Ângulo inferior da escápula até o úmero, formando a prega axilar posterior com o latíssimo do dorso.",
+    "origem": "Face posterior do ângulo inferior da escápula.",
+    "insercao": "Crista do tubérculo menor do úmero.",
+    "acao": "Adução, extensão e rotação medial do braço.",
+    "inervacao": "Nervo subescapular inferior (C5–C6).",
+    "fmaIds": [
+      "FMA32551",
+      "FMA32552"
+    ]
+  },
+  {
+    "id": "biceps-braquial",
+    "sistema": "muscular",
+    "nome": "Bíceps braquial",
+    "nomeLatim": "Musculus biceps brachii",
+    "sinonimos": [
+      "bíceps"
+    ],
+    "pecas": [
+      "(long|short) head of (right|left) biceps brachii"
+    ],
+    "localizacao": "Compartimento anterior do braço, superficial ao braquial.",
+    "origem": "Cabeça longa: tubérculo supraglenoidal da escápula. Cabeça curta: processo coracoide.",
+    "insercao": "Tuberosidade do rádio e, pela aponeurose bicipital, na fáscia do antebraço.",
+    "acao": "Flexão do cotovelo e supinação do antebraço; auxilia a flexão do ombro.",
+    "inervacao": "Nervo musculocutâneo (C5–C6).",
+    "curiosidade": "É o supinador mais potente quando o cotovelo está fletido a 90° — por isso os parafusos têm rosca destra.",
+    "fmaIds": [
+      "FMA37684",
+      "FMA37685",
+      "FMA37686",
+      "FMA37687"
+    ]
+  },
+  {
+    "id": "braquial",
+    "sistema": "muscular",
+    "nome": "Braquial",
+    "nomeLatim": "Musculus brachialis",
+    "pecas": [
+      "^(right|left) brachialis$"
+    ],
+    "localizacao": "Compartimento anterior do braço, profundamente ao bíceps.",
+    "origem": "Metade distal da face anterior do úmero.",
+    "insercao": "Tuberosidade da ulna e processo coronoide.",
+    "acao": "Flexor puro do cotovelo, em qualquer posição do antebraço.",
+    "inervacao": "Nervo musculocutâneo (C5–C6), com contribuição do radial.",
+    "fmaIds": [
+      "FMA37668",
+      "FMA37669"
+    ]
+  },
+  {
+    "id": "coracobraquial",
+    "sistema": "muscular",
+    "nome": "Coracobraquial",
+    "nomeLatim": "Musculus coracobrachialis",
+    "pecas": [
+      "^(right|left) coracobrachialis$"
+    ],
+    "localizacao": "Compartimento anterior do braço, na sua porção medial e proximal.",
+    "origem": "Processo coracoide da escápula.",
+    "insercao": "Terço médio da face medial do úmero.",
+    "acao": "Flexão e adução do braço.",
+    "inervacao": "Nervo musculocutâneo (C5–C7), que o perfura.",
+    "fmaIds": [
+      "FMA37665",
+      "FMA37666"
+    ]
+  },
+  {
+    "id": "triceps-braquial",
+    "sistema": "muscular",
+    "nome": "Tríceps braquial",
+    "nomeLatim": "Musculus triceps brachii",
+    "sinonimos": [
+      "tríceps"
+    ],
+    "pecas": [
+      "(long|lateral|medial) head of (right|left) triceps brachii"
+    ],
+    "localizacao": "Ocupa todo o compartimento posterior do braço.",
+    "origem": "Cabeça longa: tubérculo infraglenoidal da escápula. Cabeças lateral e medial: face posterior do úmero.",
+    "insercao": "Olécrano da ulna.",
+    "acao": "Extensão do cotovelo; a cabeça longa auxilia a extensão e adução do braço.",
+    "inervacao": "Nervo radial (C6–C8).",
+    "curiosidade": "O nervo radial e a artéria braquial profunda correm no sulco do nervo radial, entre as cabeças lateral e medial.",
+    "fmaIds": [
+      "FMA37695",
+      "FMA37696",
+      "FMA37697",
+      "FMA37698",
+      "FMA37699",
+      "FMA37700"
+    ]
+  },
+  {
+    "id": "anconeo",
+    "sistema": "muscular",
+    "nome": "Ancôneo",
+    "nomeLatim": "Musculus anconeus",
+    "pecas": [
+      "^(right|left) anconeus$"
+    ],
+    "localizacao": "Pequeno músculo triangular na face posterolateral do cotovelo.",
+    "origem": "Epicôndilo lateral do úmero.",
+    "insercao": "Face lateral do olécrano e face posterior da ulna.",
+    "acao": "Auxilia a extensão do cotovelo e estabiliza a articulação durante a pronossupinação.",
+    "inervacao": "Nervo radial (C7–C8).",
+    "fmaIds": [
+      "FMA37705",
+      "FMA37706"
+    ]
+  },
+  {
+    "id": "braquiorradial",
+    "sistema": "muscular",
+    "nome": "Braquiorradial",
+    "nomeLatim": "Musculus brachioradialis",
+    "pecas": [
+      "^(right|left) brachioradialis$"
+    ],
+    "localizacao": "Margem lateral do antebraço, formando o relevo lateral quando se flete o cotovelo em posição neutra.",
+    "origem": "Crista supracondilar lateral do úmero.",
+    "insercao": "Processo estiloide do rádio.",
+    "acao": "Flexão do cotovelo, sobretudo com o antebraço em posição neutra.",
+    "inervacao": "Nervo radial (C5–C6).",
+    "curiosidade": "É um flexor inervado pelo radial — a exceção que confirma a regra dos compartimentos.",
+    "fmaIds": [
+      "FMA38486",
+      "FMA38487"
+    ]
+  },
+  {
+    "id": "pronador-redondo",
+    "sistema": "muscular",
+    "nome": "Pronador redondo",
+    "nomeLatim": "Musculus pronator teres",
+    "pecas": [
+      "(humeral|ulnar) head of (right|left) pronator teres"
+    ],
+    "localizacao": "Região anteromedial e proximal do antebraço; forma a margem medial da fossa cubital.",
+    "origem": "Cabeça umeral: epicôndilo medial. Cabeça ulnar: processo coronoide.",
+    "insercao": "Face lateral média do rádio.",
+    "acao": "Pronação do antebraço e auxílio na flexão do cotovelo.",
+    "inervacao": "Nervo mediano (C6–C7).",
+    "fmaIds": [
+      "FMA38560",
+      "FMA38561",
+      "FMA38562",
+      "FMA38563"
+    ]
+  },
+  {
+    "id": "pronador-quadrado",
+    "sistema": "muscular",
+    "nome": "Pronador quadrado",
+    "nomeLatim": "Musculus pronator quadratus",
+    "pecas": [
+      "^(right|left) pronator quadratus$"
+    ],
+    "localizacao": "Face anterior distal do antebraço, unindo ulna e rádio profundamente aos flexores.",
+    "origem": "Quarto distal da face anterior da ulna.",
+    "insercao": "Quarto distal da face anterior do rádio.",
+    "acao": "Principal pronador do antebraço; mantém rádio e ulna unidos.",
+    "inervacao": "Nervo interósseo anterior, do mediano (C8–T1).",
+    "fmaIds": [
+      "FMA38454",
+      "FMA38455"
+    ]
+  },
+  {
+    "id": "supinador",
+    "sistema": "muscular",
+    "nome": "Supinador",
+    "nomeLatim": "Musculus supinator",
+    "pecas": [
+      "^(right|left) supinator$"
+    ],
+    "localizacao": "Profundamente na face posterolateral do antebraço proximal, envolvendo o colo do rádio.",
+    "origem": "Epicôndilo lateral do úmero, ligamentos colateral radial e anular, crista do supinador da ulna.",
+    "insercao": "Terço proximal da face lateral do rádio.",
+    "acao": "Supinação do antebraço, principalmente com o cotovelo estendido.",
+    "inervacao": "Nervo interósseo posterior, do radial (C6–C7).",
+    "curiosidade": "O ramo profundo do nervo radial atravessa o músculo pela arcada de Frohse, ponto clássico de compressão.",
+    "fmaIds": [
+      "FMA38513",
+      "FMA38514"
+    ]
+  },
+  {
+    "id": "flexor-radial-do-carpo",
+    "sistema": "muscular",
+    "nome": "Flexor radial do carpo",
+    "nomeLatim": "Musculus flexor carpi radialis",
+    "pecas": [
+      "^(right|left) flexor carpi radialis$"
+    ],
+    "localizacao": "Camada superficial do compartimento anterior do antebraço.",
+    "origem": "Epicôndilo medial do úmero (tendão flexor comum).",
+    "insercao": "Base do 2º e 3º metacarpais.",
+    "acao": "Flexão e abdução (desvio radial) do punho.",
+    "inervacao": "Nervo mediano (C6–C7).",
+    "curiosidade": "Seu tendão é a referência para palpar o pulso radial, que corre imediatamente lateral a ele.",
+    "fmaIds": [
+      "FMA38460",
+      "FMA38461"
+    ]
+  },
+  {
+    "id": "flexor-ulnar-do-carpo",
+    "sistema": "muscular",
+    "nome": "Flexor ulnar do carpo",
+    "nomeLatim": "Musculus flexor carpi ulnaris",
+    "pecas": [
+      "(humeral|ulnar) head of (right|left) flexor carpi ulnaris"
+    ],
+    "localizacao": "Margem medial do antebraço, superficial.",
+    "origem": "Cabeça umeral: epicôndilo medial. Cabeça ulnar: olécrano e margem posterior da ulna.",
+    "insercao": "Pisiforme, hâmulo do hamato e base do 5º metacarpal.",
+    "acao": "Flexão e adução (desvio ulnar) do punho.",
+    "inervacao": "Nervo ulnar (C7–T1).",
+    "fmaIds": [
+      "FMA38617",
+      "FMA38618",
+      "FMA38619",
+      "FMA38620"
+    ]
+  },
+  {
+    "id": "palmar-longo",
+    "sistema": "muscular",
+    "nome": "Palmar longo",
+    "nomeLatim": "Musculus palmaris longus",
+    "pecas": [
+      "^(right|left) palmaris longus$",
+      "^flexor retinaculum of (right|left) wrist$"
+    ],
+    "localizacao": "Superficial no antebraço anterior, na linha média do punho.",
+    "origem": "Epicôndilo medial do úmero.",
+    "insercao": "Retináculo dos flexores e aponeurose palmar.",
+    "acao": "Flexão do punho e tensionamento da aponeurose palmar.",
+    "inervacao": "Nervo mediano (C7–C8).",
+    "curiosidade": "Ausente em cerca de 10–15 % das pessoas; é o tendão preferido para enxertos.",
+    "fmaIds": [
+      "FMA38463",
+      "FMA38464",
+      "FMA40120",
+      "FMA40121"
+    ]
+  },
+  {
+    "id": "flexor-superficial-dos-dedos",
+    "sistema": "muscular",
+    "nome": "Flexor superficial dos dedos",
+    "nomeLatim": "Musculus flexor digitorum superficialis",
+    "pecas": [
+      "(humeroulnar|radial) head of (right|left) flexor digitorum superficialis"
+    ],
+    "localizacao": "Camada intermédia do compartimento anterior do antebraço.",
+    "origem": "Epicôndilo medial, processo coronoide da ulna e linha oblíqua do rádio.",
+    "insercao": "Faces laterais das falanges médias do 2º ao 5º dedo.",
+    "acao": "Flexão das articulações interfalângicas proximais e, secundariamente, do punho.",
+    "inervacao": "Nervo mediano (C7–T1).",
+    "fmaIds": [
+      "FMA38638",
+      "FMA38639",
+      "FMA38640",
+      "FMA38641"
+    ]
+  },
+  {
+    "id": "flexor-profundo-dos-dedos",
+    "sistema": "muscular",
+    "nome": "Flexor profundo dos dedos",
+    "nomeLatim": "Musculus flexor digitorum profundus",
+    "pecas": [
+      "^(right|left) flexor digitorum profundus$"
+    ],
+    "localizacao": "Camada profunda do compartimento anterior do antebraço.",
+    "origem": "Três quartos proximais da face anteromedial da ulna e membrana interóssea.",
+    "insercao": "Bases das falanges distais do 2º ao 5º dedo.",
+    "acao": "Único flexor das articulações interfalângicas distais.",
+    "inervacao": "Metade lateral pelo nervo interósseo anterior (mediano); metade medial pelo nervo ulnar.",
+    "fmaIds": [
+      "FMA38479",
+      "FMA38480"
+    ]
+  },
+  {
+    "id": "flexor-longo-do-polegar",
+    "sistema": "muscular",
+    "nome": "Flexor longo do polegar",
+    "nomeLatim": "Musculus flexor pollicis longus",
+    "pecas": [
+      "^(right|left) flexor pollicis longus$"
+    ],
+    "localizacao": "Camada profunda do antebraço anterior, lateralmente ao flexor profundo dos dedos.",
+    "origem": "Face anterior do rádio e membrana interóssea.",
+    "insercao": "Base da falange distal do polegar.",
+    "acao": "Flexão das articulações do polegar.",
+    "inervacao": "Nervo interósseo anterior, do mediano (C7–C8).",
+    "fmaIds": [
+      "FMA38482",
+      "FMA38484"
+    ]
+  },
+  {
+    "id": "extensores-radiais-do-carpo",
+    "sistema": "muscular",
+    "nome": "Extensores radiais do carpo",
+    "nomeLatim": "Musculi extensores carpi radiales longus et brevis",
+    "pecas": [
+      "^(right|left) extensor carpi radialis (longus|brevis)$"
+    ],
+    "localizacao": "Compartimento posterior do antebraço, na sua margem lateral.",
+    "origem": "Longo: crista supracondilar lateral. Curto: epicôndilo lateral.",
+    "insercao": "Longo: base do 2º metacarpal. Curto: base do 3º metacarpal.",
+    "acao": "Extensão e abdução (desvio radial) do punho.",
+    "inervacao": "Nervo radial e seu ramo profundo (C6–C7).",
+    "curiosidade": "A origem comum no epicôndilo lateral é a sede da epicondilite lateral, o \"cotovelo de tenista\".",
+    "fmaIds": [
+      "FMA38495",
+      "FMA38496",
+      "FMA38498",
+      "FMA38499"
+    ]
+  },
+  {
+    "id": "extensor-ulnar-do-carpo",
+    "sistema": "muscular",
+    "nome": "Extensor ulnar do carpo",
+    "nomeLatim": "Musculus extensor carpi ulnaris",
+    "pecas": [
+      "(humeral|ulnar) head of (right|left) extensor carpi ulnaris"
+    ],
+    "localizacao": "Margem medial do compartimento posterior do antebraço.",
+    "origem": "Epicôndilo lateral do úmero e margem posterior da ulna.",
+    "insercao": "Base do 5º metacarpal.",
+    "acao": "Extensão e adução (desvio ulnar) do punho.",
+    "inervacao": "Nervo interósseo posterior (C7–C8).",
+    "fmaIds": [
+      "BP44",
+      "BP45",
+      "BP46",
+      "BP47"
+    ]
+  },
+  {
+    "id": "extensor-dos-dedos",
+    "sistema": "muscular",
+    "nome": "Extensor dos dedos",
+    "nomeLatim": "Musculus extensor digitorum",
+    "pecas": [
+      "^(right|left) extensor digitorum$",
+      "^(right|left) extensor (indicis|digiti minimi)$"
+    ],
+    "localizacao": "Camada superficial do compartimento posterior do antebraço, com quatro tendões para o dorso da mão.",
+    "origem": "Epicôndilo lateral do úmero (tendão extensor comum).",
+    "insercao": "Expansões extensoras das falanges médias e distais do 2º ao 5º dedo.",
+    "acao": "Extensão dos dedos e auxílio na extensão do punho.",
+    "inervacao": "Nervo interósseo posterior (C7–C8).",
+    "fmaIds": [
+      "FMA38501",
+      "FMA38502",
+      "FMA38504",
+      "FMA38505",
+      "FMA38525",
+      "FMA38526"
+    ]
+  },
+  {
+    "id": "musculos-do-polegar",
+    "sistema": "muscular",
+    "nome": "Músculos extensores e abdutor do polegar",
+    "nomeLatim": "Musculi abductor pollicis longus, extensor pollicis brevis et longus",
+    "pecas": [
+      "^(right|left) (abductor pollicis longus|extensor pollicis brevis|extensor pollicis longus)$"
+    ],
+    "localizacao": "Compartimento posterior profundo do antebraço; seus tendões delimitam a tabaqueira anatômica.",
+    "origem": "Faces posteriores da ulna, do rádio e da membrana interóssea.",
+    "insercao": "Abdutor longo: base do 1º metacarpal. Extensor curto: falange proximal do polegar. Extensor longo: falange distal.",
+    "acao": "Abdução e extensão do polegar.",
+    "inervacao": "Nervo interósseo posterior (C7–C8).",
+    "curiosidade": "A tabaqueira anatômica tem o escafoide no assoalho — dor local sugere fratura desse osso.",
+    "fmaIds": [
+      "FMA38516",
+      "FMA38517",
+      "FMA38519",
+      "FMA38520",
+      "FMA38522",
+      "FMA38523"
+    ]
+  },
+  {
+    "id": "tenar",
+    "sistema": "muscular",
+    "nome": "Músculos tenares",
+    "nomeLatim": "Musculi thenares",
+    "pecas": [
+      "^(right|left) (abductor pollicis brevis|opponens pollicis)$",
+      "head of (right|left) flexor pollicis brevis",
+      "head of (right|left) adductor pollicis"
+    ],
+    "localizacao": "Eminência tenar, na base do polegar.",
+    "origem": "Retináculo dos flexores e ossos do carpo (escafoide, trapézio, trapezoide, capitato) e metacarpais.",
+    "insercao": "Falange proximal e 1º metacarpal do polegar.",
+    "acao": "Abdução, flexão, oposição e adução do polegar — base da pinça e da preensão.",
+    "inervacao": "Ramo recorrente do nervo mediano; o adutor do polegar pelo nervo ulnar.",
+    "curiosidade": "A atrofia tenar é sinal clássico de síndrome do túnel do carpo avançada.",
+    "fmaIds": [
+      "FMA37386",
+      "FMA37387",
+      "FMA37390",
+      "FMA37391",
+      "FMA46110",
+      "FMA46111",
+      "FMA46121",
+      "FMA46122",
+      "FMA46123",
+      "FMA46124",
+      "FMA65198",
+      "FMA65199"
+    ]
+  },
+  {
+    "id": "hipotenar",
+    "sistema": "muscular",
+    "nome": "Músculos hipotenares",
+    "nomeLatim": "Musculi hypothenares",
+    "pecas": [
+      "^(abductor digiti minimi|opponens digiti minimi|flexor digiti minimi brevis) of (right|left) hand$"
+    ],
+    "localizacao": "Eminência hipotenar, na margem medial da palma.",
+    "origem": "Pisiforme, hâmulo do hamato e retináculo dos flexores.",
+    "insercao": "Falange proximal e 5º metacarpal do dedo mínimo.",
+    "acao": "Abdução, flexão e oposição do dedo mínimo.",
+    "inervacao": "Ramo profundo do nervo ulnar (C8–T1).",
+    "fmaIds": [
+      "FMA37396",
+      "FMA37397",
+      "FMA37398",
+      "FMA37399",
+      "FMA37400",
+      "FMA37401"
+    ]
+  },
+  {
+    "id": "interosseos-e-lumbricais-da-mao",
+    "sistema": "muscular",
+    "nome": "Interósseos e lumbricais da mão",
+    "nomeLatim": "Musculi interossei et lumbricales manus",
+    "pecas": [
+      "set of (dorsal|palmar) interossei of (right|left) hand",
+      "set of lumbricals of (right|left) hand"
+    ],
+    "localizacao": "Entre os metacarpais (interósseos) e ao redor dos tendões flexores profundos (lumbricais).",
+    "origem": "Interósseos: corpos dos metacarpais. Lumbricais: tendões do flexor profundo dos dedos.",
+    "insercao": "Expansões extensoras e bases das falanges proximais.",
+    "acao": "Dorsais abduzem e palmares aduzem os dedos; ambos, com os lumbricais, fletem as metacarpofalângicas e estendem as interfalângicas.",
+    "inervacao": "Ramo profundo do nervo ulnar; os dois lumbricais laterais pelo nervo mediano.",
+    "curiosidade": "Mnemônico: DAB (dorsais abduzem) e PAD (palmares aduzem).",
+    "fmaIds": [
+      "FMA42398",
+      "FMA42399",
+      "FMA42402",
+      "FMA42403",
+      "FMA42404",
+      "FMA42405"
+    ]
+  },
+  {
+    "id": "iliopsoas",
+    "sistema": "muscular",
+    "nome": "Iliopsoas",
+    "nomeLatim": "Musculus iliopsoas",
+    "sinonimos": [
+      "psoas maior",
+      "ilíaco"
+    ],
+    "pecas": [
+      "^(right|left) (psoas major|iliacus)$"
+    ],
+    "localizacao": "Parede posterior do abdome e fossa ilíaca, cruzando a articulação do quadril por baixo do ligamento inguinal.",
+    "origem": "Psoas maior: corpos e processos transversos de T12–L5. Ilíaco: fossa ilíaca.",
+    "insercao": "Trocanter menor do fêmur, por tendão comum.",
+    "acao": "Principal flexor do quadril; estabiliza a coluna lombar e flete o tronco a partir do decúbito.",
+    "inervacao": "Psoas: ramos anteriores L1–L3. Ilíaco: nervo femoral (L2–L4).",
+    "fmaIds": [
+      "FMA22322",
+      "FMA22323",
+      "FMA22342",
+      "FMA22343"
+    ]
+  },
+  {
+    "id": "gluteo-maximo",
+    "sistema": "muscular",
+    "nome": "Glúteo máximo",
+    "nomeLatim": "Musculus gluteus maximus",
+    "pecas": [
+      "^(right|left) gluteus maximus$"
+    ],
+    "localizacao": "Músculo mais superficial e volumoso da região glútea.",
+    "origem": "Face glútea do ílio atrás da linha glútea posterior, face posterior do sacro e do cóccix, ligamento sacrotuberal.",
+    "insercao": "Trato iliotibial e tuberosidade glútea do fêmur.",
+    "acao": "Extensão e rotação lateral do quadril, sobretudo ao subir escadas, correr e levantar-se.",
+    "inervacao": "Nervo glúteo inferior (L5–S2).",
+    "fmaIds": [
+      "FMA22328",
+      "FMA22329"
+    ]
+  },
+  {
+    "id": "gluteo-medio-minimo",
+    "sistema": "muscular",
+    "nome": "Glúteos médio e mínimo",
+    "nomeLatim": "Musculi glutei medius et minimus",
+    "pecas": [
+      "^(right|left) gluteus (medius|minimus)$"
+    ],
+    "localizacao": "Face lateral do ílio, profundamente ao glúteo máximo.",
+    "origem": "Face glútea do ílio, entre as linhas glúteas.",
+    "insercao": "Trocanter maior do fêmur.",
+    "acao": "Abdução e rotação medial do quadril; estabilizam a pelve no apoio unipodal.",
+    "inervacao": "Nervo glúteo superior (L4–S1).",
+    "curiosidade": "A fraqueza desses músculos produz o sinal de Trendelenburg — a pelve cai para o lado oposto ao apoio.",
+    "fmaIds": [
+      "FMA22330",
+      "FMA22331",
+      "FMA22332",
+      "FMA22333"
+    ]
+  },
+  {
+    "id": "tensor-da-fascia-lata",
+    "sistema": "muscular",
+    "nome": "Tensor da fáscia lata",
+    "nomeLatim": "Musculus tensor fasciae latae",
+    "pecas": [
+      "^(right|left) tensor fasciae latae$",
+      "^(right|left) iliotibial tract$"
+    ],
+    "localizacao": "Região anterolateral do quadril, continuando-se no trato iliotibial até a tíbia.",
+    "origem": "Espinha ilíaca ântero-superior e crista ilíaca.",
+    "insercao": "Trato iliotibial, que se fixa no tubérculo de Gerdy da tíbia.",
+    "acao": "Abdução, flexão e rotação medial do quadril; estabiliza o joelho estendido.",
+    "inervacao": "Nervo glúteo superior (L4–S1).",
+    "fmaIds": [
+      "FMA22425",
+      "FMA22426",
+      "FMA58776",
+      "FMA58777"
+    ]
+  },
+  {
+    "id": "piriforme",
+    "sistema": "muscular",
+    "nome": "Piriforme",
+    "nomeLatim": "Musculus piriformis",
+    "pecas": [
+      "^(right|left) piriformis$"
+    ],
+    "localizacao": "Sai da pelve pelo forame isquiático maior, na profundidade da região glútea.",
+    "origem": "Face anterior do sacro (S2–S4).",
+    "insercao": "Margem superior do trocanter maior.",
+    "acao": "Rotação lateral do quadril estendido; abdução do quadril fletido.",
+    "inervacao": "Ramos de S1–S2.",
+    "curiosidade": "É a referência da região glútea: o nervo isquiático costuma emergir logo abaixo dele.",
+    "fmaIds": [
+      "FMA22340",
+      "FMA22341"
+    ]
+  },
+  {
+    "id": "rotadores-laterais-do-quadril",
+    "sistema": "muscular",
+    "nome": "Rotadores laterais profundos do quadril",
+    "nomeLatim": "Musculi rotatores laterales coxae",
+    "pecas": [
+      "^(right|left) (gemellus superior|gemellus inferior|obturator internus|obturator externus|quadratus femoris)$"
+    ],
+    "localizacao": "Camada profunda da região glútea, entre o piriforme e o quadrado femoral.",
+    "origem": "Faces internas e externas do forame obturado, espinha e túber isquiáticos.",
+    "insercao": "Trocanter maior e crista intertrocantérica do fêmur.",
+    "acao": "Rotação lateral e estabilização da cabeça femoral no acetábulo.",
+    "inervacao": "Ramos do plexo sacral (L4–S2) e nervo obturatório (obturador externo).",
+    "fmaIds": [
+      "FMA22324",
+      "FMA22325",
+      "FMA22326",
+      "FMA22327",
+      "FMA22334",
+      "FMA22335",
+      "FMA22336",
+      "FMA22337",
+      "FMA22338",
+      "FMA22339"
+    ]
+  },
+  {
+    "id": "sartorio",
+    "sistema": "muscular",
+    "nome": "Sartório",
+    "nomeLatim": "Musculus sartorius",
+    "pecas": [
+      "^(right|left) sartorius$"
+    ],
+    "localizacao": "Cruza obliquamente a face anterior da coxa, da pelve à face medial da tíbia; é o músculo mais longo do corpo.",
+    "origem": "Espinha ilíaca ântero-superior.",
+    "insercao": "Face medial da tíbia proximal (pata de ganso).",
+    "acao": "Flexão, abdução e rotação lateral do quadril com flexão do joelho — a posição de sentar-se de pernas cruzadas.",
+    "inervacao": "Nervo femoral (L2–L3).",
+    "curiosidade": "O nome vem de \"sartor\", alfaiate, pela postura clássica desses profissionais.",
+    "fmaIds": [
+      "FMA22354",
+      "FMA22355"
+    ]
+  },
+  {
+    "id": "quadriceps-femoral",
+    "sistema": "muscular",
+    "nome": "Quadríceps femoral",
+    "nomeLatim": "Musculus quadriceps femoris",
+    "sinonimos": [
+      "quadríceps",
+      "reto femoral",
+      "vasto lateral",
+      "vasto medial",
+      "vasto intermédio"
+    ],
+    "pecas": [
+      "^(right|left) (rectus femoris|vastus lateralis|vastus medialis|vastus intermedius)$"
+    ],
+    "localizacao": "Ocupa o compartimento anterior da coxa; converge no tendão do quadríceps e no ligamento da patela.",
+    "origem": "Reto femoral: espinha ilíaca ântero-inferior e supra-acetabular. Vastos: linha áspera e corpo do fêmur.",
+    "insercao": "Base da patela e, pelo ligamento da patela, na tuberosidade da tíbia.",
+    "acao": "Extensão do joelho; o reto femoral também flete o quadril.",
+    "inervacao": "Nervo femoral (L2–L4).",
+    "curiosidade": "O reflexo patelar testa o arco L2–L4 pelo nervo femoral.",
+    "fmaIds": [
+      "FMA38928",
+      "FMA38929",
+      "FMA38930",
+      "FMA38931",
+      "FMA38932",
+      "FMA38933",
+      "FMA38934",
+      "FMA38935"
+    ]
+  },
+  {
+    "id": "adutores-da-coxa",
+    "sistema": "muscular",
+    "nome": "Adutores da coxa",
+    "nomeLatim": "Musculi adductores femoris",
+    "pecas": [
+      "^(right|left) (adductor longus|adductor brevis|adductor magnus|adductor minimus|pectineus|gracilis)$"
+    ],
+    "localizacao": "Compartimento medial da coxa, da púbis à linha áspera do fêmur.",
+    "origem": "Ramos do púbis e do ísquio e túber isquiático (adutor magno).",
+    "insercao": "Linha áspera do fêmur e tubérculo do adutor; o grácil chega à pata de ganso na tíbia.",
+    "acao": "Adução do quadril; estabilizam a pelve na marcha; o grácil auxilia a flexão do joelho.",
+    "inervacao": "Nervo obturatório (L2–L4); a porção isquiocondilar do magno pelo nervo tibial; o pectíneo também pelo femoral.",
+    "curiosidade": "O hiato dos adutores, no adutor magno, permite a passagem dos vasos femorais para a fossa poplítea.",
+    "fmaIds": [
+      "FMA22450",
+      "FMA22451",
+      "FMA22452",
+      "FMA22454",
+      "FMA22456",
+      "FMA22457",
+      "FMA22459",
+      "FMA22460",
+      "FMA43883",
+      "FMA43884",
+      "FMA43886",
+      "FMA43887"
+    ]
+  },
+  {
+    "id": "isquiotibiais",
+    "sistema": "muscular",
+    "nome": "Isquiotibiais",
+    "nomeLatim": "Musculi ischiocrurales",
+    "sinonimos": [
+      "bíceps femoral",
+      "semitendíneo",
+      "semimembranáceo",
+      "posteriores da coxa"
+    ],
+    "pecas": [
+      "head of (right|left) biceps femoris",
+      "^(right|left) (semitendinosus|semimembranosus)$"
+    ],
+    "localizacao": "Compartimento posterior da coxa, do túber isquiático até a perna.",
+    "origem": "Túber isquiático (a cabeça curta do bíceps femoral vem da linha áspera).",
+    "insercao": "Bíceps femoral: cabeça da fíbula. Semitendíneo e semimembranáceo: face medial da tíbia.",
+    "acao": "Extensão do quadril e flexão do joelho; controlam a desaceleração da perna na corrida.",
+    "inervacao": "Nervo isquiático — divisão tibial (a cabeça curta do bíceps, pela fibular comum).",
+    "curiosidade": "Sua origem comum no túber isquiático explica a dor \"na sentada\" das tendinopatias proximais.",
+    "fmaIds": [
+      "FMA22358",
+      "FMA22359",
+      "FMA22448",
+      "FMA22449",
+      "FMA45888",
+      "FMA45889",
+      "FMA45891",
+      "FMA45892"
+    ]
+  },
+  {
+    "id": "gastrocnemio",
+    "sistema": "muscular",
+    "nome": "Gastrocnêmio",
+    "nomeLatim": "Musculus gastrocnemius",
+    "sinonimos": [
+      "gêmeos",
+      "panturrilha"
+    ],
+    "pecas": [
+      "head of (right|left) gastrocnemius"
+    ],
+    "localizacao": "Camada superficial do compartimento posterior da perna; forma o relevo da panturrilha.",
+    "origem": "Cabeça medial e cabeça lateral, nos côndilos correspondentes do fêmur.",
+    "insercao": "Tuberosidade do calcâneo, pelo tendão do calcâneo.",
+    "acao": "Flexão plantar do pé e flexão do joelho; impulsiona o corpo na marcha e no salto.",
+    "inervacao": "Nervo tibial (S1–S2).",
+    "fmaIds": [
+      "FMA45957",
+      "FMA45958",
+      "FMA45960",
+      "FMA45961"
+    ]
+  },
+  {
+    "id": "soleo",
+    "sistema": "muscular",
+    "nome": "Sóleo",
+    "nomeLatim": "Musculus soleus",
+    "pecas": [
+      "^(right|left) soleus$",
+      "^(right|left) calcaneal tendon$",
+      "^(right|left) plantaris$"
+    ],
+    "localizacao": "Profundamente ao gastrocnêmio, no compartimento posterior superficial da perna.",
+    "origem": "Face posterior da cabeça e do corpo da fíbula e linha do sóleo da tíbia.",
+    "insercao": "Tuberosidade do calcâneo, pelo tendão do calcâneo.",
+    "acao": "Flexão plantar potente, independente da posição do joelho; sustenta a postura em pé.",
+    "inervacao": "Nervo tibial (S1–S2).",
+    "curiosidade": "É chamado de \"coração periférico\": sua contração impulsiona o retorno venoso das pernas.",
+    "fmaIds": [
+      "FMA22558",
+      "FMA22559",
+      "FMA22560",
+      "FMA22561",
+      "FMA258847",
+      "FMA264844"
+    ]
+  },
+  {
+    "id": "tibial-anterior",
+    "sistema": "muscular",
+    "nome": "Tibial anterior",
+    "nomeLatim": "Musculus tibialis anterior",
+    "pecas": [
+      "^(right|left) tibialis anterior$"
+    ],
+    "localizacao": "Compartimento anterior da perna, lateralmente à crista da tíbia.",
+    "origem": "Côndilo lateral e metade proximal da face lateral da tíbia; membrana interóssea.",
+    "insercao": "Cuneiforme medial e base do 1º metatarsal.",
+    "acao": "Dorsiflexão e inversão do pé; controla a descida do pé no apoio do calcanhar.",
+    "inervacao": "Nervo fibular profundo (L4–L5).",
+    "curiosidade": "Sua paralisia produz o \"pé caído\" e a marcha escarvante.",
+    "fmaIds": [
+      "FMA22544",
+      "FMA22545"
+    ]
+  },
+  {
+    "id": "fibulares",
+    "sistema": "muscular",
+    "nome": "Músculos fibulares",
+    "nomeLatim": "Musculi fibulares",
+    "sinonimos": [
+      "peroneais"
+    ],
+    "pecas": [
+      "^(right|left) fibularis (longus|brevis|tertius)$"
+    ],
+    "localizacao": "Compartimento lateral da perna (longo e curto) e anterior (terceiro).",
+    "origem": "Faces lateral e anterior da fíbula.",
+    "insercao": "Longo: cuneiforme medial e 1º metatarsal, cruzando a planta. Curto: base do 5º metatarsal. Terceiro: 5º metatarsal.",
+    "acao": "Eversão do pé; o longo e o curto fazem flexão plantar, e o terceiro, dorsiflexão.",
+    "inervacao": "Nervo fibular superficial (longo e curto) e profundo (terceiro).",
+    "curiosidade": "O nervo fibular comum contorna o colo da fíbula, onde é superficial e vulnerável a traumas.",
+    "fmaIds": [
+      "FMA22550",
+      "FMA22551",
+      "FMA22552",
+      "FMA22553",
+      "FMA22554",
+      "FMA22555"
+    ]
+  },
+  {
+    "id": "tibial-posterior",
+    "sistema": "muscular",
+    "nome": "Tibial posterior",
+    "nomeLatim": "Musculus tibialis posterior",
+    "pecas": [
+      "^(right|left) tibialis posterior$",
+      "^(right|left) popliteus$"
+    ],
+    "localizacao": "Compartimento posterior profundo da perna, entre a tíbia e a fíbula.",
+    "origem": "Membrana interóssea e faces posteriores da tíbia e da fíbula.",
+    "insercao": "Tuberosidade do navicular e demais ossos do tarso e metatarsais médios.",
+    "acao": "Inversão e flexão plantar do pé; sustenta o arco longitudinal medial.",
+    "inervacao": "Nervo tibial (L4–L5).",
+    "fmaIds": [
+      "FMA22591",
+      "FMA22592",
+      "FMA65018",
+      "FMA65019"
+    ]
+  },
+  {
+    "id": "flexores-e-extensores-longos-dos-dedos-do-pe",
+    "sistema": "muscular",
+    "nome": "Flexores e extensores longos dos dedos do pé",
+    "nomeLatim": "Musculi flexores et extensores digitorum et hallucis longi",
+    "pecas": [
+      "^(right|left) (flexor digitorum longus|flexor hallucis longus|extensor digitorum longus|extensor hallucis longus)$"
+    ],
+    "localizacao": "Compartimentos posterior profundo (flexores) e anterior (extensores) da perna.",
+    "origem": "Faces posteriores e anteriores da tíbia, da fíbula e da membrana interóssea.",
+    "insercao": "Falanges distais do hálux e dos dedos 2 a 5.",
+    "acao": "Flexão e extensão dos dedos do pé; auxiliam a flexão plantar e a dorsiflexão.",
+    "inervacao": "Flexores: nervo tibial. Extensores: nervo fibular profundo.",
+    "fmaIds": [
+      "FMA22546",
+      "FMA22547",
+      "FMA22548",
+      "FMA22549",
+      "FMA65014",
+      "FMA65015",
+      "FMA65016",
+      "FMA65017"
+    ]
+  },
+  {
+    "id": "musculos-intrinsecos-do-pe",
+    "sistema": "muscular",
+    "nome": "Músculos intrínsecos do pé",
+    "nomeLatim": "Musculi pedis",
+    "pecas": [
+      "^(abductor hallucis|flexor digitorum brevis|flexor accessorius|extensor digitorum brevis|extensor hallucis brevis)$",
+      "^(right|left) (abductor hallucis|flexor digitorum brevis|flexor accessorius|extensor digitorum brevis|extensor hallucis brevis)$",
+      "^(abductor digiti minimi|flexor digiti minimi brevis|opponens digiti minimi) of (right|left) foot$",
+      "head of (right|left) (flexor hallucis brevis|adductor hallucis)",
+      "lumbrical of (right|left) foot",
+      "interosseous of (right|left) foot",
+      "set of dorsal interossei of (right|left) foot"
+    ],
+    "localizacao": "Quatro camadas na planta do pé e dois músculos no dorso.",
+    "origem": "Calcâneo, aponeurose plantar, ossos do tarso e metatarsais.",
+    "insercao": "Falanges dos dedos do pé.",
+    "acao": "Movimentam os dedos e, sobretudo, sustentam dinamicamente os arcos plantares.",
+    "inervacao": "Nervos plantar medial e plantar lateral (do tibial); extensores curtos pelo fibular profundo.",
+    "fmaIds": [
+      "FMA37459",
+      "FMA37460",
+      "FMA37461",
+      "FMA37462",
+      "FMA37463",
+      "FMA37464",
+      "FMA37465",
+      "FMA37466",
+      "FMA37471",
+      "FMA37472",
+      "FMA37483",
+      "FMA37484",
+      "FMA37485",
+      "FMA37486",
+      "FMA37717",
+      "FMA37718",
+      "FMA37719",
+      "FMA37720",
+      "FMA37741",
+      "FMA37742",
+      "FMA37743",
+      "FMA37744",
+      "FMA37745",
+      "FMA37746",
+      "FMA45971",
+      "FMA45972",
+      "FMA45973",
+      "FMA45974",
+      "FMA46018",
+      "FMA46019",
+      "FMA46020",
+      "FMA46021",
+      "FMA51142",
+      "FMA51143",
+      "FMA51144",
+      "FMA51145",
+      "FMA74140",
+      "FMA74141",
+      "FMA86034",
+      "FMA86035"
+    ]
+  },
+  {
+    "id": "assoalho-pelvico",
+    "sistema": "muscular",
+    "nome": "Diafragma da pelve",
+    "nomeLatim": "Diaphragma pelvis",
+    "sinonimos": [
+      "assoalho pélvico",
+      "levantador do ânus"
+    ],
+    "pecas": [
+      "^(right|left) (iliococcygeus|puborectalis|pubococcygeus|coccygeus)$",
+      "tendinous arch of levator ani",
+      "external anal sphincter"
+    ],
+    "localizacao": "Funil muscular que fecha a saída da pelve, entre o púbis, o ísquio e o cóccix.",
+    "origem": "Corpo do púbis, arco tendíneo do levantador do ânus e espinha isquiática.",
+    "insercao": "Cóccix, ligamento anococcígeo e corpo perineal.",
+    "acao": "Sustenta as vísceras pélvicas, mantém a continência e resiste ao aumento da pressão abdominal.",
+    "inervacao": "Ramos diretos de S3–S4 e nervo pudendo.",
+    "fmaIds": [
+      "FMA21930",
+      "FMA45854",
+      "FMA45855",
+      "FMA45856",
+      "FMA45857",
+      "FMA45858",
+      "FMA45859",
+      "FMA46442",
+      "FMA46443",
+      "FMA46444"
+    ]
+  },
+  {
+    "id": "esplenios",
+    "sistema": "muscular",
+    "nome": "Esplênios",
+    "nomeLatim": "Musculi splenii",
+    "pecas": [
+      "^(right|left) splenius (capitis|cervicis)$"
+    ],
+    "localizacao": "Camada superficial dos músculos profundos do dorso, na nuca.",
+    "origem": "Ligamento nucal e processos espinhosos de C7 a T6.",
+    "insercao": "Processo mastoide e linha nucal superior (cabeça); processos transversos cervicais superiores (pescoço).",
+    "acao": "Bilateral: extensão da cabeça e do pescoço. Unilateral: inclinação e rotação para o mesmo lado.",
+    "inervacao": "Ramos posteriores dos nervos cervicais.",
+    "fmaIds": [
+      "FMA22726",
+      "FMA22727",
+      "FMA22728",
+      "FMA22729"
+    ]
+  },
+  {
+    "id": "suboccipitais",
+    "sistema": "muscular",
+    "nome": "Músculos suboccipitais",
+    "nomeLatim": "Musculi suboccipitales",
+    "pecas": [
+      "^(right|left) rectus capitis posterior (major|minor)$",
+      "^(right|left) obliquus capitis (superior|inferior)$"
+    ],
+    "localizacao": "Camada mais profunda da nuca, entre o occipital, o atlas e o áxis.",
+    "origem": "Processo espinhoso do áxis e tubérculo posterior do atlas.",
+    "insercao": "Linha nucal inferior do occipital e processo transverso do atlas.",
+    "acao": "Extensão e rotação fina da cabeça sobre as duas primeiras vértebras; ricos em fusos musculares e propriocepção.",
+    "inervacao": "Nervo suboccipital (ramo posterior de C1).",
+    "fmaIds": [
+      "FMA32530",
+      "FMA32531",
+      "FMA32532",
+      "FMA32533",
+      "FMA32534",
+      "FMA32535",
+      "FMA32536",
+      "FMA32537"
+    ]
+  },
+  {
+    "id": "infra-hioideos",
+    "sistema": "muscular",
+    "nome": "Músculos infra-hióideos",
+    "nomeLatim": "Musculi infrahyoidei",
+    "sinonimos": [
+      "músculos em alça"
+    ],
+    "pecas": [
+      "^(right|left) (sternohyoid|sternothyroid|thyrohyoid|omohyoid)$"
+    ],
+    "localizacao": "Região cervical anterior, abaixo do osso hioide, cobrindo a laringe e a tireoide.",
+    "origem": "Manúbrio do esterno, clavícula e escápula.",
+    "insercao": "Osso hioide e cartilagem tireóidea.",
+    "acao": "Deprimem o hioide e a laringe após a deglutição e estabilizam o hioide para os supra-hióideos.",
+    "inervacao": "Alça cervical (C1–C3); o tiro-hióideo por fibras de C1 pelo hipoglosso.",
+    "fmaIds": [
+      "FMA13346",
+      "FMA13347",
+      "FMA13348",
+      "FMA13349",
+      "FMA13350",
+      "FMA13351",
+      "FMA13352",
+      "FMA13353"
+    ]
+  },
+  {
+    "id": "musculos-da-mimica",
+    "sistema": "muscular",
+    "nome": "Músculos da expressão facial",
+    "nomeLatim": "Musculi faciei",
+    "pecas": [
+      "^(right|left) (zygomaticus major|zygomaticus minor|levator anguli oris|levator labii superioris|levator labii superioris alaeque nasi|depressor anguli oris|depressor labii inferioris|risorius|mentalis|corrugator supercilii|procerus|nasalis|depressor septi nasi|buccinator|temporoparietalis)$"
+    ],
+    "localizacao": "Tecido subcutâneo da face; inserem-se na pele, e não em ossos, o que permite a mímica.",
+    "origem": "Ossos da face e fáscias vizinhas.",
+    "insercao": "Pele e modíolo do ângulo da boca.",
+    "acao": "Produzem as expressões faciais; o bucinador comprime a bochecha contra os dentes na mastigação e no sopro.",
+    "inervacao": "Nervo facial (VII), em todos eles.",
+    "curiosidade": "Todos derivam do 2º arco faríngeo — por isso a paralisia do VII par afeta toda a hemiface.",
+    "fmaIds": [
+      "FMA46763",
+      "FMA46764",
+      "FMA46796",
+      "FMA46797",
+      "FMA46803",
+      "FMA46804",
+      "FMA46806",
+      "FMA46807",
+      "FMA46812",
+      "FMA46813",
+      "FMA46814",
+      "FMA46815",
+      "FMA46817",
+      "FMA46818",
+      "FMA46823",
+      "FMA46824",
+      "FMA46826",
+      "FMA46827",
+      "FMA46829",
+      "FMA46830",
+      "FMA46835",
+      "FMA46836",
+      "FMA46839",
+      "FMA46840",
+      "FMA55606",
+      "FMA55607",
+      "FMA55608",
+      "FMA55609",
+      "FMA55610",
+      "FMA55611"
+    ]
+  },
+  {
+    "id": "serratil-posterior",
+    "sistema": "muscular",
+    "nome": "Serráteis posteriores e levantadores das costelas",
+    "nomeLatim": "Musculi serrati posteriores et levatores costarum",
+    "pecas": [
+      "^(right|left) serratus posterior (superior|inferior)$",
+      "^set of (right|left) levatores costarum (longi|breves)$"
+    ],
+    "localizacao": "Camada intermédia dos músculos do dorso, sob os romboides e o latíssimo.",
+    "origem": "Processos espinhosos de C7–T3 (superior) e T11–L2 (inferior).",
+    "insercao": "Costelas 2 a 5 (serrátil superior), 9 a 12 (serrátil inferior); os levantadores das costelas vão dos processos transversos às costelas subjacentes.",
+    "acao": "Auxiliam a respiração: o superior eleva e o inferior deprime as costelas.",
+    "inervacao": "Nervos intercostais.",
+    "fmaIds": [
+      "FMA13403",
+      "FMA13404",
+      "FMA13405",
+      "FMA13406",
+      "FMA74075",
+      "FMA74076",
+      "FMA74077",
+      "FMA74078"
+    ]
+  },
+  {
+    "id": "subclavio",
+    "sistema": "muscular",
+    "nome": "Subclávio",
+    "nomeLatim": "Musculus subclavius",
+    "pecas": [
+      "^(right|left) subclavius$"
+    ],
+    "localizacao": "Entre a clavícula e a 1ª costela, profundamente ao peitoral maior.",
+    "origem": "Junção da 1ª costela com sua cartilagem costal.",
+    "insercao": "Face inferior do terço médio da clavícula.",
+    "acao": "Deprime e estabiliza a clavícula, protegendo os vasos subclávios.",
+    "inervacao": "Nervo do subclávio (C5–C6).",
+    "fmaIds": [
+      "FMA13411",
+      "FMA13412"
+    ]
+  },
+  {
+    "id": "transverso-do-torax",
+    "sistema": "muscular",
+    "nome": "Transverso do tórax",
+    "nomeLatim": "Musculus transversus thoracis",
+    "pecas": [
+      "^(right|left) transversus thoracis$"
+    ],
+    "localizacao": "Face interna da parede torácica anterior, irradiando do esterno para as cartilagens costais.",
+    "origem": "Face posterior do corpo do esterno e do processo xifoide.",
+    "insercao": "Cartilagens costais 2 a 6.",
+    "acao": "Deprime as cartilagens costais na expiração forçada.",
+    "inervacao": "Nervos intercostais.",
+    "fmaIds": [
+      "FMA9761",
+      "FMA9762"
+    ]
+  },
+  {
+    "id": "longo-do-pescoco",
+    "sistema": "muscular",
+    "nome": "Longo do pescoço e longo da cabeça",
+    "nomeLatim": "Musculi longus colli et longus capitis",
+    "pecas": [
+      "part of (right|left) longus colli",
+      "^(right|left) longus capitis$",
+      "^(right|left) rectus capitis (anterior|lateralis)$"
+    ],
+    "localizacao": "Musculatura pré-vertebral, na face anterior dos corpos vertebrais cervicais.",
+    "origem": "Corpos e processos transversos das vértebras cervicais e torácicas superiores.",
+    "insercao": "Atlas, corpos vertebrais cervicais e porção basilar do occipital.",
+    "acao": "Flexão da cabeça e do pescoço; estabilização da lordose cervical.",
+    "inervacao": "Ramos anteriores dos nervos cervicais (C1–C6).",
+    "fmaIds": [
+      "FMA46283",
+      "FMA46284",
+      "FMA46285",
+      "FMA46286",
+      "FMA46287",
+      "FMA46288",
+      "FMA46309",
+      "FMA46310",
+      "FMA46313",
+      "FMA46314",
+      "FMA46317",
+      "FMA46318"
+    ]
+  },
+  {
+    "id": "intertransversarios-e-interespinais",
+    "sistema": "muscular",
+    "nome": "Intertransversários e interespinais",
+    "nomeLatim": "Musculi intertransversarii et interspinales",
+    "pecas": [
+      "intertransversarii",
+      "intertransversarius",
+      "interspinales"
+    ],
+    "localizacao": "Pequenos músculos entre processos transversos e entre processos espinhosos vizinhos.",
+    "origem": "Processo transverso ou espinhoso de uma vértebra.",
+    "insercao": "Processo correspondente da vértebra adjacente.",
+    "acao": "Estabilizam segmento a segmento e fornecem informação proprioceptiva à coluna.",
+    "inervacao": "Ramos posteriores (e alguns anteriores) dos nervos espinais.",
+    "fmaIds": [
+      "FMA71307",
+      "FMA71308",
+      "FMA71309",
+      "FMA71442",
+      "FMA71443",
+      "FMA71444",
+      "FMA76775"
+    ]
+  }
+]

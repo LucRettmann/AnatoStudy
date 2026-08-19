@@ -1,0 +1,1035 @@
+[
+  {
+    "id": "osso-frontal",
+    "sistema": "esqueletico",
+    "nome": "Osso frontal",
+    "nomeLatim": "Os frontale",
+    "pecas": [
+      "^frontal bone$"
+    ],
+    "tipo": "Osso plano do neurocrânio",
+    "localizacao": "Forma a fronte, o teto das órbitas e a parte anterior da abóbada craniana.",
+    "funcao": "Protege os lobos frontais do encéfalo e delimita o teto das órbitas.",
+    "articulacoes": "Parietais (sutura coronal), esfenoide, etmoide, nasais, maxilas, zigomáticos e lacrimais.",
+    "acidentes": "Glabela, arcos superciliares, incisura supraorbital, seio frontal.",
+    "fmaIds": [
+      "FMA52734"
+    ]
+  },
+  {
+    "id": "osso-parietal",
+    "sistema": "esqueletico",
+    "nome": "Osso parietal",
+    "nomeLatim": "Os parietale",
+    "pecas": [
+      "^(right|left) parietal bone$"
+    ],
+    "tipo": "Osso plano do neurocrânio",
+    "localizacao": "Par, forma a maior parte do teto e das paredes laterais do crânio.",
+    "funcao": "Protege os lobos parietais e parte dos lobos frontal e occipital.",
+    "articulacoes": "Frontal (sutura coronal), o parietal oposto (sutura sagital), occipital (sutura lambdóidea), temporal e esfenoide.",
+    "acidentes": "Linhas temporais, sulcos para os vasos meníngeos médios, forame parietal.",
+    "fmaIds": [
+      "FMA52788",
+      "FMA52789"
+    ]
+  },
+  {
+    "id": "osso-occipital",
+    "sistema": "esqueletico",
+    "nome": "Osso occipital",
+    "nomeLatim": "Os occipitale",
+    "pecas": [
+      "^occipital bone$"
+    ],
+    "tipo": "Osso plano do neurocrânio",
+    "localizacao": "Parte posterior e inferior do crânio, ao redor do forame magno.",
+    "funcao": "Protege o lobo occipital e o cerebelo; transmite o tronco encefálico pelo forame magno.",
+    "articulacoes": "Parietais, temporais, esfenoide e atlas (articulação atlanto-occipital).",
+    "acidentes": "Forame magno, côndilos occipitais, protuberância occipital externa, linhas nucais, clivo.",
+    "fmaIds": [
+      "FMA52735"
+    ]
+  },
+  {
+    "id": "osso-temporal",
+    "sistema": "esqueletico",
+    "nome": "Osso temporal",
+    "nomeLatim": "Os temporale",
+    "pecas": [
+      "^(right|left) temporal bone$"
+    ],
+    "tipo": "Osso irregular do neurocrânio",
+    "localizacao": "Parede lateral e base do crânio; aloja as orelhas média e interna.",
+    "funcao": "Protege o aparelho auditivo e vestibular e forma a articulação temporomandibular.",
+    "articulacoes": "Parietal, occipital, esfenoide, zigomático e mandíbula.",
+    "acidentes": "Processo mastoide, processo estiloide, meato acústico externo, fossa mandibular, canal carótico, parte petrosa.",
+    "fmaIds": [
+      "FMA52738",
+      "FMA52739"
+    ]
+  },
+  {
+    "id": "osso-esfenoide",
+    "sistema": "esqueletico",
+    "nome": "Osso esfenoide",
+    "nomeLatim": "Os sphenoidale",
+    "pecas": [
+      "^sphenoid bone$"
+    ],
+    "tipo": "Osso irregular do neurocrânio",
+    "localizacao": "Centro da base do crânio, articulando-se com quase todos os outros ossos cranianos.",
+    "funcao": "Chave de abóbada da base do crânio; a sela turca aloja a hipófise.",
+    "articulacoes": "Frontal, parietais, temporais, occipital, etmoide, vômer, palatinos, zigomáticos e maxilas.",
+    "acidentes": "Sela turca, asas maior e menor, processos pterigoides, canal óptico, fissura orbital superior, forames redondo, oval e espinhoso.",
+    "curiosidade": "Seu formato lembra um morcego de asas abertas — imagem clássica para memorizar os forames.",
+    "fmaIds": [
+      "FMA52736"
+    ]
+  },
+  {
+    "id": "osso-etmoide",
+    "sistema": "esqueletico",
+    "nome": "Osso etmoide",
+    "nomeLatim": "Os ethmoidale",
+    "pecas": [
+      "^ethmoid$"
+    ],
+    "tipo": "Osso irregular, pneumático",
+    "localizacao": "Entre as órbitas, formando o teto da cavidade nasal e parte do septo.",
+    "funcao": "Sustenta a mucosa olfatória e separa a cavidade nasal da fossa craniana anterior.",
+    "articulacoes": "Frontal, esfenoide, nasais, lacrimais, maxilas, palatinos, conchas nasais inferiores e vômer.",
+    "acidentes": "Lâmina cribriforme, crista etmoidal (crista galli), lâmina perpendicular, conchas nasais superior e média, células etmoidais.",
+    "fmaIds": [
+      "FMA52740"
+    ]
+  },
+  {
+    "id": "maxila",
+    "sistema": "esqueletico",
+    "nome": "Maxila",
+    "nomeLatim": "Maxilla",
+    "pecas": [
+      "^(right|left) maxilla$"
+    ],
+    "tipo": "Osso irregular do viscerocrânio",
+    "localizacao": "Par, forma a maior parte do esqueleto da face média: assoalho da órbita, paredes da cavidade nasal e palato duro.",
+    "funcao": "Sustenta os dentes superiores e delimita as cavidades orbital, nasal e oral.",
+    "articulacoes": "Frontal, etmoide, nasal, lacrimal, zigomático, palatino, vômer, concha nasal inferior e a maxila oposta.",
+    "acidentes": "Processos frontal, zigomático, alveolar e palatino; seio maxilar; forame infraorbital.",
+    "fmaIds": [
+      "FMA53649",
+      "FMA53650"
+    ]
+  },
+  {
+    "id": "mandibula",
+    "sistema": "esqueletico",
+    "nome": "Mandíbula",
+    "nomeLatim": "Mandibula",
+    "pecas": [
+      "^mandible$"
+    ],
+    "tipo": "Osso irregular; único osso móvel do crânio",
+    "localizacao": "Esqueleto do terço inferior da face.",
+    "funcao": "Sustenta os dentes inferiores e permite a mastigação e a fala.",
+    "articulacoes": "Ossos temporais, pelas articulações temporomandibulares.",
+    "acidentes": "Corpo, ramo, ângulo, processos condilar e coronoide, forames mentual e da mandíbula, linha milo-hióidea.",
+    "fmaIds": [
+      "FMA52748"
+    ]
+  },
+  {
+    "id": "osso-zigomatico",
+    "sistema": "esqueletico",
+    "nome": "Osso zigomático",
+    "nomeLatim": "Os zygomaticum",
+    "sinonimos": [
+      "malar"
+    ],
+    "pecas": [
+      "^(right|left) zygomatic bone$"
+    ],
+    "tipo": "Osso irregular do viscerocrânio",
+    "localizacao": "Proeminência da bochecha e parede lateral da órbita.",
+    "funcao": "Dá forma à face e transmite forças da mastigação ao neurocrânio.",
+    "articulacoes": "Frontal, temporal, esfenoide e maxila.",
+    "acidentes": "Processo temporal (forma o arco zigomático com o processo zigomático do temporal), forame zigomaticofacial.",
+    "fmaIds": [
+      "FMA52892",
+      "FMA52893"
+    ]
+  },
+  {
+    "id": "ossos-nasais-e-septo",
+    "sistema": "esqueletico",
+    "nome": "Ossos nasais, vômer e conchas nasais inferiores",
+    "nomeLatim": "Ossa nasalia, vomer et conchae nasales inferiores",
+    "pecas": [
+      "^(right|left) nasal bone$",
+      "^vomer$",
+      "^(right|left) inferior nasal concha$"
+    ],
+    "tipo": "Ossos do viscerocrânio",
+    "localizacao": "Dorso do nariz (ossos nasais), septo nasal ósseo posterior (vômer) e parede lateral da cavidade nasal (conchas inferiores).",
+    "funcao": "Sustentam o esqueleto nasal e ampliam a superfície de aquecimento e umidificação do ar inspirado.",
+    "articulacoes": "Frontal, etmoide, maxilas, palatinos e cartilagens nasais.",
+    "curiosidade": "O septo ósseo é formado pela lâmina perpendicular do etmoide (acima) e pelo vômer (abaixo).",
+    "fmaIds": [
+      "FMA53647",
+      "FMA53648",
+      "FMA54737",
+      "FMA54738",
+      "FMA9710"
+    ]
+  },
+  {
+    "id": "ossos-lacrimais-e-palatinos",
+    "sistema": "esqueletico",
+    "nome": "Ossos lacrimais e palatinos",
+    "nomeLatim": "Ossa lacrimalia et palatina",
+    "pecas": [
+      "^(right|left) lacrimal bone$",
+      "^(right|left) palatine bone$"
+    ],
+    "tipo": "Ossos do viscerocrânio",
+    "localizacao": "Parede medial da órbita (lacrimal) e parte posterior do palato duro e da parede nasal lateral (palatino).",
+    "funcao": "O lacrimal aloja o saco lacrimal; o palatino completa o palato duro e a fossa pterigopalatina.",
+    "articulacoes": "Frontal, etmoide, maxila, concha nasal inferior, esfenoide e vômer.",
+    "acidentes": "Sulco lacrimal, lâminas horizontal e perpendicular do palatino, forames palatinos maior e menores.",
+    "fmaIds": [
+      "FMA53645",
+      "FMA53646",
+      "FMA53655",
+      "FMA53656"
+    ]
+  },
+  {
+    "id": "osso-hioide",
+    "sistema": "esqueletico",
+    "nome": "Osso hioide",
+    "nomeLatim": "Os hyoideum",
+    "pecas": [
+      "^hyoid bone$"
+    ],
+    "tipo": "Osso ímpar em forma de U",
+    "localizacao": "Região cervical anterior, ao nível de C3, acima da cartilagem tireóidea.",
+    "funcao": "Ancoragem para os músculos da língua, do assoalho da boca e da laringe; participa da deglutição e da fonação.",
+    "articulacoes": "Nenhuma — está suspenso por músculos e ligamentos.",
+    "acidentes": "Corpo, cornos maiores e cornos menores.",
+    "curiosidade": "É o único osso do corpo que não se articula com nenhum outro; sua fratura é um achado clássico em estrangulamentos.",
+    "fmaIds": [
+      "FMA52749"
+    ]
+  },
+  {
+    "id": "atlas",
+    "sistema": "esqueletico",
+    "nome": "Atlas (C1)",
+    "nomeLatim": "Atlas",
+    "pecas": [
+      "^atlas$"
+    ],
+    "tipo": "Vértebra cervical atípica",
+    "localizacao": "Primeira vértebra cervical, sustentando o crânio.",
+    "funcao": "Sustenta a cabeça e permite o movimento de \"sim\" na articulação atlanto-occipital.",
+    "articulacoes": "Côndilos occipitais e áxis.",
+    "acidentes": "Ausência de corpo e de processo espinhoso; massas laterais, arcos anterior e posterior, fóvea do dente, sulco da artéria vertebral.",
+    "fmaIds": [
+      "FMA12519"
+    ]
+  },
+  {
+    "id": "axis",
+    "sistema": "esqueletico",
+    "nome": "Áxis (C2)",
+    "nomeLatim": "Axis",
+    "pecas": [
+      "^axis$",
+      "^intervertebral disk of axis$"
+    ],
+    "tipo": "Vértebra cervical atípica",
+    "localizacao": "Segunda vértebra cervical, sob o atlas.",
+    "funcao": "Eixo de rotação da cabeça — o movimento de \"não\" ocorre na articulação atlantoaxial mediana.",
+    "articulacoes": "Atlas e terceira vértebra cervical.",
+    "acidentes": "Dente do áxis (processo odontoide), processo espinhoso bífido.",
+    "fmaIds": [
+      "FMA12520",
+      "FMA25058"
+    ]
+  },
+  {
+    "id": "vertebras-cervicais",
+    "sistema": "esqueletico",
+    "nome": "Vértebras cervicais (C3–C7)",
+    "nomeLatim": "Vertebrae cervicales",
+    "pecas": [
+      "^(third|fourth|fifth|sixth|seventh) cervical vertebra$"
+    ],
+    "tipo": "Vértebras típicas da região cervical",
+    "localizacao": "Segmento móvel do pescoço, entre o áxis e a primeira vértebra torácica.",
+    "funcao": "Sustentam a cabeça, permitem ampla mobilidade e protegem a medula cervical e as artérias vertebrais.",
+    "articulacoes": "Vértebras adjacentes, por discos intervertebrais e articulações zigapofisárias.",
+    "acidentes": "Corpo pequeno, forame vertebral triangular e amplo, forame transversário, processo espinhoso bífido (C7 é proeminente).",
+    "curiosidade": "O processo espinhoso de C7, a vértebra proeminente, é o relevo palpável usado para contar as vértebras.",
+    "fmaIds": [
+      "FMA12521",
+      "FMA12522",
+      "FMA12523",
+      "FMA12524",
+      "FMA12525"
+    ]
+  },
+  {
+    "id": "vertebras-toracicas",
+    "sistema": "esqueletico",
+    "nome": "Vértebras torácicas (T1–T12)",
+    "nomeLatim": "Vertebrae thoracicae",
+    "pecas": [
+      "^(first|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth|eleventh|twelfth) thoracic vertebra$"
+    ],
+    "tipo": "Vértebras da região torácica",
+    "localizacao": "Segmento do dorso que se articula com as costelas.",
+    "funcao": "Formam a parede posterior do tórax e sustentam a caixa torácica.",
+    "articulacoes": "Vértebras adjacentes, cabeças das costelas (fóveas costais) e tubérculos costais.",
+    "acidentes": "Fóveas costais superior e inferior, fóvea costal do processo transverso, processo espinhoso longo e oblíquo.",
+    "fmaIds": [
+      "FMA10014",
+      "FMA10037",
+      "FMA10059",
+      "FMA10081",
+      "FMA9165",
+      "FMA9187",
+      "FMA9209",
+      "FMA9248",
+      "FMA9922",
+      "FMA9945",
+      "FMA9968",
+      "FMA9991"
+    ]
+  },
+  {
+    "id": "vertebras-lombares",
+    "sistema": "esqueletico",
+    "nome": "Vértebras lombares (L1–L5)",
+    "nomeLatim": "Vertebrae lumbales",
+    "pecas": [
+      "^(first|second|third|fourth|fifth) lumbar vertebra$"
+    ],
+    "tipo": "Vértebras da região lombar",
+    "localizacao": "Segmento inferior da coluna móvel, entre o tórax e o sacro.",
+    "funcao": "Suportam a maior carga axial do corpo e permitem flexão, extensão e inclinação do tronco.",
+    "articulacoes": "Vértebras adjacentes e base do sacro.",
+    "acidentes": "Corpo volumoso em rim, processos espinhosos curtos e quadrangulares, processos costais e mamilares.",
+    "curiosidade": "A medula espinal termina em torno de L1–L2; por isso a punção lombar é feita abaixo desse nível.",
+    "fmaIds": [
+      "FMA13072",
+      "FMA13073",
+      "FMA13074",
+      "FMA13075",
+      "FMA13076"
+    ]
+  },
+  {
+    "id": "sacro",
+    "sistema": "esqueletico",
+    "nome": "Sacro",
+    "nomeLatim": "Os sacrum",
+    "pecas": [
+      "^sacrum$"
+    ],
+    "tipo": "Osso irregular formado pela fusão de cinco vértebras",
+    "localizacao": "Parte posterior da pelve, encravado entre os dois ossos do quadril.",
+    "funcao": "Transmite o peso do tronco para a cintura pélvica e fecha posteriormente a pelve.",
+    "articulacoes": "L5, ossos do quadril (articulações sacroilíacas) e cóccix.",
+    "acidentes": "Promontório, forames sacrais anteriores e posteriores, canal sacral, hiato sacral, face auricular.",
+    "fmaIds": [
+      "FMA16202"
+    ]
+  },
+  {
+    "id": "discos-intervertebrais",
+    "sistema": "esqueletico",
+    "nome": "Discos intervertebrais",
+    "nomeLatim": "Disci intervertebrales",
+    "pecas": [
+      "^intervertebral disk of (?!axis)"
+    ],
+    "tipo": "Articulação cartilagínea (sínfise)",
+    "localizacao": "Entre os corpos de vértebras adjacentes, de C2 ao sacro.",
+    "funcao": "Absorvem impacto, distribuem carga e permitem os movimentos entre as vértebras.",
+    "acidentes": "Anel fibroso periférico e núcleo pulposo central.",
+    "curiosidade": "Respondem por cerca de um quarto da altura da coluna vertebral — e por parte da estatura que se perde ao longo do dia.",
+    "fmaIds": [
+      "FMA10458",
+      "FMA13495",
+      "FMA13500",
+      "FMA13501",
+      "FMA13502",
+      "FMA13503",
+      "FMA13504",
+      "FMA13505",
+      "FMA13506",
+      "FMA13507",
+      "FMA13508",
+      "FMA13509",
+      "FMA13896",
+      "FMA13897",
+      "FMA13898",
+      "FMA13899",
+      "FMA13900",
+      "FMA16033",
+      "FMA16034",
+      "FMA16035",
+      "FMA16036",
+      "FMA16037"
+    ]
+  },
+  {
+    "id": "esterno",
+    "sistema": "esqueletico",
+    "nome": "Esterno",
+    "nomeLatim": "Sternum",
+    "pecas": [
+      "^manubrium$",
+      "^body of sternum$",
+      "^xiphoid process$"
+    ],
+    "tipo": "Osso plano",
+    "localizacao": "Linha média da parede torácica anterior.",
+    "funcao": "Fecha anteriormente a caixa torácica e ancora as clavículas e as cartilagens costais.",
+    "articulacoes": "Clavículas e cartilagens costais das costelas 1 a 7.",
+    "acidentes": "Manúbrio, corpo, processo xifoide, incisura jugular, ângulo do esterno.",
+    "curiosidade": "O ângulo do esterno marca o nível da 2ª cartilagem costal e o plano que separa o mediastino superior do inferior.",
+    "fmaIds": [
+      "FMA7486",
+      "FMA7487",
+      "FMA7488"
+    ]
+  },
+  {
+    "id": "costelas",
+    "sistema": "esqueletico",
+    "nome": "Costelas",
+    "nomeLatim": "Costae",
+    "pecas": [
+      "^(right|left) (first|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth|eleventh|twelfth) rib$"
+    ],
+    "tipo": "Ossos planos e curvos",
+    "localizacao": "Doze pares que formam as paredes laterais e posteriores do tórax.",
+    "funcao": "Protegem os órgãos torácicos e movimentam-se na respiração.",
+    "articulacoes": "Vértebras torácicas atrás; esterno, pelas cartilagens costais, à frente (costelas 1–7).",
+    "acidentes": "Cabeça, colo, tubérculo, ângulo, corpo e sulco da costela.",
+    "curiosidade": "As costelas 11 e 12 são flutuantes: não alcançam o esterno nem as cartilagens vizinhas.",
+    "fmaIds": [
+      "FMA7857",
+      "FMA7882",
+      "FMA7909",
+      "FMA7957",
+      "FMA7987",
+      "FMA8012",
+      "FMA8039",
+      "FMA8066",
+      "FMA8093",
+      "FMA8148",
+      "FMA8175",
+      "FMA8202",
+      "FMA8229",
+      "FMA8256",
+      "FMA8283",
+      "FMA8310",
+      "FMA8364",
+      "FMA8391",
+      "FMA8445",
+      "FMA8472",
+      "FMA8531",
+      "FMA8532",
+      "FMA8533",
+      "FMA8534"
+    ]
+  },
+  {
+    "id": "cartilagens-costais",
+    "sistema": "esqueletico",
+    "nome": "Cartilagens costais",
+    "nomeLatim": "Cartilagines costales",
+    "pecas": [
+      "costal cartilage$"
+    ],
+    "tipo": "Cartilagem hialina",
+    "localizacao": "Prolongam as costelas até o esterno e formam o rebordo costal.",
+    "funcao": "Conferem elasticidade à caixa torácica, permitindo sua expansão na inspiração.",
+    "articulacoes": "Extremidade anterior das costelas e incisuras costais do esterno.",
+    "curiosidade": "Calcificam-se com a idade, o que reduz a complacência torácica no idoso.",
+    "fmaIds": [
+      "BP24",
+      "BP28",
+      "FMA7875",
+      "FMA7886",
+      "FMA7913",
+      "FMA7976",
+      "FMA8005",
+      "FMA8031",
+      "FMA8058",
+      "FMA8070",
+      "FMA8112",
+      "FMA8167",
+      "FMA8194",
+      "FMA8221",
+      "FMA8248",
+      "FMA8275"
+    ]
+  },
+  {
+    "id": "clavicula",
+    "sistema": "esqueletico",
+    "nome": "Clavícula",
+    "nomeLatim": "Clavicula",
+    "pecas": [
+      "^(right|left) clavicle$"
+    ],
+    "tipo": "Osso longo",
+    "localizacao": "Horizontal, entre o manúbrio do esterno e o acrômio da escápula.",
+    "funcao": "Único elo ósseo entre o membro superior e o esqueleto axial; afasta o ombro do tronco.",
+    "articulacoes": "Esterno (esternoclavicular) e acrômio (acromioclavicular).",
+    "acidentes": "Extremidades esternal e acromial, tubérculo conoide, linha trapezóidea.",
+    "curiosidade": "É o osso mais fraturado do corpo, geralmente na junção dos terços médio e lateral.",
+    "fmaIds": [
+      "FMA13322",
+      "FMA13323"
+    ]
+  },
+  {
+    "id": "escapula",
+    "sistema": "esqueletico",
+    "nome": "Escápula",
+    "nomeLatim": "Scapula",
+    "sinonimos": [
+      "omoplata"
+    ],
+    "pecas": [
+      "^(right|left) scapula$"
+    ],
+    "tipo": "Osso plano triangular",
+    "localizacao": "Face posterior do tórax, entre a 2ª e a 7ª costelas.",
+    "funcao": "Base móvel do ombro; articula-se com o úmero e serve de inserção para 17 músculos.",
+    "articulacoes": "Úmero (glenoumeral) e clavícula (acromioclavicular).",
+    "acidentes": "Espinha, acrômio, processo coracoide, cavidade glenoidal, fossas supraespinal, infraespinal e subescapular, incisura da escápula.",
+    "fmaIds": [
+      "FMA13395",
+      "FMA13396"
+    ]
+  },
+  {
+    "id": "umero",
+    "sistema": "esqueletico",
+    "nome": "Úmero",
+    "nomeLatim": "Humerus",
+    "pecas": [
+      "^(right|left) humerus$"
+    ],
+    "tipo": "Osso longo",
+    "localizacao": "Esqueleto do braço, entre o ombro e o cotovelo.",
+    "funcao": "Transmite força entre a cintura escapular e o antebraço.",
+    "articulacoes": "Escápula (glenoumeral), rádio e ulna (cotovelo).",
+    "acidentes": "Cabeça, colos anatômico e cirúrgico, tubérculos maior e menor, sulco intertubercular, tuberosidade deltóidea, sulco do nervo radial, capítulo, tróclea, epicôndilos medial e lateral, fossas coronóidea e do olécrano.",
+    "curiosidade": "O nervo radial percorre o sulco homônimo — fraturas da diáfise podem lesá-lo e causar mão caída.",
+    "fmaIds": [
+      "FMA23130",
+      "FMA23131"
+    ]
+  },
+  {
+    "id": "radio",
+    "sistema": "esqueletico",
+    "nome": "Rádio",
+    "nomeLatim": "Radius",
+    "pecas": [
+      "^(right|left) radius$"
+    ],
+    "tipo": "Osso longo",
+    "localizacao": "Osso lateral do antebraço, do lado do polegar.",
+    "funcao": "Gira sobre a ulna na pronossupinação e transmite a carga da mão ao cotovelo.",
+    "articulacoes": "Capítulo do úmero, ulna (radioulnares proximal e distal), escafoide e semilunar.",
+    "acidentes": "Cabeça, colo, tuberosidade do rádio, linha oblíqua, processo estiloide, incisura ulnar.",
+    "curiosidade": "A fratura da extremidade distal do rádio (fratura de Colles) é a mais comum do membro superior.",
+    "fmaIds": [
+      "FMA23464",
+      "FMA23465"
+    ]
+  },
+  {
+    "id": "ulna",
+    "sistema": "esqueletico",
+    "nome": "Ulna",
+    "nomeLatim": "Ulna",
+    "pecas": [
+      "^(right|left) ulna$",
+      "interosseous membrane of (right|left) forearm"
+    ],
+    "tipo": "Osso longo",
+    "localizacao": "Osso medial do antebraço, do lado do dedo mínimo.",
+    "funcao": "Forma a articulação principal do cotovelo com o úmero e serve de eixo para a rotação do rádio.",
+    "articulacoes": "Tróclea do úmero, rádio e, indiretamente, o carpo pelo disco articular.",
+    "acidentes": "Olécrano, processo coronoide, incisura troclear, incisura radial, tuberosidade da ulna, cabeça e processo estiloide.",
+    "fmaIds": [
+      "FMA23467",
+      "FMA23468",
+      "FMA23707",
+      "FMA23708"
+    ]
+  },
+  {
+    "id": "escafoide",
+    "sistema": "esqueletico",
+    "nome": "Escafoide",
+    "nomeLatim": "Os scaphoideum",
+    "pecas": [
+      "^(right|left) scaphoid$"
+    ],
+    "tipo": "Osso curto do carpo (fileira proximal)",
+    "localizacao": "Lado radial da fileira proximal do carpo, no assoalho da tabaqueira anatômica.",
+    "funcao": "Faz a ponte entre as duas fileiras do carpo e transmite carga do polegar ao rádio.",
+    "articulacoes": "Rádio, semilunar, capitato, trapézio e trapezoide.",
+    "curiosidade": "Sua irrigação é retrógrada e distal: fraturas do colo podem levar à necrose avascular do polo proximal.",
+    "fmaIds": [
+      "FMA24435",
+      "FMA24436"
+    ]
+  },
+  {
+    "id": "semilunar",
+    "sistema": "esqueletico",
+    "nome": "Semilunar",
+    "nomeLatim": "Os lunatum",
+    "pecas": [
+      "^(right|left) lunate$"
+    ],
+    "tipo": "Osso curto do carpo (fileira proximal)",
+    "localizacao": "Entre o escafoide e o piramidal, articulando-se com o rádio.",
+    "funcao": "Peça central da articulação radiocarpal.",
+    "articulacoes": "Rádio, escafoide, piramidal, capitato e hamato.",
+    "curiosidade": "É o osso do carpo que mais frequentemente luxa.",
+    "fmaIds": [
+      "FMA24437",
+      "FMA24438"
+    ]
+  },
+  {
+    "id": "piramidal",
+    "sistema": "esqueletico",
+    "nome": "Piramidal",
+    "nomeLatim": "Os triquetrum",
+    "sinonimos": [
+      "triquetro"
+    ],
+    "pecas": [
+      "^(right|left) triquetral$"
+    ],
+    "tipo": "Osso curto do carpo (fileira proximal)",
+    "localizacao": "Lado ulnar da fileira proximal do carpo.",
+    "funcao": "Participa da articulação mediocarpal e sustenta o pisiforme.",
+    "articulacoes": "Semilunar, pisiforme, hamato e disco articular ulnar.",
+    "fmaIds": [
+      "FMA24439",
+      "FMA24440"
+    ]
+  },
+  {
+    "id": "pisiforme",
+    "sistema": "esqueletico",
+    "nome": "Pisiforme",
+    "nomeLatim": "Os pisiforme",
+    "pecas": [
+      "^(right|left) pisiform$"
+    ],
+    "tipo": "Osso sesamoide do carpo",
+    "localizacao": "Face palmar do piramidal, na base da eminência hipotenar.",
+    "funcao": "Aumenta o braço de alavanca do flexor ulnar do carpo.",
+    "articulacoes": "Piramidal.",
+    "curiosidade": "É um osso sesamoide desenvolvido dentro do tendão do flexor ulnar do carpo.",
+    "fmaIds": [
+      "FMA24441",
+      "FMA24442"
+    ]
+  },
+  {
+    "id": "osso-trapezio",
+    "sistema": "esqueletico",
+    "nome": "Trapézio (osso do carpo)",
+    "nomeLatim": "Os trapezium",
+    "pecas": [
+      "^(right|left) trapezium$"
+    ],
+    "tipo": "Osso curto do carpo (fileira distal)",
+    "localizacao": "Lado radial da fileira distal, na base do polegar.",
+    "funcao": "Sua superfície selar permite a oposição do polegar.",
+    "articulacoes": "Escafoide, trapezoide, 1º e 2º metacarpais.",
+    "curiosidade": "A articulação trapeziometacarpal é a sede mais comum da rizartrose.",
+    "fmaIds": [
+      "FMA24443",
+      "FMA24444"
+    ],
+    "sinonimos": [
+      "trapézio"
+    ]
+  },
+  {
+    "id": "trapezoide",
+    "sistema": "esqueletico",
+    "nome": "Trapezoide",
+    "nomeLatim": "Os trapezoideum",
+    "pecas": [
+      "^(right|left) trapezoid$"
+    ],
+    "tipo": "Osso curto do carpo (fileira distal)",
+    "localizacao": "Entre o trapézio e o capitato.",
+    "funcao": "Estabiliza a base do 2º metacarpal.",
+    "articulacoes": "Escafoide, trapézio, capitato e 2º metacarpal.",
+    "fmaIds": [
+      "FMA23725",
+      "FMA24445"
+    ]
+  },
+  {
+    "id": "capitato",
+    "sistema": "esqueletico",
+    "nome": "Capitato",
+    "nomeLatim": "Os capitatum",
+    "pecas": [
+      "^(right|left) capitate$"
+    ],
+    "tipo": "Osso curto do carpo (fileira distal)",
+    "localizacao": "Centro do carpo; é o maior dos ossos carpais.",
+    "funcao": "Eixo central em torno do qual o carpo se move.",
+    "articulacoes": "Escafoide, semilunar, trapezoide, hamato e metacarpais 2 a 4.",
+    "fmaIds": [
+      "FMA24446",
+      "FMA24447"
+    ]
+  },
+  {
+    "id": "hamato",
+    "sistema": "esqueletico",
+    "nome": "Hamato",
+    "nomeLatim": "Os hamatum",
+    "pecas": [
+      "^(right|left) hamate$"
+    ],
+    "tipo": "Osso curto do carpo (fileira distal)",
+    "localizacao": "Lado ulnar da fileira distal do carpo.",
+    "funcao": "Seu hâmulo forma a parede lateral do canal de Guyon e a parede medial do túnel do carpo.",
+    "articulacoes": "Semilunar, piramidal, capitato, 4º e 5º metacarpais.",
+    "acidentes": "Hâmulo do hamato.",
+    "fmaIds": [
+      "FMA24448",
+      "FMA24449"
+    ]
+  },
+  {
+    "id": "metacarpais",
+    "sistema": "esqueletico",
+    "nome": "Metacarpais",
+    "nomeLatim": "Ossa metacarpi",
+    "pecas": [
+      "metacarpal bone$"
+    ],
+    "tipo": "Ossos longos curtos",
+    "localizacao": "Esqueleto da palma da mão, numerados de I (polegar) a V (dedo mínimo).",
+    "funcao": "Transmitem força do carpo aos dedos e definem a largura da mão.",
+    "articulacoes": "Ossos do carpo, entre si e falanges proximais.",
+    "acidentes": "Base, corpo e cabeça (os nós dos dedos).",
+    "fmaIds": [
+      "FMA24464",
+      "FMA24465",
+      "FMA24466",
+      "FMA24467",
+      "FMA24468",
+      "FMA24469",
+      "FMA24470",
+      "FMA24471",
+      "FMA24472",
+      "FMA24473"
+    ]
+  },
+  {
+    "id": "falanges-da-mao",
+    "sistema": "esqueletico",
+    "nome": "Falanges da mão",
+    "nomeLatim": "Phalanges manus",
+    "pecas": [
+      "phalanx of (right|left) (thumb|index finger|middle finger|ring finger|little finger)$"
+    ],
+    "tipo": "Ossos longos curtos",
+    "localizacao": "Esqueleto dos dedos: três falanges por dedo, duas no polegar.",
+    "funcao": "Permitem a preensão fina e a pinça.",
+    "articulacoes": "Metacarpais e falanges vizinhas, por articulações em dobradiça.",
+    "fmaIds": [
+      "FMA23938",
+      "FMA23940",
+      "FMA23942",
+      "FMA23944",
+      "FMA23951",
+      "FMA23953",
+      "FMA23955",
+      "FMA23957",
+      "FMA23959",
+      "FMA24450",
+      "FMA24451",
+      "FMA24452",
+      "FMA24453",
+      "FMA24454",
+      "FMA24455",
+      "FMA24456",
+      "FMA24457",
+      "FMA24458",
+      "FMA24459",
+      "FMA24460",
+      "FMA24461",
+      "FMA24462",
+      "FMA24463",
+      "FMA65470",
+      "FMA66791",
+      "FMA71908",
+      "FMA71915",
+      "FMA71916"
+    ]
+  },
+  {
+    "id": "osso-do-quadril",
+    "sistema": "esqueletico",
+    "nome": "Osso do quadril",
+    "nomeLatim": "Os coxae",
+    "sinonimos": [
+      "ilíaco",
+      "ílio",
+      "ísquio",
+      "púbis"
+    ],
+    "pecas": [
+      "^(right|left) hip bone$"
+    ],
+    "tipo": "Osso irregular formado pela fusão de ílio, ísquio e púbis",
+    "localizacao": "Forma a parede lateral e anterior da pelve.",
+    "funcao": "Transmite o peso do tronco aos membros inferiores e protege as vísceras pélvicas.",
+    "articulacoes": "Sacro (sacroilíaca), fêmur (coxofemoral) e o osso do quadril oposto (sínfise púbica).",
+    "acidentes": "Acetábulo, crista ilíaca, espinhas ilíacas, incisuras isquiáticas, espinha isquiática, túber isquiático, forame obturado.",
+    "curiosidade": "Os três ossos se fundem no acetábulo por volta dos 15 aos 17 anos.",
+    "fmaIds": [
+      "FMA16586",
+      "FMA16587"
+    ]
+  },
+  {
+    "id": "femur",
+    "sistema": "esqueletico",
+    "nome": "Fêmur",
+    "nomeLatim": "Os femoris",
+    "pecas": [
+      "^(right|left) femur$"
+    ],
+    "tipo": "Osso longo — o maior e mais resistente do corpo",
+    "localizacao": "Esqueleto da coxa, do quadril ao joelho.",
+    "funcao": "Sustenta o peso corporal e serve de alavanca para a marcha.",
+    "articulacoes": "Acetábulo do osso do quadril, tíbia e patela.",
+    "acidentes": "Cabeça, colo, trocanteres maior e menor, linha áspera, côndilos medial e lateral, epicôndilos, fossa intercondilar.",
+    "curiosidade": "A fratura do colo do fêmur é a grande causa de morbidade no idoso, por comprometer a irrigação da cabeça femoral.",
+    "fmaIds": [
+      "FMA24474",
+      "FMA24475"
+    ]
+  },
+  {
+    "id": "patela",
+    "sistema": "esqueletico",
+    "nome": "Patela",
+    "nomeLatim": "Patella",
+    "sinonimos": [
+      "rótula"
+    ],
+    "pecas": [
+      "^(right|left) patella$"
+    ],
+    "tipo": "Maior osso sesamoide do corpo",
+    "localizacao": "Face anterior do joelho, dentro do tendão do quadríceps femoral.",
+    "funcao": "Aumenta o braço de alavanca do quadríceps e protege a face anterior do joelho.",
+    "articulacoes": "Face patelar do fêmur.",
+    "acidentes": "Base, ápice, faces articulares medial e lateral.",
+    "fmaIds": [
+      "FMA24486",
+      "FMA24487"
+    ]
+  },
+  {
+    "id": "tibia",
+    "sistema": "esqueletico",
+    "nome": "Tíbia",
+    "nomeLatim": "Tibia",
+    "pecas": [
+      "^(right|left) tibia$"
+    ],
+    "tipo": "Osso longo",
+    "localizacao": "Osso medial da perna, entre o joelho e o tornozelo.",
+    "funcao": "Único osso da perna que transmite peso; forma a superfície de carga do joelho e do tornozelo.",
+    "articulacoes": "Fêmur, fíbula e tálus.",
+    "acidentes": "Côndilos medial e lateral, eminência intercondilar, tuberosidade da tíbia, margem anterior, maléolo medial.",
+    "curiosidade": "A margem anterior é subcutânea em toda a sua extensão — daí a dor intensa dos traumas na canela.",
+    "fmaIds": [
+      "FMA24477",
+      "FMA24478"
+    ]
+  },
+  {
+    "id": "fibula",
+    "sistema": "esqueletico",
+    "nome": "Fíbula",
+    "nomeLatim": "Fibula",
+    "sinonimos": [
+      "perônio"
+    ],
+    "pecas": [
+      "^(right|left) fibula$",
+      "interosseous membrane of (right|left) leg"
+    ],
+    "tipo": "Osso longo",
+    "localizacao": "Osso lateral e delgado da perna.",
+    "funcao": "Não sustenta peso: serve de inserção muscular e estabiliza o tornozelo pelo maléolo lateral.",
+    "articulacoes": "Tíbia (proximal e distal) e tálus.",
+    "acidentes": "Cabeça, colo, corpo, maléolo lateral.",
+    "curiosidade": "É o osso doador preferido em enxertos vascularizados por poder ser retirado sem perda funcional relevante.",
+    "fmaIds": [
+      "FMA24480",
+      "FMA24481",
+      "FMA35192",
+      "FMA35193"
+    ]
+  },
+  {
+    "id": "talus",
+    "sistema": "esqueletico",
+    "nome": "Tálus",
+    "nomeLatim": "Talus",
+    "sinonimos": [
+      "astrágalo"
+    ],
+    "pecas": [
+      "^(right|left) talus$"
+    ],
+    "tipo": "Osso curto do tarso",
+    "localizacao": "Entre a tíbia/fíbula e o calcâneo, no ápice do pé.",
+    "funcao": "Transmite todo o peso do corpo da perna para o pé.",
+    "articulacoes": "Tíbia, fíbula, calcâneo e navicular.",
+    "curiosidade": "Não recebe inserção de nenhum músculo e tem irrigação precária, com alto risco de necrose após fratura.",
+    "fmaIds": [
+      "FMA24482",
+      "FMA24483"
+    ]
+  },
+  {
+    "id": "calcaneo",
+    "sistema": "esqueletico",
+    "nome": "Calcâneo",
+    "nomeLatim": "Calcaneus",
+    "pecas": [
+      "^(right|left) calcaneus$",
+      "long plantar ligament"
+    ],
+    "tipo": "Osso curto do tarso — o maior deles",
+    "localizacao": "Forma o calcanhar, sob o tálus.",
+    "funcao": "Recebe o impacto do apoio do pé e ancora o tendão do calcâneo.",
+    "articulacoes": "Tálus e cuboide.",
+    "acidentes": "Tuberosidade do calcâneo, sustentáculo do tálus, sulco do calcâneo.",
+    "fmaIds": [
+      "FMA24497",
+      "FMA24498",
+      "FMA44249",
+      "FMA44250"
+    ]
+  },
+  {
+    "id": "ossos-do-tarso",
+    "sistema": "esqueletico",
+    "nome": "Navicular, cuboide e cuneiformes",
+    "nomeLatim": "Os naviculare, os cuboideum et ossa cuneiformia",
+    "pecas": [
+      "navicular bone of (right|left) foot",
+      "^(right|left) cuboid bone$",
+      "cuneiform bone$"
+    ],
+    "tipo": "Ossos curtos do tarso",
+    "localizacao": "Fileira distal do tarso, entre o tálus/calcâneo e os metatarsais.",
+    "funcao": "Compõem os arcos do pé e distribuem a carga para o antepé.",
+    "articulacoes": "Tálus, calcâneo, entre si e metatarsais.",
+    "curiosidade": "A tuberosidade do navicular é o ponto de inserção do tibial posterior, sustentáculo do arco medial.",
+    "fmaIds": [
+      "FMA24500",
+      "FMA24501",
+      "FMA24521",
+      "FMA24522",
+      "FMA24523",
+      "FMA24524",
+      "FMA24525",
+      "FMA24526",
+      "FMA24528",
+      "FMA24529"
+    ]
+  },
+  {
+    "id": "metatarsais-e-falanges-do-pe",
+    "sistema": "esqueletico",
+    "nome": "Metatarsais e falanges do pé",
+    "nomeLatim": "Ossa metatarsi et phalanges pedis",
+    "pecas": [
+      "metatarsal bone$",
+      "phalanx of (right|left) (big toe|second toe|third toe|fourth toe|little toe)$",
+      "sesamoid bone of (right|left) foot"
+    ],
+    "tipo": "Ossos longos curtos",
+    "localizacao": "Esqueleto do antepé e dos dedos do pé.",
+    "funcao": "Formam a alavanca de impulsão da marcha e sustentam o arco transverso.",
+    "articulacoes": "Ossos do tarso, entre si e falanges vizinhas.",
+    "curiosidade": "A base do 5º metatarsal, onde se insere o fibular curto, é local frequente de fratura por avulsão.",
+    "fmaIds": [
+      "FMA230986",
+      "FMA230988",
+      "FMA24507",
+      "FMA24508",
+      "FMA24509",
+      "FMA24510",
+      "FMA24511",
+      "FMA24512",
+      "FMA24513",
+      "FMA24514",
+      "FMA24515",
+      "FMA24516",
+      "FMA32634",
+      "FMA32635",
+      "FMA32636",
+      "FMA32637",
+      "FMA32638",
+      "FMA32639",
+      "FMA32640",
+      "FMA32641",
+      "FMA32642",
+      "FMA32643",
+      "FMA32644",
+      "FMA32645",
+      "FMA32646",
+      "FMA32647",
+      "FMA32650",
+      "FMA32651",
+      "FMA32652",
+      "FMA32653",
+      "FMA32654",
+      "FMA32655",
+      "FMA32656",
+      "FMA32657",
+      "FMA32658",
+      "FMA32659",
+      "FMA43253",
+      "FMA43254",
+      "FMA45097",
+      "FMA45098"
+    ]
+  }
+]

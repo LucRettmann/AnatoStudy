@@ -1,0 +1,98 @@
+[
+  {
+    "id": "esqueletico",
+    "nome": "Esquelético",
+    "nomeLatim": "Systema skeletale",
+    "descricao": "Ossos, cartilagens e articulações: sustentam o corpo, protegem órgãos, armazenam minerais e abrigam a medula óssea.",
+    "cor": "#e8e2d4",
+    "visivelPorPadrao": true
+  },
+  {
+    "id": "muscular",
+    "nome": "Muscular",
+    "nomeLatim": "Systema musculare",
+    "descricao": "Músculos esqueléticos e seus tendões: produzem movimento, mantêm a postura e geram calor.",
+    "cor": "#b83b3b",
+    "visivelPorPadrao": false
+  },
+  {
+    "id": "nervoso",
+    "nome": "Nervoso",
+    "nomeLatim": "Systema nervosum",
+    "descricao": "Encéfalo, medula espinal e nervos: captam estímulos, integram informação e comandam as respostas do organismo.",
+    "cor": "#e8c65a",
+    "visivelPorPadrao": false
+  },
+  {
+    "id": "circulatorio",
+    "nome": "Circulatório",
+    "nomeLatim": "Systema cardiovasculare",
+    "descricao": "Coração, artérias, veias e capilares: transportam sangue, oxigênio, nutrientes e hormônios.",
+    "cor": "#c62f38",
+    "visivelPorPadrao": false
+  },
+  {
+    "id": "respiratorio",
+    "nome": "Respiratório",
+    "nomeLatim": "Systema respiratorium",
+    "descricao": "Vias aéreas e pulmões: promovem a hematose, ou seja, a troca de oxigênio e gás carbônico com o sangue.",
+    "cor": "#7ab0d6",
+    "visivelPorPadrao": false
+  },
+  {
+    "id": "digestorio",
+    "nome": "Digestório",
+    "nomeLatim": "Systema digestorium",
+    "descricao": "Do lábio ao ânus, com fígado e pâncreas: digere o alimento, absorve nutrientes e elimina resíduos.",
+    "cor": "#d99a53",
+    "visivelPorPadrao": false
+  },
+  {
+    "id": "urinario",
+    "nome": "Urinário",
+    "nomeLatim": "Systema urinarium",
+    "descricao": "Rins, ureteres, bexiga e uretra: filtram o sangue e regulam água, eletrólitos e pH.",
+    "cor": "#8fbf87",
+    "visivelPorPadrao": false
+  },
+  {
+    "id": "endocrino",
+    "nome": "Endócrino",
+    "nomeLatim": "Systema endocrinum",
+    "descricao": "Glândulas que lançam hormônios no sangue e coordenam metabolismo, crescimento e reprodução.",
+    "cor": "#a97fc7",
+    "visivelPorPadrao": false
+  },
+  {
+    "id": "linfatico",
+    "nome": "Linfático",
+    "nomeLatim": "Systema lymphoideum",
+    "descricao": "Vasos linfáticos, linfonodos, baço e timo: drenam líquido intersticial e sustentam a imunidade.",
+    "cor": "#7fc9bb",
+    "visivelPorPadrao": false
+  },
+  {
+    "id": "tegumentar",
+    "nome": "Tegumentar",
+    "nomeLatim": "Integumentum commune",
+    "descricao": "Pele e anexos: barreira contra o meio externo, termorregulação e recepção sensorial.",
+    "cor": "#e5bfa8",
+    "visivelPorPadrao": false
+  },
+  {
+    "id": "sentidos",
+    "nome": "Órgãos dos sentidos",
+    "nomeLatim": "Organa sensuum",
+    "descricao": "Olho, orelha e demais receptores especiais que convertem estímulos físicos em impulsos nervosos.",
+    "cor": "#93a4e0",
+    "visivelPorPadrao": false
+  },
+  {
+    "id": "genital",
+    "nome": "Genital",
+    "nomeLatim": "Systema genitale",
+    "descricao": "Órgãos reprodutores (modelo masculino, do conjunto original do BodyParts3D).",
+    "cor": "#cf9296",
+    "visivelPorPadrao": false
+  }
+]

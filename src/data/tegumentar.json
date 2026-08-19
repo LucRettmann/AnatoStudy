@@ -1,0 +1,36 @@
+[
+  {
+    "id": "pele",
+    "sistema": "tegumentar",
+    "nome": "Pele",
+    "nomeLatim": "Cutis",
+    "pecas": [
+      "^skin$"
+    ],
+    "localizacao": "Reveste toda a superfície corporal, continuando-se com as mucosas nos orifícios naturais.",
+    "funcao": "Barreira contra microrganismos e perda de água, termorregulação, síntese de vitamina D e recepção sensorial.",
+    "irrigacao": "Plexos vasculares dérmicos superficial e profundo.",
+    "inervacao": "Terminações livres e corpúsculos sensitivos dos nervos cutâneos, organizados em dermátomos.",
+    "curiosidade": "É o maior órgão do corpo: cerca de 2 m² e 16 % da massa corporal.",
+    "fmaIds": [
+      "FMA7163"
+    ]
+  },
+  {
+    "id": "pelos",
+    "sistema": "tegumentar",
+    "nome": "Pelos",
+    "nomeLatim": "Pili",
+    "pecas": [
+      "^set of (head hairs|eyebrows|pubic hairs)$"
+    ],
+    "localizacao": "Anexos cutâneos presentes em quase toda a pele, exceto palmas, plantas e lábios.",
+    "funcao": "Proteção mecânica e contra a radiação solar, isolamento térmico e função sensorial pelo folpiloso.",
+    "curiosidade": "As sobrancelhas desviam o suor da fronte, mantendo os olhos livres.",
+    "fmaIds": [
+      "FMA70751",
+      "FMA70754",
+      "FMA71098"
+    ]
+  }
+]

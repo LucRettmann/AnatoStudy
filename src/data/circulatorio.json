@@ -1,0 +1,378 @@
+[
+  {
+    "id": "coracao",
+    "sistema": "circulatorio",
+    "nome": "Coração",
+    "nomeLatim": "Cor",
+    "pecas": [
+      "^wall of heart$"
+    ],
+    "localizacao": "Mediastino médio, entre os pulmões, apoiado no diafragma e envolvido pelo pericárdio.",
+    "funcao": "Bomba muscular dupla: o lado direito envia sangue aos pulmões e o esquerdo, ao restante do corpo.",
+    "irrigacao": "Artérias coronárias direita e esquerda, ramos da aorta ascendente.",
+    "inervacao": "Plexo cardíaco: fibras simpáticas (aceleram) e parassimpáticas do vago (desaceleram).",
+    "relacoes": "À frente do esôfago e da aorta descendente; atrás do esterno e das cartilagens costais.",
+    "curiosidade": "Bate cerca de 100 mil vezes por dia e bombeia aproximadamente 7 mil litros de sangue.",
+    "fmaIds": [
+      "FMA7274"
+    ]
+  },
+  {
+    "id": "musculos-papilares",
+    "sistema": "circulatorio",
+    "nome": "Músculos papilares",
+    "nomeLatim": "Musculi papillares",
+    "pecas": [
+      "papillary muscle of (right|left) ventricle"
+    ],
+    "localizacao": "Projeções musculares da parede interna dos ventrículos.",
+    "funcao": "Tracionam as cordas tendíneas na sístole, impedindo que as valvas atrioventriculares se evertam para os átrios.",
+    "curiosidade": "Sua ruptura, complicação do infarto, causa insuficiência mitral aguda e grave.",
+    "fmaIds": [
+      "FMA7260",
+      "FMA7261",
+      "FMA7262",
+      "FMA7266",
+      "FMA9352nsn"
+    ]
+  },
+  {
+    "id": "valva-tricuspide",
+    "sistema": "circulatorio",
+    "nome": "Valva atrioventricular direita",
+    "nomeLatim": "Valva atrioventricularis dextra",
+    "sinonimos": [
+      "valva tricúspide"
+    ],
+    "pecas": [
+      "^tricuspid valve$"
+    ],
+    "localizacao": "Entre o átrio e o ventrículo direitos.",
+    "funcao": "Impede o refluxo de sangue do ventrículo direito para o átrio direito na sístole.",
+    "curiosidade": "Ausculta-se melhor na base do apêndice xifoide, à esquerda do esterno.",
+    "fmaIds": [
+      "FMA7234"
+    ]
+  },
+  {
+    "id": "valva-mitral",
+    "sistema": "circulatorio",
+    "nome": "Valva atrioventricular esquerda",
+    "nomeLatim": "Valva atrioventricularis sinistra",
+    "sinonimos": [
+      "valva mitral",
+      "valva bicúspide"
+    ],
+    "pecas": [
+      "^mitral valve$"
+    ],
+    "localizacao": "Entre o átrio e o ventrículo esquerdos.",
+    "funcao": "Impede o refluxo para o átrio esquerdo durante a contração ventricular.",
+    "curiosidade": "É a valva mais acometida pela febre reumática; ausculta-se no ápice cardíaco, no 5º espaço intercostal esquerdo.",
+    "fmaIds": [
+      "FMA7235"
+    ]
+  },
+  {
+    "id": "valva-pulmonar",
+    "sistema": "circulatorio",
+    "nome": "Valva do tronco pulmonar",
+    "nomeLatim": "Valva trunci pulmonalis",
+    "pecas": [
+      "^pulmonary valve$"
+    ],
+    "localizacao": "Saída do ventrículo direito para o tronco pulmonar.",
+    "funcao": "Impede o retorno do sangue do tronco pulmonar ao ventrículo direito na diástole.",
+    "fmaIds": [
+      "FMA7246"
+    ]
+  },
+  {
+    "id": "aorta-ascendente-e-arco",
+    "sistema": "circulatorio",
+    "nome": "Aorta ascendente e arco da aorta",
+    "nomeLatim": "Aorta ascendens et arcus aortae",
+    "pecas": [
+      "^ascending aorta$",
+      "^arch of aorta$"
+    ],
+    "localizacao": "Sai do ventrículo esquerdo, sobe no mediastino médio e curva-se para a esquerda ao nível do ângulo do esterno.",
+    "funcao": "Conduz todo o débito sistêmico e dá origem às coronárias e aos ramos para a cabeça e os membros superiores.",
+    "relacoes": "Do arco partem o tronco braquiocefálico, a carótida comum esquerda e a subclávia esquerda.",
+    "fmaIds": [
+      "FMA3736",
+      "FMA3768"
+    ]
+  },
+  {
+    "id": "aorta-descendente",
+    "sistema": "circulatorio",
+    "nome": "Aorta descendente",
+    "nomeLatim": "Aorta descendens",
+    "pecas": [
+      "^descending aorta$"
+    ],
+    "localizacao": "Desce à esquerda da coluna vertebral, no mediastino posterior, e atravessa o diafragma em T12.",
+    "funcao": "Irriga a parede torácica, as vísceras abdominais e os membros inferiores.",
+    "curiosidade": "Bifurca-se em artérias ilíacas comuns ao nível de L4.",
+    "fmaIds": [
+      "FMA3784"
+    ]
+  },
+  {
+    "id": "arterias-coronarias",
+    "sistema": "circulatorio",
+    "nome": "Artérias coronárias",
+    "nomeLatim": "Arteriae coronariae",
+    "pecas": [
+      "coronary artery"
+    ],
+    "localizacao": "Nascem dos seios aórticos, logo acima da valva da aorta, e correm nos sulcos coronário e interventriculares.",
+    "funcao": "Irrigam o miocárdio.",
+    "curiosidade": "O ramo interventricular anterior da coronária esquerda irriga grande parte do ventrículo esquerdo — sua oclusão causa o infarto anterior extenso.",
+    "fmaIds": [
+      "FMA3802",
+      "FMA3818",
+      "FMA3840nsn",
+      "FMA3862nsn",
+      "FMA3895",
+      "FMA4685",
+      "FMA71669",
+      "FMA71670",
+      "FMA76994"
+    ]
+  },
+  {
+    "id": "veias-cardiacas",
+    "sistema": "circulatorio",
+    "nome": "Veias cardíacas e seio coronário",
+    "nomeLatim": "Venae cordis et sinus coronarius",
+    "pecas": [
+      "cardiac vein",
+      "^coronary sinus$",
+      "cardiac veins",
+      "veins of left ventricle"
+    ],
+    "localizacao": "Acompanham as artérias coronárias; o seio coronário ocupa o sulco coronário posterior.",
+    "funcao": "Drenam o sangue do miocárdio para o átrio direito.",
+    "fmaIds": [
+      "FMA4706",
+      "FMA4707",
+      "FMA4713",
+      "FMA71567",
+      "FMA76751"
+    ]
+  },
+  {
+    "id": "tronco-pulmonar",
+    "sistema": "circulatorio",
+    "nome": "Tronco e artérias pulmonares",
+    "nomeLatim": "Truncus pulmonalis",
+    "pecas": [
+      "^pulmonary artery$"
+    ],
+    "localizacao": "Sai do ventrículo direito e bifurca-se sob o arco da aorta.",
+    "funcao": "Levam sangue venoso aos pulmões para a hematose.",
+    "curiosidade": "São as únicas artérias do adulto que transportam sangue pobre em oxigênio.",
+    "fmaIds": [
+      "FMA66326"
+    ]
+  },
+  {
+    "id": "veias-pulmonares",
+    "sistema": "circulatorio",
+    "nome": "Veias pulmonares",
+    "nomeLatim": "Venae pulmonales",
+    "pecas": [
+      "^pulmonary vein$"
+    ],
+    "localizacao": "Quatro veias que vão dos hilos pulmonares ao átrio esquerdo.",
+    "funcao": "Trazem sangue oxigenado dos pulmões ao coração.",
+    "fmaIds": [
+      "FMA66643"
+    ]
+  },
+  {
+    "id": "veia-cava-superior",
+    "sistema": "circulatorio",
+    "nome": "Veia cava superior",
+    "nomeLatim": "Vena cava superior",
+    "pecas": [
+      "^superior vena cava$",
+      "brachiocephalic vein$"
+    ],
+    "localizacao": "Mediastino superior, à direita, formada pela união das veias braquiocefálicas.",
+    "funcao": "Drena a cabeça, o pescoço, os membros superiores e a parede torácica para o átrio direito.",
+    "fmaIds": [
+      "FMA4720",
+      "FMA4751",
+      "FMA4761"
+    ]
+  },
+  {
+    "id": "veia-cava-inferior",
+    "sistema": "circulatorio",
+    "nome": "Veia cava inferior",
+    "nomeLatim": "Vena cava inferior",
+    "pecas": [
+      "^inferior vena cava$"
+    ],
+    "localizacao": "À direita da coluna vertebral, atravessa o diafragma no nível de T8.",
+    "funcao": "Drena os membros inferiores, a pelve e o abdome para o átrio direito.",
+    "curiosidade": "É a maior veia do corpo, formada pela união das veias ilíacas comuns em L5.",
+    "fmaIds": [
+      "FMA10951"
+    ]
+  },
+  {
+    "id": "tronco-braquiocefalico-e-carotidas",
+    "sistema": "circulatorio",
+    "nome": "Tronco braquiocefálico e artérias carótidas comuns",
+    "nomeLatim": "Truncus brachiocephalicus et arteriae carotides communes",
+    "pecas": [
+      "^brachiocephalic artery",
+      "common carotid artery$"
+    ],
+    "localizacao": "Ascendem do arco da aorta ao pescoço, dentro da bainha carótica.",
+    "funcao": "Irrigam a cabeça, o pescoço e, pelo tronco braquiocefálico, também o membro superior direito.",
+    "curiosidade": "A bifurcação carótica, em C4, aloja o seio e o glomo caróticos, sensores de pressão e de oxigênio.",
+    "fmaIds": [
+      "FMA3932nsn",
+      "FMA3941",
+      "FMA4058"
+    ]
+  },
+  {
+    "id": "arterias-subclavias",
+    "sistema": "circulatorio",
+    "nome": "Artérias subclávias",
+    "nomeLatim": "Arteriae subclaviae",
+    "pecas": [
+      "subclavian artery$"
+    ],
+    "localizacao": "Passam entre os músculos escalenos anterior e médio, sobre a 1ª costela.",
+    "funcao": "Irrigam o membro superior, o pescoço e, pela artéria vertebral, o encéfalo posterior.",
+    "curiosidade": "Ao ultrapassar a margem lateral da 1ª costela, muda de nome para artéria axilar.",
+    "fmaIds": [
+      "FMA3953",
+      "FMA4694"
+    ]
+  },
+  {
+    "id": "veias-do-pescoco",
+    "sistema": "circulatorio",
+    "nome": "Veias jugulares internas e subclávias",
+    "nomeLatim": "Venae jugulares internae et venae subclaviae",
+    "pecas": [
+      "internal jugular vein$",
+      "subclavian vein$"
+    ],
+    "localizacao": "Jugular interna na bainha carótica; subclávia acompanha a artéria homônima sobre a 1ª costela.",
+    "funcao": "Drenam o encéfalo, a face, o pescoço e o membro superior.",
+    "curiosidade": "A junção das duas forma a veia braquiocefálica; é o acesso preferido para cateter venoso central.",
+    "fmaIds": [
+      "FMA4754",
+      "FMA4755",
+      "FMA4762",
+      "FMA4763"
+    ]
+  },
+  {
+    "id": "tronco-celiaco",
+    "sistema": "circulatorio",
+    "nome": "Tronco celíaco",
+    "nomeLatim": "Truncus coeliacus",
+    "pecas": [
+      "^celiac artery$",
+      "^common hepatic artery$",
+      "^left gastric artery$",
+      "^splenic artery$"
+    ],
+    "localizacao": "Primeiro ramo ímpar da aorta abdominal, ao nível de T12.",
+    "funcao": "Irriga o intestino anterior: estômago, fígado, vesícula biliar, baço, pâncreas e duodeno proximal.",
+    "curiosidade": "Divide-se classicamente em três ramos: gástrica esquerda, esplênica e hepática comum.",
+    "fmaIds": [
+      "FMA14768",
+      "FMA14771",
+      "FMA14773",
+      "FMA50737"
+    ]
+  },
+  {
+    "id": "arterias-mesentericas",
+    "sistema": "circulatorio",
+    "nome": "Artérias mesentéricas superior e inferior",
+    "nomeLatim": "Arteriae mesentericae superior et inferior",
+    "pecas": [
+      "mesenteric artery$"
+    ],
+    "localizacao": "Ramos ímpares anteriores da aorta abdominal, em L1 e L3.",
+    "funcao": "A mesentérica superior irriga o intestino médio (duodeno distal ao cólon transverso); a inferior, o intestino posterior (cólon descendente ao reto).",
+    "fmaIds": [
+      "FMA14749",
+      "FMA14750"
+    ]
+  },
+  {
+    "id": "veia-porta-e-tributarias",
+    "sistema": "circulatorio",
+    "nome": "Veias esplênica e mesentérica superior",
+    "nomeLatim": "Vena splenica et vena mesenterica superior",
+    "pecas": [
+      "^splenic vein$",
+      "^superior mesenteric vein$"
+    ],
+    "localizacao": "Atrás do colo do pâncreas, onde se unem para formar a veia porta do fígado.",
+    "funcao": "Conduzem ao fígado o sangue rico em nutrientes absorvido no tubo digestório.",
+    "curiosidade": "A hipertensão portal desvia esse fluxo para anastomoses porto-sistêmicas, originando varizes esofágicas.",
+    "fmaIds": [
+      "FMA14331",
+      "FMA14332"
+    ]
+  },
+  {
+    "id": "arterias-e-veias-renais",
+    "sistema": "circulatorio",
+    "nome": "Artérias e veias renais",
+    "nomeLatim": "Arteriae et venae renales",
+    "pecas": [
+      "renal artery$",
+      "renal vein$"
+    ],
+    "localizacao": "Ao nível de L1–L2, entre a aorta/veia cava inferior e o hilo renal.",
+    "funcao": "Levam ao rim cerca de 20 % do débito cardíaco e drenam o sangue filtrado.",
+    "curiosidade": "A veia renal esquerda é mais longa e passa entre a aorta e a artéria mesentérica superior — a \"pinça aortomesentérica\".",
+    "fmaIds": [
+      "FMA14335",
+      "FMA14336",
+      "FMA14752",
+      "FMA14753"
+    ]
+  },
+  {
+    "id": "arterias-e-veias-iliacas",
+    "sistema": "circulatorio",
+    "nome": "Artérias e veias ilíacas",
+    "nomeLatim": "Arteriae et venae iliacae",
+    "pecas": [
+      "iliac artery$",
+      "iliac vein$"
+    ],
+    "localizacao": "Da bifurcação da aorta em L4 até o ligamento inguinal.",
+    "funcao": "As ilíacas internas irrigam a pelve e o períneo; as externas continuam como artéria femoral para o membro inferior.",
+    "fmaIds": [
+      "FMA14765",
+      "FMA14766",
+      "FMA18806",
+      "FMA18807",
+      "FMA18809",
+      "FMA18810",
+      "FMA18885",
+      "FMA18886",
+      "FMA18887",
+      "FMA18888",
+      "FMA21387",
+      "FMA21388"
+    ]
+  }
+]

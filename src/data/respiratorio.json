@@ -1,0 +1,118 @@
+[
+  {
+    "id": "pulmao-direito",
+    "sistema": "respiratorio",
+    "nome": "Pulmão direito",
+    "nomeLatim": "Pulmo dexter",
+    "pecas": [
+      "lobe of right lung$",
+      "^middle lobe of lung$"
+    ],
+    "localizacao": "Cavidade pleural direita, dividido em lobos superior, médio e inferior pelas fissuras oblíqua e horizontal.",
+    "funcao": "Realiza a hematose: troca de oxigênio e gás carbônico entre o ar alveolar e o sangue.",
+    "irrigacao": "Artérias brônquicas (nutrição) e artéria pulmonar direita (função).",
+    "relacoes": "Sua face medial recebe a impressão do coração, da veia cava e do esôfago.",
+    "curiosidade": "É maior e mais curto que o esquerdo; seu brônquio principal é mais vertical, o que explica a preferência dos corpos estranhos aspirados.",
+    "fmaIds": [
+      "FMA7333",
+      "FMA7337",
+      "FMA7383"
+    ]
+  },
+  {
+    "id": "pulmao-esquerdo",
+    "sistema": "respiratorio",
+    "nome": "Pulmão esquerdo",
+    "nomeLatim": "Pulmo sinister",
+    "pecas": [
+      "lobe of left lung$"
+    ],
+    "localizacao": "Cavidade pleural esquerda, com apenas dois lobos separados pela fissura oblíqua.",
+    "funcao": "Hematose; acomoda o coração pela incisura cardíaca.",
+    "irrigacao": "Artérias brônquicas e artéria pulmonar esquerda.",
+    "curiosidade": "A língula é o resquício do lobo médio no lado esquerdo.",
+    "fmaIds": [
+      "FMA7370",
+      "FMA7371"
+    ]
+  },
+  {
+    "id": "traqueia",
+    "sistema": "respiratorio",
+    "nome": "Traqueia",
+    "nomeLatim": "Trachea",
+    "pecas": [
+      "^trachea$"
+    ],
+    "localizacao": "Do nível de C6 até a carina, em T4/T5, à frente do esôfago.",
+    "funcao": "Conduz, aquece e umidifica o ar; o epitélio ciliado remove partículas.",
+    "relacoes": "Anteriormente ao esôfago; o istmo da tireoide cruza seu 2º–4º anéis.",
+    "curiosidade": "Seus 16 a 20 anéis cartilagíneos em C mantêm a luz aberta e são incompletos atrás, onde há músculo liso.",
+    "fmaIds": [
+      "FMA7394"
+    ]
+  },
+  {
+    "id": "bronquios",
+    "sistema": "respiratorio",
+    "nome": "Brônquios",
+    "nomeLatim": "Bronchi",
+    "pecas": [
+      "^bronchus$"
+    ],
+    "localizacao": "Da bifurcação da traqueia aos hilos pulmonares, ramificando-se na árvore brônquica.",
+    "funcao": "Distribuem o ar aos segmentos pulmonares e controlam o calibre das vias aéreas pelo músculo liso.",
+    "curiosidade": "O broncoespasmo desse músculo liso é o mecanismo central da crise de asma.",
+    "fmaIds": [
+      "FMA7409"
+    ]
+  },
+  {
+    "id": "cartilagem-tireoidea",
+    "sistema": "respiratorio",
+    "nome": "Cartilagem tireóidea",
+    "nomeLatim": "Cartilago thyroidea",
+    "pecas": [
+      "^thyroid cartilage$"
+    ],
+    "localizacao": "Maior cartilagem da laringe, ao nível de C4–C5.",
+    "funcao": "Protege as pregas vocais e serve de inserção para os músculos laríngeos.",
+    "curiosidade": "Sua proeminência laríngea é o \"pomo de Adão\", mais marcado após a ação androgênica na puberdade.",
+    "fmaIds": [
+      "FMA55099"
+    ]
+  },
+  {
+    "id": "cartilagens-nasais",
+    "sistema": "respiratorio",
+    "nome": "Cartilagens do nariz",
+    "nomeLatim": "Cartilagines nasi",
+    "pecas": [
+      "set of nasal cartilages"
+    ],
+    "localizacao": "Esqueleto da porção móvel do nariz externo.",
+    "funcao": "Mantêm as narinas abertas e dão forma ao nariz; direcionam o fluxo de ar.",
+    "fmaIds": [
+      "FMA71704"
+    ]
+  },
+  {
+    "id": "diafragma",
+    "sistema": "respiratorio",
+    "nome": "Diafragma",
+    "nomeLatim": "Diaphragma",
+    "pecas": [
+      "^diaphragm$"
+    ],
+    "localizacao": "Septo musculotendíneo em cúpula que separa as cavidades torácica e abdominal.",
+    "funcao": "Principal músculo da respiração: ao contrair-se, abaixa-se e aumenta o volume torácico, gerando a inspiração.",
+    "origem": "Parte esternal (processo xifoide), parte costal (cartilagens costais 7–12) e parte lombar (pilares em L1–L3).",
+    "insercao": "Centro tendíneo.",
+    "acao": "Inspiração; aumenta a pressão intra-abdominal na tosse, no vômito e no parto.",
+    "inervacao": "Nervo frênico (C3–C5).",
+    "curiosidade": "Suas três grandes aberturas ficam em T8 (veia cava), T10 (esôfago) e T12 (aorta).",
+    "fmaIds": [
+      "FMA13295"
+    ]
+  }
+]

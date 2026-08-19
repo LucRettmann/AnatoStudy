@@ -1,0 +1,39 @@
+[
+  {
+    "id": "baco",
+    "sistema": "linfatico",
+    "nome": "Baço",
+    "nomeLatim": "Splen",
+    "sinonimos": [
+      "lien"
+    ],
+    "pecas": [
+      "^spleen$"
+    ],
+    "localizacao": "Hipocôndrio esquerdo, entre as costelas 9 e 11, atrás do estômago.",
+    "funcao": "Filtra o sangue, remove hemácias envelhecidas, produz linfócitos e responde a antígenos circulantes.",
+    "irrigacao": "Artéria esplênica, ramo do tronco celíaco; drena pela veia esplênica para o sistema porta.",
+    "relacoes": "Contata o estômago, o rim esquerdo, a flexura esquerda do colo e a cauda do pâncreas.",
+    "curiosidade": "É o órgão mais lesado em traumas abdominais fechados, por sua cápsula frágil e posição sob as costelas.",
+    "fmaIds": [
+      "FMA7196"
+    ]
+  },
+  {
+    "id": "timo",
+    "sistema": "linfatico",
+    "nome": "Timo",
+    "nomeLatim": "Thymus",
+    "pecas": [
+      "lobe of thymus$"
+    ],
+    "localizacao": "Mediastino superior e anterior, atrás do manúbrio do esterno.",
+    "funcao": "Órgão linfoide primário: nele os linfócitos T amadurecem e aprendem a distinguir o próprio do estranho.",
+    "irrigacao": "Ramos das artérias torácica interna e tireóidea inferior.",
+    "curiosidade": "É volumoso na infância e sofre involução gradual após a puberdade, sendo substituído por tecido adiposo.",
+    "fmaIds": [
+      "FMA71194",
+      "FMA71195"
+    ]
+  }
+]

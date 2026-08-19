@@ -1,0 +1,5606 @@
+{
+ "FMA12513": {
+  "pt": "Globo ocular",
+  "la": "Bulbus oculi",
+  "en": "eyeball",
+  "ta2id": "6735"
+ },
+ "FMA52780": {
+  "pt": "Orelha",
+  "la": "Auris",
+  "en": "ear",
+  "ta2id": "6861"
+ },
+ "FMA13889": {
+  "pt": "Glândula pituitária",
+  "la": "Glandula pituitana",
+  "en": "pituitary gland",
+  "ta2id": "3854"
+ },
+ "FMA15629": {
+  "pt": "Glândula suprarrenal direita",
+  "la": "Glandula suprarenalis dextrum",
+  "en": "right adrenal gland",
+  "ta2id": "3874"
+ },
+ "FMA15630": {
+  "pt": "Glândula suprarrenal esquerda",
+  "la": "Glandula suprarenalis sinistrum",
+  "en": "left adrenal gland",
+  "ta2id": "3874"
+ },
+ "FMA62033": {
+  "pt": "Glândula pineal",
+  "la": "Glandula pinealis",
+  "en": "pineal body",
+  "ta2id": "3862"
+ },
+ "FMA15571": {
+  "pt": "Ureter direito",
+  "la": "Ureter dextrum",
+  "en": "right ureter",
+  "ta2id": "3394"
+ },
+ "FMA15572": {
+  "pt": "Ureter esquerdo",
+  "la": "Ureter sinistrum",
+  "en": "left ureter",
+  "ta2id": "3394"
+ },
+ "FMA15900": {
+  "pt": "Bexiga urinária",
+  "la": "Vesica urinaria",
+  "en": "urinary bladder",
+  "ta2id": "3401"
+ },
+ "FMA19667": {
+  "pt": "Uretra",
+  "la": "Urethra",
+  "en": "urethra",
+  "ta2id": "3425"
+ },
+ "FMA7204": {
+  "pt": "Rim direito",
+  "la": "Ren dextrum",
+  "en": "right kidney",
+  "ta2id": "3358"
+ },
+ "FMA7205": {
+  "pt": "Rim esquerdo",
+  "la": "Ren sinistrum",
+  "en": "left kidney",
+  "ta2id": "3358"
+ },
+ "FMA18247": {
+  "pt": "Glans penis",
+  "la": "Glans penis",
+  "en": "glans penis",
+  "ta2id": "3668"
+ },
+ "FMA18256": {
+  "pt": "Epidídimo direito",
+  "la": "Epididymis dextrum",
+  "en": "right epididymis",
+  "ta2id": "3603"
+ },
+ "FMA18257": {
+  "pt": "Epidídimo esquerdo",
+  "la": "Epididymis sinistrum",
+  "en": "left epididymis",
+  "ta2id": "3603"
+ },
+ "FMA19235": {
+  "pt": "Ductus deferens direito",
+  "la": "Ductus deferens dextrum",
+  "en": "right deferent duct",
+  "ta2id": "3621"
+ },
+ "FMA19236": {
+  "pt": "Ductus deferens esquerdo",
+  "la": "Ductus deferens sinistrum",
+  "en": "left deferent duct",
+  "ta2id": "3621"
+ },
+ "FMA19387": {
+  "pt": "Glândula seminal direita",
+  "la": "Glandula seminalis dextrum",
+  "en": "right seminal vesicle",
+  "ta2id": "3631"
+ },
+ "FMA19388": {
+  "pt": "Glândula seminal esquerda",
+  "la": "Glandula seminalis sinistrum",
+  "en": "left seminal vesicle",
+  "ta2id": "3631"
+ },
+ "FMA19617nsn": {
+  "pt": "Corpo esponjoso do pênis",
+  "la": "Corpus spongiosum penis",
+  "en": "corpus spongiosum of penis, nsn",
+  "ta2id": "3681"
+ },
+ "FMA19618": {
+  "pt": "Corpo cavernoso do pênis",
+  "la": "Corpus cavernosum penis",
+  "en": "corpus cavernosum of penis",
+  "ta2id": "3678"
+ },
+ "FMA7211": {
+  "pt": "Testis direito",
+  "la": "Testis dextrum",
+  "en": "right testis",
+  "ta2id": "3576"
+ },
+ "FMA7212": {
+  "pt": "Testis esquerdo",
+  "la": "Testis sinistrum",
+  "en": "left testis",
+  "ta2id": "3576"
+ },
+ "FMA9600": {
+  "pt": "Próstata",
+  "la": "Prostata",
+  "en": "prostate",
+  "ta2id": "3637"
+ },
+ "FMA71194": {
+  "pt": "Lobo direito do timo",
+  "la": "Lobus thymi dextri",
+  "en": "right lobe of thymus",
+  "ta2id": "7223"
+ },
+ "FMA71195": {
+  "pt": "Lobo esquerdo do timo",
+  "la": "Lobus thymi sinistri",
+  "en": "left lobe of thymus",
+  "ta2id": "7224"
+ },
+ "FMA7196": {
+  "pt": "Baço",
+  "la": "Lien",
+  "en": "spleen",
+  "ta2id": "5159"
+ },
+ "FMA10419": {
+  "pt": "Duto pancreático",
+  "la": "Ductus pancreaticus",
+  "en": "pancreatic duct",
+  "ta2id": "3129"
+ },
+ "FMA14542": {
+  "pt": "Apêndice vermiforme",
+  "la": "Appendix vermiformis",
+  "en": "appendix",
+  "ta2id": "2976"
+ },
+ "FMA14543nsn": {
+  "pt": "Cólon",
+  "la": "Colon",
+  "en": "colon, nsn",
+  "ta2id": "2981"
+ },
+ "FMA14544": {
+  "pt": "Reto",
+  "la": "Rectum",
+  "en": "rectum",
+  "ta2id": "2998"
+ },
+ "FMA55680": {
+  "pt": "Incisivo lateral superior direito",
+  "la": "Dens incisivus lateralis superioris dextrum",
+  "en": "right upper lateral secondary incisor tooth",
+  "ta2id": "906*12"
+ },
+ "FMA55681": {
+  "pt": "Incisivo central superior permanente direito",
+  "la": "Dens incisivus centralis superior dextrum",
+  "en": "right upper central secondary incisor tooth",
+  "ta2id": null
+ },
+ "FMA55682": {
+  "pt": "Incisivo central superior permanente esquerdo",
+  "la": "Dens incisivus centralis superior sinistrum",
+  "en": "left upper central secondary incisor tooth",
+  "ta2id": null
+ },
+ "FMA55683": {
+  "pt": "Incisivo lateral superior esquerdo",
+  "la": "Dens incisivus lateralis superioris sinistrum",
+  "en": "left upper lateral secondary incisor tooth",
+  "ta2id": "906*12"
+ },
+ "FMA55686": {
+  "pt": "Canino inferior direito",
+  "la": "Dens caninus inferioris dextrum",
+  "en": "right lower secondary canine tooth",
+  "ta2id": "907*33"
+ },
+ "FMA55687": {
+  "pt": "Canino inferior esquerdo",
+  "la": "Dens caninus inferioris sinistrum",
+  "en": "left lower secondary canine tooth",
+  "ta2id": "907*33"
+ },
+ "FMA55688": {
+  "pt": "Segundo pré-molar superior direito",
+  "la": "Dens premolaris secundus superioris dextrum",
+  "en": "right upper second secondary premolar tooth",
+  "ta2id": "909*15"
+ },
+ "FMA55689": {
+  "pt": "Primeiro pré-molar superior direito",
+  "la": "Dens premolaris primus superioris dextrum",
+  "en": "right upper first secondary premolar tooth",
+  "ta2id": "909*14"
+ },
+ "FMA55690": {
+  "pt": "Primeiro pré-molar superior esquerdo",
+  "la": "Dens premolaris primus superioris sinistrum",
+  "en": "left upper first secondary premolar tooth",
+  "ta2id": "909*14"
+ },
+ "FMA55691": {
+  "pt": "Segundo pré-molar superior esquerdo",
+  "la": "Dens premolaris secundus superioris sinistrum",
+  "en": "left upper second secondary premolar tooth",
+  "ta2id": "909*15"
+ },
+ "FMA55692": {
+  "pt": "Segundo pré-molar inferior esquerdo",
+  "la": "Dens premolaris secundus inferioris sinistrum",
+  "en": "left lower second secondary premolar tooth",
+  "ta2id": "909*35"
+ },
+ "FMA55693": {
+  "pt": "Primeiro pré-molar inferior esquerdo",
+  "la": "Dens premolaris primus inferioris sinistrum",
+  "en": "left lower first secondary premolar tooth",
+  "ta2id": "909*34"
+ },
+ "FMA55694": {
+  "pt": "Primeiro pré-molar inferior direito",
+  "la": "Dens premolaris primus inferioris dextrum",
+  "en": "right lower first secondary premolar tooth",
+  "ta2id": "909*34"
+ },
+ "FMA55695": {
+  "pt": "Segundo pré-molar inferior direito",
+  "la": "Dens premolaris secundus inferioris dextrum",
+  "en": "right lower second secondary premolar tooth",
+  "ta2id": "909*35"
+ },
+ "FMA55697": {
+  "pt": "Segundo molar superior direito",
+  "la": "Dens molaris secundus superioris dextrum",
+  "en": "right upper second secondary molar tooth",
+  "ta2id": "910*17"
+ },
+ "FMA55698": {
+  "pt": "Primeiro molar superior direito",
+  "la": "Dens molaris primus suprioris dextrum",
+  "en": "right upper first secondary molar tooth",
+  "ta2id": "910*16"
+ },
+ "FMA55699": {
+  "pt": "Primeiro molar superior esquerdo",
+  "la": "Dens molaris primus suprioris sinistrum",
+  "en": "left upper first secondary molar tooth",
+  "ta2id": "910*16"
+ },
+ "FMA55700": {
+  "pt": "Segundo molar superior esquerdo",
+  "la": "Dens molaris secundus superioris sinistrum",
+  "en": "left upper second secondary molar tooth",
+  "ta2id": "910*17"
+ },
+ "FMA55703": {
+  "pt": "Segundo molar inferior esquerdo",
+  "la": "Dens molaris secundus inferioris sinistrum",
+  "en": "left lower second secondary molar tooth",
+  "ta2id": "910*37"
+ },
+ "FMA55704": {
+  "pt": "Primeiro molar inferior esquerdo",
+  "la": "Dens molaris primus inferioris sinistrum",
+  "en": "left lower first secondary molar tooth",
+  "ta2id": "910*36"
+ },
+ "FMA55705": {
+  "pt": "Primeiro molar inferior direito",
+  "la": "Dens molaris primus inferioris dextrum",
+  "en": "right lower first secondary molar tooth",
+  "ta2id": "910*36"
+ },
+ "FMA55706": {
+  "pt": "Segundo molar inferior direito",
+  "la": "Dens molaris secundus inferioris dextrum",
+  "en": "right lower second secondary molar tooth",
+  "ta2id": "910*37"
+ },
+ "FMA55798": {
+  "pt": "Canino superior direito",
+  "la": "Dens caninus superioris dextrum",
+  "en": "right upper secondary canine tooth",
+  "ta2id": "907*13"
+ },
+ "FMA55799": {
+  "pt": "Canino superior esquerdo",
+  "la": "Dens caninus superioris sinistrum",
+  "en": "left upper secondary canine tooth",
+  "ta2id": "907*13"
+ },
+ "FMA57140": {
+  "pt": "Incisivo lateral inferior direito",
+  "la": "Dens incisivus lateralis inferioris dextrum",
+  "en": "right lower lateral secondary incisor tooth",
+  "ta2id": "906*32"
+ },
+ "FMA57141": {
+  "pt": "Incisivo lateral inferior esquerdo",
+  "la": "Dens incisivus lateralis inferioris sinistrum",
+  "en": "left lower lateral secondary incisor tooth",
+  "ta2id": "906*32"
+ },
+ "FMA57142": {
+  "pt": "Incisivo central inferior permanente direito",
+  "la": "Dens incisivus centralis inferior dextrum",
+  "en": "right lower central secondary incisor tooth",
+  "ta2id": null
+ },
+ "FMA57143": {
+  "pt": "Incisivo central inferior permanente esquerdo",
+  "la": "Dens incisivus centralis inferior sinistrum",
+  "en": "left lower central secondary incisor tooth",
+  "ta2id": null
+ },
+ "FMA59763": {
+  "pt": "Gengiva",
+  "la": "Gingiva",
+  "en": "gingiva of upper jaw",
+  "ta2id": "2790"
+ },
+ "FMA59764": {
+  "pt": "Gengiva",
+  "la": "Gingiva",
+  "en": "gingiva of lower jaw",
+  "ta2id": "2790"
+ },
+ "FMA59815nsn": {
+  "pt": "Parte labial da boca",
+  "la": "Pars labialis oris",
+  "en": "labial part of mouth, nsn",
+  "ta2id": null
+ },
+ "FMA7131": {
+  "pt": "Esôfago",
+  "la": "Oesophagus",
+  "en": "esophagus",
+  "ta2id": "2887"
+ },
+ "FMA7148": {
+  "pt": "Estômago",
+  "la": "Gaster",
+  "en": "stomach",
+  "ta2id": "2901"
+ },
+ "FMA7197": {
+  "pt": "Fígado",
+  "la": "Hepar",
+  "en": "liver",
+  "ta2id": "3023"
+ },
+ "FMA7198nsn": {
+  "pt": "Pâncreas",
+  "la": "Pancreas",
+  "en": "pancreas, nsn",
+  "ta2id": "3114"
+ },
+ "FMA7202": {
+  "pt": "Vesícula biliar",
+  "la": "Vesica biliaris",
+  "en": "gallbladder",
+  "ta2id": "3081"
+ },
+ "FMA7206": {
+  "pt": "Duodeno",
+  "la": "Duodenum",
+  "en": "duodenum",
+  "ta2id": "2944"
+ },
+ "FMA7207": {
+  "pt": "Jejuno",
+  "la": "Jejunum",
+  "en": "jejunum",
+  "ta2id": "2958"
+ },
+ "FMA7208": {
+  "pt": "Ileum",
+  "la": "Ileum",
+  "en": "ileum",
+  "ta2id": "2959"
+ },
+ "FMA76891": {
+  "pt": "Tênia mesocólica",
+  "la": "Taenia mesocolica",
+  "en": "mesocolic taenia",
+  "ta2id": "2994"
+ },
+ "FMA76892": {
+  "pt": "Tênia omental",
+  "la": "Taenia omentalis",
+  "en": "omental taenia",
+  "ta2id": "2995"
+ },
+ "FMA76893": {
+  "pt": "Tênia livre",
+  "la": "Taenia libera",
+  "en": "free taenia",
+  "ta2id": "2996"
+ },
+ "FMA13295": {
+  "pt": "Diafragma",
+  "la": "Diaphragma",
+  "en": "diaphragm",
+  "ta2id": "2327"
+ },
+ "FMA55099": {
+  "pt": "Cartilagem da tireoide",
+  "la": "Cartilago thyreoidea",
+  "en": "thyroid cartilage",
+  "ta2id": "967"
+ },
+ "FMA71704": {
+  "pt": "Cartilagens do nariz",
+  "la": "Cartilagines nasi",
+  "en": "set of nasal cartilages",
+  "ta2id": null
+ },
+ "FMA7333": {
+  "pt": "Lobo superior do pulmão direito",
+  "la": "Lobus superior pulmonis dextri",
+  "en": "upper lobe of right lung",
+  "ta2id": "3284"
+ },
+ "FMA7337": {
+  "pt": "Lobo inferior do pulmão direito",
+  "la": "Lobus inferior pulmonis dextri",
+  "en": "lower lobe of right lung",
+  "ta2id": "3293"
+ },
+ "FMA7370": {
+  "pt": "Lobo superior do pulmão esquerdo",
+  "la": "Lobus superior pulmonis sinistri",
+  "en": "upper lobe of left lung",
+  "ta2id": "3300"
+ },
+ "FMA7371": {
+  "pt": "Lobo inferior do pulmão esquerdo",
+  "la": "Lobus inferior pulmonis sinistri",
+  "en": "lower lobe of left lung",
+  "ta2id": "3308"
+ },
+ "FMA7383": {
+  "pt": "Lobo médio do pulmão direito",
+  "la": "Lobus medius pulmonis dextri",
+  "en": "middle lobe of lung",
+  "ta2id": "3289"
+ },
+ "FMA7394": {
+  "pt": "Traquéia",
+  "la": "Trachea",
+  "en": "trachea",
+  "ta2id": "3213"
+ },
+ "FMA7409": {
+  "pt": "Brônquio",
+  "la": "Bronchus",
+  "en": "bronchus",
+  "ta2id": "3232"
+ },
+ "FMA10951": {
+  "pt": "Veia cava inferior",
+  "la": "Vena cava inferior",
+  "en": "inferior vena cava",
+  "ta2id": "4991"
+ },
+ "FMA14331": {
+  "pt": "Veia esplênica",
+  "la": "Vena splenica",
+  "en": "splenic vein",
+  "ta2id": "5123"
+ },
+ "FMA14332": {
+  "pt": "Veia mesentérica superior",
+  "la": "Vena mesenterica superior",
+  "en": "superior mesenteric vein",
+  "ta2id": "5113"
+ },
+ "FMA14335": {
+  "pt": "Veia renal direita",
+  "la": "Vena renalis dextra",
+  "en": "right renal vein",
+  "ta2id": null
+ },
+ "FMA14336": {
+  "pt": "Veia renal esquerda",
+  "la": "Vena renalis sinistra",
+  "en": "left renal vein",
+  "ta2id": null
+ },
+ "FMA14749": {
+  "pt": "Artéria mesentérica superior",
+  "la": "Arteria mesenteries superior",
+  "en": "superior mesenteric artery",
+  "ta2id": "4252"
+ },
+ "FMA14750": {
+  "pt": "Artéria mesentérica inferior",
+  "la": "Arteria mesenterica inferior",
+  "en": "inferior mesenteric artery",
+  "ta2id": "4291"
+ },
+ "FMA14752": {
+  "pt": "Artéria renal direita",
+  "la": "Arteria renum dextra",
+  "en": "right renal artery",
+  "ta2id": "7203"
+ },
+ "FMA14753": {
+  "pt": "Artéria renal esquerda",
+  "la": "Arteria renum sinistra",
+  "en": "left renal artery",
+  "ta2id": "7202"
+ },
+ "FMA14765": {
+  "pt": "Artéria ilíaca comum direita",
+  "la": "Arteria iliaca communis dextrum",
+  "en": "right common iliac artery",
+  "ta2id": "4301"
+ },
+ "FMA14766": {
+  "pt": "Artéria ilíaca comum esquerda",
+  "la": "Arteria iliaca communis sinistrum",
+  "en": "left common iliac artery",
+  "ta2id": "4301"
+ },
+ "FMA14768": {
+  "pt": "Artéria gástrica esquerda",
+  "la": "Arteria gastrica sinistra",
+  "en": "left gastric artery",
+  "ta2id": "4212"
+ },
+ "FMA14771": {
+  "pt": "Artéria hepática comum",
+  "la": "Arteria hepatica communis",
+  "en": "common hepatic artery",
+  "ta2id": "4214"
+ },
+ "FMA14773": {
+  "pt": "Arteria lienalis",
+  "la": "Arteria splenica",
+  "en": "splenic artery",
+  "ta2id": "4239"
+ },
+ "FMA18806": {
+  "pt": "Artéria externa / ilíaca direita",
+  "la": "Arteria iliaca externa dextrum",
+  "en": "right external iliac artery",
+  "ta2id": "4357"
+ },
+ "FMA18807": {
+  "pt": "Artéria externa / ilíaca esquerda",
+  "la": "Arteria iliaca externa sinistrum",
+  "en": "left external iliac artery",
+  "ta2id": "4357"
+ },
+ "FMA18809": {
+  "pt": "Artéria ilíaca interna direita",
+  "la": "Arteria iliaca interna dextrum",
+  "en": "right internal iliac artery",
+  "ta2id": "4302"
+ },
+ "FMA18810": {
+  "pt": "Artéria ilíaca interna esquerda",
+  "la": "Arteria iliaca interna sinistrum",
+  "en": "left internal iliac artery",
+  "ta2id": "4302"
+ },
+ "FMA18885": {
+  "pt": "Veia ilíaca externa direita",
+  "la": "Vena iliaca externa dextrum",
+  "en": "right external iliac vein",
+  "ta2id": "5050"
+ },
+ "FMA18886": {
+  "pt": "Veia ilíaca externa esquerda",
+  "la": "Vena iliaca externa sinistrum",
+  "en": "left external iliac vein",
+  "ta2id": "5050"
+ },
+ "FMA18887": {
+  "pt": "Veia ilíaca interna direita",
+  "la": "Vena iliaca interna dextrum",
+  "en": "right internal iliac vein",
+  "ta2id": "5024"
+ },
+ "FMA18888": {
+  "pt": "Veia ilíaca interna esquerda",
+  "la": "Vena iliaca interna sinistrum",
+  "en": "left internal iliac vein",
+  "ta2id": "5024"
+ },
+ "FMA21387": {
+  "pt": "Veia ilíaca comum direita",
+  "la": "Vena iliaca communis dextrum",
+  "en": "right common iliac vein",
+  "ta2id": "5021"
+ },
+ "FMA21388": {
+  "pt": "Veia ilíaca comum esquerda",
+  "la": "Vena iliaca communis sinistrum",
+  "en": "left common iliac vein",
+  "ta2id": "5021"
+ },
+ "FMA3736": {
+  "pt": "Aorta ascendente",
+  "la": "Aorta ascendens",
+  "en": "ascending aorta",
+  "ta2id": "4176"
+ },
+ "FMA3768": {
+  "pt": "Arco aórtico",
+  "la": "Arcus aortae",
+  "en": "arch of aorta",
+  "ta2id": "4177"
+ },
+ "FMA3784": {
+  "pt": "Aorta descendente",
+  "la": "Aorta descendens",
+  "en": "descending aorta",
+  "ta2id": "4185"
+ },
+ "FMA3802": {
+  "pt": "Tronco",
+  "la": "Truncus",
+  "en": "trunk of right coronary artery",
+  "ta2id": "124"
+ },
+ "FMA3818": {
+  "pt": "Ramo marginal da artéria coronária direita",
+  "la": "Ramus marginalis arteriae coronariae dextrae",
+  "en": "marginal branch of right coronary artery",
+  "ta2id": null
+ },
+ "FMA3840nsn": {
+  "pt": "Ramo interventricular posterior da artéria coronária direita",
+  "la": "Ramus interventricularis posterior arteriae coronariae dextrae",
+  "en": "posterior interventricular branch of right coronary artery, nsn",
+  "ta2id": null
+ },
+ "FMA3862nsn": {
+  "pt": "Ramo interventricular anterior da artéria coronária esquerda",
+  "la": "Ramus interventricularis anterior arteriae coronariae sinistrae",
+  "en": "anterior interventricular branch of left coronary artery, nsn",
+  "ta2id": null
+ },
+ "FMA3895": {
+  "pt": "Ramo circunflexo da artéria coronária esquerda",
+  "la": "Ramus circumflexus arteriae coronariae sinistrae",
+  "en": "circumflex branch of left coronary artery",
+  "ta2id": null
+ },
+ "FMA3932nsn": {
+  "pt": "Tronco braquiocefálico",
+  "la": "Truncus brachiocephalicus",
+  "en": "brachiocephalic artery, nsn",
+  "ta2id": "4179"
+ },
+ "FMA3941": {
+  "pt": "Artéria carótida comum direita",
+  "la": "Carotis communis dextra",
+  "en": "right common carotid artery",
+  "ta2id": "4181"
+ },
+ "FMA3953": {
+  "pt": "Artéria subclávia direita",
+  "la": "Arteria subclavia dextra",
+  "en": "right subclavian artery",
+  "ta2id": "4182"
+ },
+ "FMA4058": {
+  "pt": "Artéria carótida comum esquerda",
+  "la": "Carotis communis sinistra",
+  "en": "left common carotid artery",
+  "ta2id": "4183"
+ },
+ "FMA4685": {
+  "pt": "Tronco da artéria coronária esquerda",
+  "la": "Truncus arteriae coronariae sinistrae",
+  "en": "stem of left coronary artery",
+  "ta2id": null
+ },
+ "FMA4694": {
+  "pt": "Artéria subclávia esquerda",
+  "la": "Arteria subclavia sinistra",
+  "en": "left subclavian artery",
+  "ta2id": "4184"
+ },
+ "FMA4706": {
+  "pt": "Seio coronário",
+  "la": "Sinus coronarius",
+  "en": "coronary sinus",
+  "ta2id": "4158"
+ },
+ "FMA4707": {
+  "pt": "Grande veia cardíaca",
+  "la": "Vena magna cordis",
+  "en": "great cardiac vein",
+  "ta2id": "4159"
+ },
+ "FMA4713": {
+  "pt": "Veia cardíaca média",
+  "la": "Vena media cordis interventricularis inferior",
+  "en": "middle cardiac vein",
+  "ta2id": "4165"
+ },
+ "FMA4720": {
+  "pt": "Veia cava superior",
+  "la": "Vena cava superior",
+  "en": "superior vena cava",
+  "ta2id": "4745"
+ },
+ "FMA4751": {
+  "pt": "Veia braquiocefálica direita",
+  "la": "Vena brachiocephalica dextra",
+  "en": "right brachiocephalic vein",
+  "ta2id": "4792"
+ },
+ "FMA4754": {
+  "pt": "Veia jugular interna direita",
+  "la": "Vena jugularis interna dextrum",
+  "en": "right internal jugular vein",
+  "ta2id": "4800"
+ },
+ "FMA4755": {
+  "pt": "Veia subclávia direita",
+  "la": "Vena subclavia dextra",
+  "en": "right subclavian vein",
+  "ta2id": "7212"
+ },
+ "FMA4761": {
+  "pt": "Veia braquiocefálica esquerda",
+  "la": "Vena brachiocephalica sinistra",
+  "en": "left brachiocephalic vein",
+  "ta2id": "4794"
+ },
+ "FMA4762": {
+  "pt": "Veia jugular interna esquerda",
+  "la": "Vena jugularis interna sinistrum",
+  "en": "left internal jugular vein",
+  "ta2id": "4800"
+ },
+ "FMA4763": {
+  "pt": "Veia subclávia esquerda",
+  "la": "Vena subclavia sinistra",
+  "en": "left subclavian vein",
+  "ta2id": "7211"
+ },
+ "FMA50737": {
+  "pt": "Tronco celíaco",
+  "la": "Truncus coeiiacus",
+  "en": "celiac artery",
+  "ta2id": "4211"
+ },
+ "FMA66326": {
+  "pt": "Tronco pulmonar",
+  "la": "Truncus pulmonalis",
+  "en": "pulmonary artery",
+  "ta2id": "4075"
+ },
+ "FMA66643": {
+  "pt": "Veia pulmonar",
+  "la": "Vena pulmonalis",
+  "en": "pulmonary vein",
+  "ta2id": null
+ },
+ "FMA71567": {
+  "pt": "Veias cardíacas anteriores",
+  "la": "Venae cardiacae anteriores",
+  "en": "set of anterior cardiac veins",
+  "ta2id": null
+ },
+ "FMA71669": {
+  "pt": "Ramos interventriculares septais da artéria coronária direita",
+  "la": "Rami interventriculares septales arteriae coronariae dextrae",
+  "en": "set of interventricular septal branches of right coronary artery",
+  "ta2id": null
+ },
+ "FMA71670": {
+  "pt": "Ramos interventriculares septais da artéria coronária esquerda",
+  "la": "Rami interventriculares septales arteriae coronariae sinistrae",
+  "en": "set of interventricular septal branches of left coronary artery",
+  "ta2id": null
+ },
+ "FMA7234": {
+  "pt": "Valva tricúspide",
+  "la": "Valva atrioventricularis dextra",
+  "en": "tricuspid valve",
+  "ta2id": "3982"
+ },
+ "FMA7235": {
+  "pt": "Válvula atrioventricular esquerda/ mitral",
+  "la": "Valva atrioventricularis sinistra",
+  "en": "mitral valve",
+  "ta2id": "3987"
+ },
+ "FMA7246": {
+  "pt": "Valva pulmonar",
+  "la": "Valva trunci pulmonalis",
+  "en": "pulmonary valve",
+  "ta2id": "4008"
+ },
+ "FMA7260": {
+  "pt": "Músculo papilar posterior do ventrículo direito",
+  "la": "Musculus papillaris anterior ventriculi dextri",
+  "en": "anterior papillary muscle of right ventricle",
+  "ta2id": "4044"
+ },
+ "FMA7261": {
+  "pt": "Músculo papilar posterior do ventrículo direito",
+  "la": "Musculus papillaris posterior ventriculi dextri",
+  "en": "posterior papillary muscle of right ventricle",
+  "ta2id": null
+ },
+ "FMA7262": {
+  "pt": "Músculo papilar septal do ventrículo direito",
+  "la": "Musculus papillaris septalis ventriculi dextri",
+  "en": "septal papillary muscle of right ventricle",
+  "ta2id": "4046"
+ },
+ "FMA7266": {
+  "pt": "Músculo papilar posterior do ventrículo esquerdo",
+  "la": "Musculus papillaris posterior ventriculi sinistri",
+  "en": "posterior papillary muscle of left ventricle",
+  "ta2id": null
+ },
+ "FMA7274": {
+  "pt": "Parede do coração",
+  "la": "Paries cordis",
+  "en": "wall of heart",
+  "ta2id": null
+ },
+ "FMA76751": {
+  "pt": "Veias posteriores do ventrículo esquerdo",
+  "la": "Venae ventriculi sinistri posteriores",
+  "en": "set of posterior veins of left ventricle",
+  "ta2id": null
+ },
+ "FMA76994": {
+  "pt": "Ramo posterolateral direito da artéria coronária direita",
+  "la": "Ramus posterolateralis dexter arteriae coronariae dextrae",
+  "en": "right posterolateral branch of right coronary artery",
+  "ta2id": null
+ },
+ "FMA9352nsn": {
+  "pt": "Músculo papilar do ventrículo esquerdo",
+  "la": "Musculus papillaris ventriculi sinistri",
+  "en": "papillary muscle of left ventricle, nsn",
+  "ta2id": null
+ },
+ "BP49": {
+  "pt": "Lóbulo parietal superior e pré-cúneo esquerdo",
+  "la": "Lobulus parietalis superior et precuneus sinistrum",
+  "en": "left superior parietal lobule precuneus",
+  "ta2id": null
+ },
+ "BP50": {
+  "pt": "Lóbulo parietal superior e pré-cúneo direito",
+  "la": "Lobulus parietalis superior et precuneus dextrum",
+  "en": "right superior parietal lobule precuneus",
+  "ta2id": null
+ },
+ "BP51": {
+  "pt": "Giros orbitais e giro reto",
+  "la": "Gyri orbitales et gyrus rectus",
+  "en": "orbital gyri straight gyrus",
+  "ta2id": null
+ },
+ "FMA258714": {
+  "pt": "Thalamus direito",
+  "la": "Thalamus dextrum",
+  "en": "right thalamus",
+  "ta2id": "5678"
+ },
+ "FMA258716": {
+  "pt": "Thalamus esquerdo",
+  "la": "Thalamus sinistrum",
+  "en": "left thalamus",
+  "ta2id": "5678"
+ },
+ "FMA274027": {
+  "pt": "Plexo coróide",
+  "la": "Plexus chorioideus",
+  "en": "choroid plexus of right cerebral hemisphere",
+  "ta2id": "5409"
+ },
+ "FMA274029": {
+  "pt": "Plexo coróide",
+  "la": "Plexus chorioideus",
+  "en": "choroid plexus of left cerebral hemisphere",
+  "ta2id": "5409"
+ },
+ "FMA50875": {
+  "pt": "Nervo óptico (II) direito",
+  "la": "Nervus opticus (II) dextrum",
+  "en": "right optic nerve",
+  "ta2id": "6183"
+ },
+ "FMA50878": {
+  "pt": "Nervo óptico (II) esquerdo",
+  "la": "Nervus opticus (II) sinistrum",
+  "en": "left optic nerve",
+  "ta2id": "6183"
+ },
+ "FMA61822": {
+  "pt": "Substância branca do hemisfério cerebral",
+  "la": "Substantia alba hemispherii cerebri",
+  "en": "white matter structure of cerebral hemisphere",
+  "ta2id": null
+ },
+ "FMA61844": {
+  "pt": "Septo pelúcido",
+  "la": "Septum pellucidum",
+  "en": "septum pellucidum",
+  "ta2id": "5647"
+ },
+ "FMA61961": {
+  "pt": "Comissura anterior",
+  "la": "Commissura anterior",
+  "en": "anterior commissure",
+  "ta2id": "5613"
+ },
+ "FMA61970": {
+  "pt": "Comissura do fórnice",
+  "la": "Commissura fornicis",
+  "en": "commissure of fornix of forebrain",
+  "ta2id": null
+ },
+ "FMA61975": {
+  "pt": "Lamina terminalis",
+  "la": "Lamina terminalis",
+  "en": "lamina terminalis",
+  "ta2id": "5776"
+ },
+ "FMA61993nsn": {
+  "pt": "Mesencéfalo",
+  "la": "Mesencephalon",
+  "en": "midbrain, nsn",
+  "ta2id": "5874"
+ },
+ "FMA62004": {
+  "pt": "Medula oblongata",
+  "la": "Medulla oblongata",
+  "en": "medulla oblongata",
+  "ta2id": "5983"
+ },
+ "FMA62008nsn": {
+  "pt": "Hipotálamo",
+  "la": "Hypothalamus",
+  "en": "hypothalamus, nsn",
+  "ta2id": "5714"
+ },
+ "FMA62032": {
+  "pt": "Habenula",
+  "la": "Habenula",
+  "en": "habenula",
+  "ta2id": "5662"
+ },
+ "FMA62045": {
+  "pt": "Quiasma óptico",
+  "la": "Chiasma opticum",
+  "en": "optic chiasm",
+  "ta2id": "5668"
+ },
+ "FMA62072": {
+  "pt": "Comissura posterior",
+  "la": "Commissura posterior",
+  "en": "posterior commissure",
+  "ta2id": "5749"
+ },
+ "FMA62327": {
+  "pt": "Tuber cinereum",
+  "la": "Tuber cinereum",
+  "en": "tuber cinereum",
+  "ta2id": "5673"
+ },
+ "FMA62382": {
+  "pt": "Trato óptico direito",
+  "la": "Tractus opticus dextrum",
+  "en": "right optic tract",
+  "ta2id": "5669"
+ },
+ "FMA62394": {
+  "pt": "Pedúnculo cerebral",
+  "la": "Pedunculus cerebri",
+  "en": "peduncle of midbrain",
+  "ta2id": null
+ },
+ "FMA67936": {
+  "pt": "Trato óptico esquerdo",
+  "la": "Tractus opticus sinistrum",
+  "en": "left optic tract",
+  "ta2id": "5669"
+ },
+ "FMA67943": {
+  "pt": "Pons",
+  "la": "Pons",
+  "en": "pons",
+  "ta2id": "5921"
+ },
+ "FMA67944": {
+  "pt": "Cerebelo",
+  "la": "Cerebellum",
+  "en": "cerebellum",
+  "ta2id": "5788"
+ },
+ "FMA72653": {
+  "pt": "Giro frontal superior direito",
+  "la": "Gyrus frontalis superior dextrum",
+  "en": "right superior frontal gyrus",
+  "ta2id": "5456"
+ },
+ "FMA72654": {
+  "pt": "Giro frontal superior esquerdo",
+  "la": "Gyrus frontalis superior sinistrum",
+  "en": "left superior frontal gyrus",
+  "ta2id": "5456"
+ },
+ "FMA72655": {
+  "pt": "Giro frontal médio direito",
+  "la": "Gyrus frontalis medius dextrum",
+  "en": "right middle frontal gyrus",
+  "ta2id": "5454"
+ },
+ "FMA72656": {
+  "pt": "Giro frontal médio esquerdo",
+  "la": "Gyrus frontalis medius sinistrum",
+  "en": "left middle frontal gyrus",
+  "ta2id": "5454"
+ },
+ "FMA72661": {
+  "pt": "Giro precentral direito",
+  "la": "Gyrus precentralis dextrum",
+  "en": "right precentral gyrus",
+  "ta2id": "5458"
+ },
+ "FMA72662": {
+  "pt": "Giro precentral esquerdo",
+  "la": "Gyrus precentralis sinistrum",
+  "en": "left precentral gyrus",
+  "ta2id": "5458"
+ },
+ "FMA72665": {
+  "pt": "Giro pós-central direito",
+  "la": "Gyrus postcentralis dextrum",
+  "en": "right postcentral gyrus",
+  "ta2id": "5469"
+ },
+ "FMA72666": {
+  "pt": "Giro pós-central esquerdo",
+  "la": "Gyrus postcentralis sinistrum",
+  "en": "left postcentral gyrus",
+  "ta2id": "5469"
+ },
+ "FMA72667": {
+  "pt": "Giro supramarginal direito",
+  "la": "Gyrus supramarginalis dextrum",
+  "en": "right supramarginal gyrus",
+  "ta2id": "5473"
+ },
+ "FMA72668": {
+  "pt": "Giro supramarginal esquerdo",
+  "la": "Gyrus supramarginalis sinistrum",
+  "en": "left supramarginal gyrus",
+  "ta2id": "5473"
+ },
+ "FMA72669": {
+  "pt": "Giro angular direito",
+  "la": "Gyrus angularis dextrum",
+  "en": "right angular gyrus",
+  "ta2id": "5472"
+ },
+ "FMA72670": {
+  "pt": "Giro angular esquerdo",
+  "la": "Gyrus angularis sinistrum",
+  "en": "left angular gyrus",
+  "ta2id": "5472"
+ },
+ "FMA72685": {
+  "pt": "Giro temporal médio direito",
+  "la": "Gyrus temporalis medius dextrum",
+  "en": "right middle temporal gyrus",
+  "ta2id": "5495"
+ },
+ "FMA72686": {
+  "pt": "Giro temporal médio esquerdo",
+  "la": "Gyrus temporalis medius sinistrum",
+  "en": "left middle temporal gyrus",
+  "ta2id": "5495"
+ },
+ "FMA72687": {
+  "pt": "Giro temporal inferior direito",
+  "la": "Gyrus temporalis inferior dextrum",
+  "en": "right inferior temporal gyrus",
+  "ta2id": "5497"
+ },
+ "FMA72688": {
+  "pt": "Giro temporal inferior esquerdo",
+  "la": "Gyrus temporalis inferior sinistrum",
+  "en": "left inferior temporal gyrus",
+  "ta2id": "5497"
+ },
+ "FMA72689": {
+  "pt": "Giro fusiforme direito",
+  "la": "Gyrus fusiformis dextrum",
+  "en": "right fusiform gyrus",
+  "ta2id": null
+ },
+ "FMA72690": {
+  "pt": "Giro fusiforme esquerdo",
+  "la": "Gyrus fusiformis sinistrum",
+  "en": "left fusiform gyrus",
+  "ta2id": null
+ },
+ "FMA72701": {
+  "pt": "Giro curto acessório da ínsula direita",
+  "la": "Gyrus brevis accessorius insulae dextrum",
+  "en": "right accessory short gyrus",
+  "ta2id": null
+ },
+ "FMA72702": {
+  "pt": "Giro curto acessório da ínsula esquerda",
+  "la": "Gyrus brevis accessorius insulae sinistrum",
+  "en": "left accessory short gyrus",
+  "ta2id": null
+ },
+ "FMA72705": {
+  "pt": "Giro parahipocampal direito",
+  "la": "Gyrus parahippocampalis dextrum",
+  "en": "right parahippocampal gyrus",
+  "ta2id": "5515"
+ },
+ "FMA72706": {
+  "pt": "Giro parahipocampal esquerdo",
+  "la": "Gyrus parahippocampalis sinistrum",
+  "en": "left parahippocampal gyrus",
+  "ta2id": "5515"
+ },
+ "FMA72713": {
+  "pt": "Hipocampo direito",
+  "la": "Hippocampus dextrum",
+  "en": "right hippocampus",
+  "ta2id": "5518"
+ },
+ "FMA72714": {
+  "pt": "Hipocampo esquerdo",
+  "la": "Hippocampus sinistrum",
+  "en": "left hippocampus",
+  "ta2id": "5518"
+ },
+ "FMA72717": {
+  "pt": "Giro cingulado direito",
+  "la": "Gyrus cinguli dextrum",
+  "en": "right cingulate gyrus",
+  "ta2id": "5513"
+ },
+ "FMA72718": {
+  "pt": "Giro cingulado esquerdo",
+  "la": "Gyrus cinguli sinistrum",
+  "en": "left cingulate gyrus",
+  "ta2id": "5513"
+ },
+ "FMA72800": {
+  "pt": "Anterior direito",
+  "la": "Anterior dextrum",
+  "en": "anterior part of right superior temporal gyrus",
+  "ta2id": "12"
+ },
+ "FMA72801": {
+  "pt": "Anterior esquerdo",
+  "la": "Anterior sinistrum",
+  "en": "anterior part of left superior temporal gyrus",
+  "ta2id": "12"
+ },
+ "FMA72804": {
+  "pt": "Posterior direito",
+  "la": "Posterior dextrum",
+  "en": "posterior part of right superior temporal gyrus",
+  "ta2id": "13"
+ },
+ "FMA72805": {
+  "pt": "Posterior esquerdo",
+  "la": "Posterior sinistrum",
+  "en": "posterior part of left superior temporal gyrus",
+  "ta2id": "13"
+ },
+ "FMA72826": {
+  "pt": "Núcleo caudado direito",
+  "la": "Nucleus caudatus dextrum",
+  "en": "right caudate nucleus",
+  "ta2id": "5561"
+ },
+ "FMA72827": {
+  "pt": "Núcleo caudado esquerdo",
+  "la": "Nucleus caudatus sinistrum",
+  "en": "left caudate nucleus",
+  "ta2id": "5561"
+ },
+ "FMA72828": {
+  "pt": "Putamen direito",
+  "la": "Putamen dextrum",
+  "en": "right putamen",
+  "ta2id": "5566"
+ },
+ "FMA72829": {
+  "pt": "Putamen esquerdo",
+  "la": "Putamen sinistrum",
+  "en": "left putamen",
+  "ta2id": "5566"
+ },
+ "FMA72830": {
+  "pt": "Globus pallidus direito",
+  "la": "Globus pallidus dextrum",
+  "en": "right globus pallidus",
+  "ta2id": "5569"
+ },
+ "FMA72831": {
+  "pt": "Globus pallidus esquerdo",
+  "la": "Globus pallidus sinistrum",
+  "en": "left globus pallidus",
+  "ta2id": "5569"
+ },
+ "FMA72832": {
+  "pt": "Corpo amigdaloide direito",
+  "la": "Corpus amygdaloideum dextrum",
+  "en": "right amygdala",
+  "ta2id": null
+ },
+ "FMA72833": {
+  "pt": "Corpo amigdaloide esquerdo",
+  "la": "Corpus amygdaloideum sinistrum",
+  "en": "left amygdala",
+  "ta2id": null
+ },
+ "FMA72908": {
+  "pt": "Membro anterior da cápsula interna direita",
+  "la": "Crus anterius capsulae internae dextrum",
+  "en": "anterior limb of right internal capsule",
+  "ta2id": "5577"
+ },
+ "FMA72909": {
+  "pt": "Membro anterior da cápsula interna esquerda",
+  "la": "Crus anterius capsulae internae sinistrum",
+  "en": "anterior limb of left internal capsule",
+  "ta2id": "5577"
+ },
+ "FMA72924": {
+  "pt": "Fornix direito",
+  "la": "Fornix dextrum",
+  "en": "right fornix of forebrain",
+  "ta2id": "5633"
+ },
+ "FMA72925": {
+  "pt": "Fornix esquerdo",
+  "la": "Fornix sinistrum",
+  "en": "left fornix of forebrain",
+  "ta2id": "5633"
+ },
+ "FMA72939": {
+  "pt": "Stria terminalis direita",
+  "la": "Stria terminalis dextrum",
+  "en": "right stria terminalis",
+  "ta2id": "5592"
+ },
+ "FMA72940": {
+  "pt": "Stria terminalis esquerda",
+  "la": "Stria terminalis sinistrum",
+  "en": "left stria terminalis",
+  "ta2id": "5592"
+ },
+ "FMA72975": {
+  "pt": "Lobo occipital direito",
+  "la": "Lobus occipitalis dextrum",
+  "en": "right occipital lobe",
+  "ta2id": "5480"
+ },
+ "FMA72976": {
+  "pt": "Lobo occipital esquerdo",
+  "la": "Lobus occipitalis sinistrum",
+  "en": "left occipital lobe",
+  "ta2id": "5480"
+ },
+ "FMA72977": {
+  "pt": "Ísula direita",
+  "la": "Insula dextrum",
+  "en": "right insula",
+  "ta2id": "5502"
+ },
+ "FMA72978": {
+  "pt": "Ísula esquerda",
+  "la": "Insula sinistrum",
+  "en": "left insula",
+  "ta2id": "5502"
+ },
+ "FMA73303": {
+  "pt": "Corpo geniculado lateral direito",
+  "la": "Corpus geniculatum laterale dextrum",
+  "en": "right lateral geniculate body",
+  "ta2id": "5666"
+ },
+ "FMA73304": {
+  "pt": "Corpo geniculado lateral esquerdo",
+  "la": "Corpus geniculatum laterale sinistrum",
+  "en": "left lateral geniculate body",
+  "ta2id": "5666"
+ },
+ "FMA73309": {
+  "pt": "Corpo geniculado medial direito",
+  "la": "Corpus geniculatum mediale dextrum",
+  "en": "right medial geniculate body",
+  "ta2id": "5667"
+ },
+ "FMA73310": {
+  "pt": "Corpo geniculado medial esquerdo",
+  "la": "Corpus geniculatum mediale sinistrum",
+  "en": "left medial geniculate body",
+  "ta2id": "5667"
+ },
+ "FMA73413": {
+  "pt": "Estria medular do tálamo direito",
+  "la": "Stria medullaris thalami dextrum",
+  "en": "right stria medullaris of thalamus",
+  "ta2id": null
+ },
+ "FMA73414": {
+  "pt": "Estria medular do tálamo esquerdo",
+  "la": "Stria medullaris thalami sinistrum",
+  "en": "left stria medullaris of thalamus",
+  "ta2id": null
+ },
+ "FMA73422": {
+  "pt": "Colículo superior direito",
+  "la": "Colliculus superior dextrum",
+  "en": "right superior colliculus",
+  "ta2id": "5912"
+ },
+ "FMA73423": {
+  "pt": "Colículo superior esquerdo",
+  "la": "Colliculus superior sinistrum",
+  "en": "left superior colliculus",
+  "ta2id": "5912"
+ },
+ "FMA73434": {
+  "pt": "Colículo inferior direito",
+  "la": "Colliculus inferior dextrum",
+  "en": "right inferior colliculus",
+  "ta2id": "5916"
+ },
+ "FMA73435": {
+  "pt": "Colículo inferior esquerdo",
+  "la": "Colliculus inferior sinistrum",
+  "en": "left inferior colliculus",
+  "ta2id": "5916"
+ },
+ "FMA73461": {
+  "pt": "Braço do colículo superior direito",
+  "la": "Brachium colliculi superioris dextrum",
+  "en": "brachium of right superior colliculus",
+  "ta2id": "5914"
+ },
+ "FMA73462": {
+  "pt": "Braço do colículo superior esquerdo",
+  "la": "Brachium colliculi superioris sinistrum",
+  "en": "brachium of left superior colliculus",
+  "ta2id": "5914"
+ },
+ "FMA73463": {
+  "pt": "Braço do colículo inferior direito",
+  "la": "Brachium colliculi inferioris dextrum",
+  "en": "brachium of right inferior colliculus",
+  "ta2id": "5918"
+ },
+ "FMA73464": {
+  "pt": "Braço do colículo inferior esquerdo",
+  "la": "Brachium colliculi inferioris sinistrum",
+  "en": "brachium of left inferior colliculus",
+  "ta2id": "5918"
+ },
+ "FMA74877": {
+  "pt": "Corpo mamilar",
+  "la": "Corpus mammillare",
+  "en": "mammillary body",
+  "ta2id": null
+ },
+ "FMA75351": {
+  "pt": "Forame interventricular",
+  "la": "Foramen interventriculare",
+  "en": "interventricular foramen",
+  "ta2id": "5641"
+ },
+ "FMA78449": {
+  "pt": "Ventrículo lateral direito",
+  "la": "Ventriculus lateralis dextrum",
+  "en": "right lateral ventricle",
+  "ta2id": "5639"
+ },
+ "FMA78450": {
+  "pt": "Ventrículo lateral esquerdo",
+  "la": "Ventriculus lateralis sinistrum",
+  "en": "left lateral ventricle",
+  "ta2id": "5639"
+ },
+ "FMA78454": {
+  "pt": "Terceiro ventrículo",
+  "la": "Ventriculus tertius",
+  "en": "third ventricle",
+  "ta2id": "5769"
+ },
+ "FMA78467": {
+  "pt": "Aqueduto do mesencéfalo",
+  "la": "Aqueductus mesencephali",
+  "en": "cerebral aqueduct",
+  "ta2id": null
+ },
+ "FMA78469": {
+  "pt": "Quarto ventrículo",
+  "la": "Ventriculus quartus",
+  "en": "fourth ventricle",
+  "ta2id": "5966"
+ },
+ "FMA78497": {
+  "pt": "Canal central",
+  "la": "Canalis centralis",
+  "en": "central canal of spinal cord",
+  "ta2id": "6127"
+ },
+ "FMA83740": {
+  "pt": "Fossa interpeduncular",
+  "la": "Fossa interpeduncularis",
+  "en": "interpeduncular fossa",
+  "ta2id": "5875"
+ },
+ "FMA86464": {
+  "pt": "Corpo caloso",
+  "la": "Corpus callosum",
+  "en": "corpus callosum",
+  "ta2id": "5604"
+ },
+ "BP44": {
+  "pt": "Cabeça umeral do extensor ulnar do carpo esquerdo",
+  "la": "Caput humerale extensoris ulnaris carpi sinistrum",
+  "en": "humeral head of left extensor carpi ulnaris",
+  "ta2id": "2508"
+ },
+ "BP45": {
+  "pt": "Cabeça umeral do extensor ulnar do carpo direito",
+  "la": "Caput humerale extensoris ulnaris carpi dextrum",
+  "en": "humeral head of right extensor carpi ulnaris",
+  "ta2id": "2508"
+ },
+ "BP46": {
+  "pt": "Cabeça ulnar do extensor ulnar do carpo esquerdo",
+  "la": "Caput ulnare extensoris ulnaris carpi sinistrum",
+  "en": "ulnar head of left extensor carpi ulnaris",
+  "ta2id": "2509"
+ },
+ "BP47": {
+  "pt": "Cabeça ulnar do extensor ulnar do carpo direito",
+  "la": "Caput ulnare extensoris ulnaris carpi dextrum",
+  "en": "ulnar head of right extensor carpi ulnaris",
+  "ta2id": "2509"
+ },
+ "FMA11336": {
+  "pt": "Linea alba",
+  "la": "Linea alba",
+  "en": "linea alba",
+  "ta2id": "2377"
+ },
+ "FMA13336": {
+  "pt": "Músculo oblíquo externo do abdome direito",
+  "la": "Musculus obliquus externus abdominis dextrum",
+  "en": "right external oblique",
+  "ta2id": null
+ },
+ "FMA13337": {
+  "pt": "Músculo oblíquo externo do abdome esquerdo",
+  "la": "Musculus obliquus externus abdominis sinistrum",
+  "en": "left external oblique",
+  "ta2id": null
+ },
+ "FMA13346": {
+  "pt": "Músculo esternohióideo direito",
+  "la": "Musculus sternohyoideus dextrum",
+  "en": "right sternohyoid",
+  "ta2id": "2168"
+ },
+ "FMA13347": {
+  "pt": "Músculo esternohióideo esquerdo",
+  "la": "Musculus sternohyoideus sinistrum",
+  "en": "left sternohyoid",
+  "ta2id": "2168"
+ },
+ "FMA13348": {
+  "pt": "Músculo omohióideo direito",
+  "la": "Musculus omohyoideus dextrum",
+  "en": "right omohyoid",
+  "ta2id": "2169"
+ },
+ "FMA13349": {
+  "pt": "Músculo omohióideo esquerdo",
+  "la": "Musculus omohyoideus sinistrum",
+  "en": "left omohyoid",
+  "ta2id": "2169"
+ },
+ "FMA13350": {
+  "pt": "Músculo esternotireóideo direito",
+  "la": "Musculus sternothyreoideus dextrum",
+  "en": "right sternothyroid",
+  "ta2id": "2173"
+ },
+ "FMA13351": {
+  "pt": "Músculo esternotireóideo esquerdo",
+  "la": "Musculus sternothyreoideus sinistrum",
+  "en": "left sternothyroid",
+  "ta2id": "2173"
+ },
+ "FMA13352": {
+  "pt": "Músculo tirohióideo direito",
+  "la": "Musculus thyreohyoideus dextrum",
+  "en": "right thyrohyoid",
+  "ta2id": "2174"
+ },
+ "FMA13353": {
+  "pt": "Músculo tirohióideo esquerdo",
+  "la": "Musculus thyreohyoideus sinistrum",
+  "en": "left thyrohyoid",
+  "ta2id": "2174"
+ },
+ "FMA13358": {
+  "pt": "Músculo grande dorsal direito",
+  "la": "Musculus latissimus dorsi dextrum",
+  "en": "right latissimus dorsi",
+  "ta2id": "2231"
+ },
+ "FMA13359": {
+  "pt": "Músculo grande dorsal esquerdo",
+  "la": "Musculus latissimus dorsi sinistrum",
+  "en": "left latissimus dorsi",
+  "ta2id": "2231"
+ },
+ "FMA13375": {
+  "pt": "Músculo peitoral menor direito",
+  "la": "Musculus pectoralis minor dextrum",
+  "en": "right pectoralis minor",
+  "ta2id": "2305"
+ },
+ "FMA13376": {
+  "pt": "Músculo peitoral menor esquerdo",
+  "la": "Musculus pectoralis minor sinistrum",
+  "en": "left pectoralis minor",
+  "ta2id": "2305"
+ },
+ "FMA13377": {
+  "pt": "Músculo reto abdominal direito",
+  "la": "Musculus rectus abdominis dextrum",
+  "en": "right rectus abdominis",
+  "ta2id": "2357"
+ },
+ "FMA13378": {
+  "pt": "Músculo reto abdominal esquerdo",
+  "la": "Musculus rectus abdominis sinistrum",
+  "en": "left rectus abdominis",
+  "ta2id": "2357"
+ },
+ "FMA13381": {
+  "pt": "Músculo rombóide principal direito",
+  "la": "Musculus rhomboideus major dextrum",
+  "en": "right rhomboid major",
+  "ta2id": "2232"
+ },
+ "FMA13382": {
+  "pt": "Músculo rombóide principal esquerdo",
+  "la": "Musculus rhomboideus major sinistrum",
+  "en": "left rhomboid major",
+  "ta2id": "2232"
+ },
+ "FMA13383": {
+  "pt": "Músculo rombóide menor direito",
+  "la": "Musculus rhomboideus minor dextrum",
+  "en": "right rhomboid minor",
+  "ta2id": "2233"
+ },
+ "FMA13384": {
+  "pt": "Músculo rombóide menor esquerdo",
+  "la": "Musculus rhomboideus minor sinistrum",
+  "en": "left rhomboid minor",
+  "ta2id": "2233"
+ },
+ "FMA13388": {
+  "pt": "Músculo escaleno posterior direito",
+  "la": "Musculus scalenus posterior dextrum",
+  "en": "right scalenus posterior",
+  "ta2id": "2154"
+ },
+ "FMA13389": {
+  "pt": "Músculo escaleno posterior esquerdo",
+  "la": "Musculus scalenus posterior sinistrum",
+  "en": "left scalenus posterior",
+  "ta2id": "2154"
+ },
+ "FMA13390": {
+  "pt": "Músculo escaleno médio direito",
+  "la": "Musculus scalenus medius dextrum",
+  "en": "right scalenus medius",
+  "ta2id": "2153"
+ },
+ "FMA13391": {
+  "pt": "Músculo escaleno médio esquerdo",
+  "la": "Musculus scalenus medius sinistrum",
+  "en": "left scalenus medius",
+  "ta2id": "2153"
+ },
+ "FMA13392": {
+  "pt": "Músculo escaleno anterior direito",
+  "la": "Musculus scalenus anterior dextrum",
+  "en": "right scalenus anterior",
+  "ta2id": "2152"
+ },
+ "FMA13393": {
+  "pt": "Músculo escaleno anterior esquerdo",
+  "la": "Musculus scalenus anterior sinistrum",
+  "en": "left scalenus anterior",
+  "ta2id": "2152"
+ },
+ "FMA13398": {
+  "pt": "Músculo serrátil anterior direito",
+  "la": "Musculus serratus anterior dextrum",
+  "en": "right serratus anterior",
+  "ta2id": "2307"
+ },
+ "FMA13399": {
+  "pt": "Músculo serrátil anterior esquerdo",
+  "la": "Musculus serratus anterior sinistrum",
+  "en": "left serratus anterior",
+  "ta2id": "2307"
+ },
+ "FMA13403": {
+  "pt": "Músculo serrátil postero-superior direito",
+  "la": "Musculus serratus posterior superior dextrum",
+  "en": "right serratus posterior superior",
+  "ta2id": "2236"
+ },
+ "FMA13404": {
+  "pt": "Músculo serrátil postero-superior esquerdo",
+  "la": "Musculus serratus posterior superior sinistrum",
+  "en": "left serratus posterior superior",
+  "ta2id": "2236"
+ },
+ "FMA13405": {
+  "pt": "Músculo serrátil postero-inferior direito",
+  "la": "Musculus serratus posterior inferior dextrum",
+  "en": "right serratus posterior inferior",
+  "ta2id": "2235"
+ },
+ "FMA13406": {
+  "pt": "Músculo serrátil postero-inferior esquerdo",
+  "la": "Musculus serratus posterior inferior sinistrum",
+  "en": "left serratus posterior inferior",
+  "ta2id": "2235"
+ },
+ "FMA13408": {
+  "pt": "Músculo esternocleidomastóideo direito",
+  "la": "Musculus sternocleidomastoideus dextrum",
+  "en": "right sternocleidomastoid",
+  "ta2id": "2156"
+ },
+ "FMA13409": {
+  "pt": "Músculo esternocleidomastóideo esquerdo",
+  "la": "Musculus sternocleidomastoideus sinistrum",
+  "en": "left sternocleidomastoid",
+  "ta2id": "2156"
+ },
+ "FMA13411": {
+  "pt": "Músculo subclávio esquerdo",
+  "la": "Musculus subclavius sinistrum",
+  "en": "left subclavius",
+  "ta2id": "2306"
+ },
+ "FMA13412": {
+  "pt": "Músculo subclávio direito",
+  "la": "Musculus subclavius dextrum",
+  "en": "right subclavius",
+  "ta2id": "2306"
+ },
+ "FMA13414": {
+  "pt": "Músculo subescapular direito",
+  "la": "Musculus subscapularis dextrum",
+  "en": "right subscapularis",
+  "ta2id": "2460"
+ },
+ "FMA13415": {
+  "pt": "Músculo subescapular esquerdo",
+  "la": "Musculus subscapularis sinistrum",
+  "en": "left subscapularis",
+  "ta2id": "2460"
+ },
+ "FMA13892": {
+  "pt": "Músculo oblíquo interno do abdome direito",
+  "la": "Musculus obliquus internus abdominis dextrum",
+  "en": "right internal oblique",
+  "ta2id": null
+ },
+ "FMA13893": {
+  "pt": "Músculo oblíquo interno do abdome esquerdo",
+  "la": "Musculus obliquus internus abdominis sinistrum",
+  "en": "left internal oblique",
+  "ta2id": null
+ },
+ "FMA21930": {
+  "pt": "Esfíncter anal externo",
+  "la": "Sphincter externus ani",
+  "en": "external anal sphincter",
+  "ta2id": "2426"
+ },
+ "FMA21964": {
+  "pt": "Ligamento inguinal direito",
+  "la": "Ligamentum inguinale dextrum",
+  "en": "right inguinal ligament",
+  "ta2id": "2365"
+ },
+ "FMA21965": {
+  "pt": "Ligamento inguinal esquerdo",
+  "la": "Ligamentum inguinale sinistrum",
+  "en": "left inguinal ligament",
+  "ta2id": "2365"
+ },
+ "FMA22322": {
+  "pt": "Músculo ilíaco direito",
+  "la": "Musculus iliacus dextrum",
+  "en": "right iliacus",
+  "ta2id": "2594"
+ },
+ "FMA22323": {
+  "pt": "Músculo ilíaco esquerdo",
+  "la": "Musculus iliacus sinistrum",
+  "en": "left iliacus",
+  "ta2id": "2594"
+ },
+ "FMA22324": {
+  "pt": "Obturador interno direito",
+  "la": "Obturator internus dextrum",
+  "en": "right obturator internus",
+  "ta2id": "2605"
+ },
+ "FMA22325": {
+  "pt": "Obturador interno esquerdo",
+  "la": "Obturator internus sinistrum",
+  "en": "left obturator internus",
+  "ta2id": "2605"
+ },
+ "FMA22326": {
+  "pt": "Obturador externo direito",
+  "la": "Obturator externus dextrum",
+  "en": "right obturator externus",
+  "ta2id": "2636"
+ },
+ "FMA22327": {
+  "pt": "Obturador externo esquerdo",
+  "la": "Obturator externus sinistrum",
+  "en": "left obturator externus",
+  "ta2id": "2636"
+ },
+ "FMA22328": {
+  "pt": "Músculo glúteo máximo direito",
+  "la": "Musculus gluteus maximus dextrum",
+  "en": "right gluteus maximus",
+  "ta2id": "2598"
+ },
+ "FMA22329": {
+  "pt": "Músculo glúteo máximo esquerdo",
+  "la": "Musculus gluteus maximus sinistrum",
+  "en": "left gluteus maximus",
+  "ta2id": "2598"
+ },
+ "FMA22330": {
+  "pt": "Músculo glúteo médio direito",
+  "la": "Musculus gluteus medius dextrum",
+  "en": "right gluteus medius",
+  "ta2id": "2599"
+ },
+ "FMA22331": {
+  "pt": "Músculo glúteo médio esquerdo",
+  "la": "Musculus gluteus medius sinistrum",
+  "en": "left gluteus medius",
+  "ta2id": "2599"
+ },
+ "FMA22332": {
+  "pt": "Músculo glúteo mínimo direito",
+  "la": "Musculus gluteus minimus dextrum",
+  "en": "right gluteus minimus",
+  "ta2id": "2600"
+ },
+ "FMA22333": {
+  "pt": "Músculo glúteo mínimo esquerdo",
+  "la": "Musculus gluteus minimus sinistrum",
+  "en": "left gluteus minimus",
+  "ta2id": "2600"
+ },
+ "FMA22334": {
+  "pt": "Músculo gemelo superior direito",
+  "la": "Musculus gemellus superior dextrum",
+  "en": "right gemellus superior",
+  "ta2id": "2606"
+ },
+ "FMA22335": {
+  "pt": "Músculo gemelo superior esquerdo",
+  "la": "Musculus gemellus superior sinistrum",
+  "en": "left gemellus superior",
+  "ta2id": "2606"
+ },
+ "FMA22336": {
+  "pt": "Músculo gemelo inferior direito",
+  "la": "Musculus gemellus inferior dextrum",
+  "en": "right gemellus inferior",
+  "ta2id": "2607"
+ },
+ "FMA22337": {
+  "pt": "Músculo gemelo inferior esquerdo",
+  "la": "Musculus gemellus inferior sinistrum",
+  "en": "left gemellus inferior",
+  "ta2id": "2607"
+ },
+ "FMA22338": {
+  "pt": "Músculo quadrado femoral direito",
+  "la": "Musculus quadratus femoris dextrum",
+  "en": "right quadratus femoris",
+  "ta2id": "2608"
+ },
+ "FMA22339": {
+  "pt": "Músculo quadrado femoral esquerdo",
+  "la": "Musculus quadratus femoris sinistrum",
+  "en": "left quadratus femoris",
+  "ta2id": "2608"
+ },
+ "FMA22340": {
+  "pt": "Músculo piriforme direito",
+  "la": "Musculus piriformis dextrum",
+  "en": "right piriformis",
+  "ta2id": "2604"
+ },
+ "FMA22341": {
+  "pt": "Músculo piriforme esquerdo",
+  "la": "Musculus piriformis sinistrum",
+  "en": "left piriformis",
+  "ta2id": "2604"
+ },
+ "FMA22342": {
+  "pt": "Psoas major direito",
+  "la": "Psoas major dextrum",
+  "en": "right psoas major",
+  "ta2id": "2595"
+ },
+ "FMA22343": {
+  "pt": "Psoas major esquerdo",
+  "la": "Psoas major sinistrum",
+  "en": "left psoas major",
+  "ta2id": "2595"
+ },
+ "FMA22344": {
+  "pt": "Músculo transverso abdominal direito",
+  "la": "Musculus transversus abdominis dextrum",
+  "en": "right transversus abdominis",
+  "ta2id": "2375"
+ },
+ "FMA22345": {
+  "pt": "Músculo transverso abdominal esquerdo",
+  "la": "Musculus transversus abdominis sinistrum",
+  "en": "left transversus abdominis",
+  "ta2id": "2375"
+ },
+ "FMA22346": {
+  "pt": "Músculo piramidal direito",
+  "la": "Musculus pyramidalis dextrum",
+  "en": "right pyramidalis",
+  "ta2id": "2363"
+ },
+ "FMA22347": {
+  "pt": "Músculo piramidal esquerdo",
+  "la": "Musculus pyramidalis sinistrum",
+  "en": "left pyramidalis",
+  "ta2id": "2363"
+ },
+ "FMA22348": {
+  "pt": "Músculo quadrado lombar direito",
+  "la": "Musculus quadratus lumborum dextrum",
+  "en": "right quadratus lumborum",
+  "ta2id": "2382"
+ },
+ "FMA22349": {
+  "pt": "Músculo quadrado lombar esquerdo",
+  "la": "Musculus quadratus lumborum sinistrum",
+  "en": "left quadratus lumborum",
+  "ta2id": "2382"
+ },
+ "FMA22354": {
+  "pt": "Músculo sartório direito",
+  "la": "Musculus sartorius dextrum",
+  "en": "right sartorius",
+  "ta2id": "2610"
+ },
+ "FMA22355": {
+  "pt": "Músculo sartório esquerdo",
+  "la": "Musculus sartorius sinistrum",
+  "en": "left sartorius",
+  "ta2id": "2610"
+ },
+ "FMA22358": {
+  "pt": "Músculo semitendíneo direito",
+  "la": "Musculus semitendinosus dextrum",
+  "en": "right semitendinosus",
+  "ta2id": "2641"
+ },
+ "FMA22359": {
+  "pt": "Músculo semitendíneo esquerdo",
+  "la": "Musculus semitendinosus sinistrum",
+  "en": "left semitendinosus",
+  "ta2id": "2641"
+ },
+ "FMA22425": {
+  "pt": "Tensor da fáscia lata direita",
+  "la": "Tensor fasciae latae dextrum",
+  "en": "right tensor fasciae latae",
+  "ta2id": "2602"
+ },
+ "FMA22426": {
+  "pt": "Tensor da fáscia lata esquerda",
+  "la": "Tensor fasciae latae sinistrum",
+  "en": "left tensor fasciae latae",
+  "ta2id": "2602"
+ },
+ "FMA22448": {
+  "pt": "Músculo semimembranoso direito",
+  "la": "Musculus semimembranosus dextrum",
+  "en": "right semimembranosus",
+  "ta2id": "2642"
+ },
+ "FMA22449": {
+  "pt": "Músculo semimembranoso esquerdo",
+  "la": "Musculus semimembranosus sinistrum",
+  "en": "left semimembranosus",
+  "ta2id": "2642"
+ },
+ "FMA22450": {
+  "pt": "Músculo pectíneo direito",
+  "la": "Musculus pectineus dextrum",
+  "en": "right pectineus",
+  "ta2id": "2627"
+ },
+ "FMA22451": {
+  "pt": "Músculo pectíneo esquerdo",
+  "la": "Musculus pectineus sinistrum",
+  "en": "left pectineus",
+  "ta2id": "2627"
+ },
+ "FMA22452": {
+  "pt": "Adutor brevis direito",
+  "la": "Adductor brevis dextrum",
+  "en": "right adductor brevis",
+  "ta2id": "2629"
+ },
+ "FMA22454": {
+  "pt": "Adutor brevis esquerdo",
+  "la": "Adductor brevis sinistrum",
+  "en": "left adductor brevis",
+  "ta2id": "2629"
+ },
+ "FMA22456": {
+  "pt": "Adductor longus direito",
+  "la": "Adductor longus dextrum",
+  "en": "right adductor longus",
+  "ta2id": "2628"
+ },
+ "FMA22457": {
+  "pt": "Adductor longus esquerdo",
+  "la": "Adductor longus sinistrum",
+  "en": "left adductor longus",
+  "ta2id": "2628"
+ },
+ "FMA22459": {
+  "pt": "Adutor magnus direito",
+  "la": "Adductor magnus dextrum",
+  "en": "right adductor magnus",
+  "ta2id": "2630"
+ },
+ "FMA22460": {
+  "pt": "Adutor magnus esquerdo",
+  "la": "Adductor magnus sinistrum",
+  "en": "left adductor magnus",
+  "ta2id": "2630"
+ },
+ "FMA22544": {
+  "pt": "Músculo tibial anterior direito",
+  "la": "Musculus tibialis anterior dextrum",
+  "en": "right tibialis anterior",
+  "ta2id": "2644"
+ },
+ "FMA22545": {
+  "pt": "Músculo tibial anterior esquerdo",
+  "la": "Musculus tibialis anterior sinistrum",
+  "en": "left tibialis anterior",
+  "ta2id": "2644"
+ },
+ "FMA22546": {
+  "pt": "Extensor hallucis longus direito",
+  "la": "Extensor longus hallucis dextrum",
+  "en": "right extensor hallucis longus",
+  "ta2id": "2650"
+ },
+ "FMA22547": {
+  "pt": "Extensor hallucis longus esquerdo",
+  "la": "Extensor longus hallucis sinistrum",
+  "en": "left extensor hallucis longus",
+  "ta2id": "2650"
+ },
+ "FMA22548": {
+  "pt": "Extensor digitorum longus direito",
+  "la": "Extensor longus digitorum dextrum",
+  "en": "right extensor digitorum longus",
+  "ta2id": "2645"
+ },
+ "FMA22549": {
+  "pt": "Extensor digitorum longus esquerdo",
+  "la": "Extensor longus digitorum sinistrum",
+  "en": "left extensor digitorum longus",
+  "ta2id": "2645"
+ },
+ "FMA22550": {
+  "pt": "Músculo fibularis tertius direito",
+  "la": "Musculus fibularis tertius dextrum",
+  "en": "right fibularis tertius",
+  "ta2id": "2649"
+ },
+ "FMA22551": {
+  "pt": "Músculo fibularis tertius esquerdo",
+  "la": "Musculus fibularis tertius sinistrum",
+  "en": "left fibularis tertius",
+  "ta2id": "2649"
+ },
+ "FMA22552": {
+  "pt": "Músculo fibular longo direito",
+  "la": "Musculus fibularis longus dextrum",
+  "en": "right fibularis longus",
+  "ta2id": "2652"
+ },
+ "FMA22553": {
+  "pt": "Músculo fibular longo esquerdo",
+  "la": "Musculus fibularis longus sinistrum",
+  "en": "left fibularis longus",
+  "ta2id": "2652"
+ },
+ "FMA22554": {
+  "pt": "Músculo fibularis brevis direito",
+  "la": "Musculus fibularis brevis dextrum",
+  "en": "right fibularis brevis",
+  "ta2id": "2653"
+ },
+ "FMA22555": {
+  "pt": "Músculo fibularis brevis esquerdo",
+  "la": "Musculus fibularis brevis sinistrum",
+  "en": "left fibularis brevis",
+  "ta2id": "2653"
+ },
+ "FMA22558": {
+  "pt": "Músculo sóleo direito",
+  "la": "Musculus soleus dextrum",
+  "en": "right soleus",
+  "ta2id": "2660"
+ },
+ "FMA22559": {
+  "pt": "Músculo sóleo esquerdo",
+  "la": "Musculus soleus sinistrum",
+  "en": "left soleus",
+  "ta2id": "2660"
+ },
+ "FMA22560": {
+  "pt": "Músculo plantar direito",
+  "la": "Musculus plantaris dextrum",
+  "en": "right plantaris",
+  "ta2id": "2663"
+ },
+ "FMA22561": {
+  "pt": "Músculo plantar esquerdo",
+  "la": "Musculus plantaris sinistrum",
+  "en": "left plantaris",
+  "ta2id": "2663"
+ },
+ "FMA22591": {
+  "pt": "Músculo poplíteo direito",
+  "la": "Musculus popliteus dextrum",
+  "en": "right popliteus",
+  "ta2id": "2665"
+ },
+ "FMA22592": {
+  "pt": "Músculo poplíteo esquerdo",
+  "la": "Musculus popliteus sinistrum",
+  "en": "left popliteus",
+  "ta2id": "2665"
+ },
+ "FMA22726": {
+  "pt": "Músculo esplênio do pescoço direito",
+  "la": "Musculus splenius cervicis dextrum",
+  "en": "right splenius cervicis",
+  "ta2id": null
+ },
+ "FMA22727": {
+  "pt": "Músculo esplênio do pescoço esquerdo",
+  "la": "Musculus splenius cervicis sinistrum",
+  "en": "left splenius cervicis",
+  "ta2id": null
+ },
+ "FMA22728": {
+  "pt": "Músculo esplênio da cabeça direita",
+  "la": "Musculus splenius capitis dextrum",
+  "en": "right splenius capitis",
+  "ta2id": "2273"
+ },
+ "FMA22729": {
+  "pt": "Músculo esplênio da cabeça esquerda",
+  "la": "Musculus splenius capitis sinistrum",
+  "en": "left splenius capitis",
+  "ta2id": "2273"
+ },
+ "FMA22740": {
+  "pt": "Músculo iliocostal lombar direito",
+  "la": "Musculus iliocostalis lumborum dextrum",
+  "en": "right iliocostalis lumborum",
+  "ta2id": "2258"
+ },
+ "FMA22741": {
+  "pt": "Músculo iliocostal lombar esquerdo",
+  "la": "Musculus iliocostalis lumborum sinistrum",
+  "en": "left iliocostalis lumborum",
+  "ta2id": "2258"
+ },
+ "FMA22742": {
+  "pt": "Músculo iliocostal do tórax direito",
+  "la": "Musculus iliocostalis thoracis dextrum",
+  "en": "right iliocostalis thoracis",
+  "ta2id": "2260"
+ },
+ "FMA22743": {
+  "pt": "Músculo iliocostal do tórax esquerdo",
+  "la": "Musculus iliocostalis thoracis sinistrum",
+  "en": "left iliocostalis thoracis",
+  "ta2id": "2260"
+ },
+ "FMA22744": {
+  "pt": "Músculo iliocostal do pescoço direito",
+  "la": "Musculus iliocostalis cervicis dextrum",
+  "en": "right iliocostalis cervicis",
+  "ta2id": null
+ },
+ "FMA22745": {
+  "pt": "Músculo iliocostal do pescoço esquerdo",
+  "la": "Musculus iliocostalis cervicis sinistrum",
+  "en": "left iliocostalis cervicis",
+  "ta2id": null
+ },
+ "FMA22751": {
+  "pt": "Músculo longuíssimo do tórax direito",
+  "la": "Musculus longissimus thoracis dextrum",
+  "en": "right longissimus thoracis",
+  "ta2id": "2263"
+ },
+ "FMA22753": {
+  "pt": "Músculo longuíssimo do tórax esquerdo",
+  "la": "Musculus longissimus thoracis sinistrum",
+  "en": "left longissimus thoracis",
+  "ta2id": "2263"
+ },
+ "FMA22754": {
+  "pt": "Músculo longuíssimo da cabeça direita",
+  "la": "Musculus longissimus capitis dextrum",
+  "en": "right longissimus capitis",
+  "ta2id": "2266"
+ },
+ "FMA22756": {
+  "pt": "Músculo longuíssimo da cabeça esquerda",
+  "la": "Musculus longissimus capitis sinistrum",
+  "en": "left longissimus capitis",
+  "ta2id": "2266"
+ },
+ "FMA22757": {
+  "pt": "Músculo longuíssimo do pescoço direito",
+  "la": "Musculus longissimus cervicis dextrum",
+  "en": "right longissimus cervicis",
+  "ta2id": null
+ },
+ "FMA22758": {
+  "pt": "Músculo longuíssimo do pescoço esquerdo",
+  "la": "Musculus longissimus cervicis sinistrum",
+  "en": "left longissimus cervicis",
+  "ta2id": null
+ },
+ "FMA22779": {
+  "pt": "Músculo espinhal do tórax direito",
+  "la": "Musculus spinalis thoracis dextrum",
+  "en": "right spinalis thoracis",
+  "ta2id": "2268"
+ },
+ "FMA22780": {
+  "pt": "Músculo espinhal do tórax esquerdo",
+  "la": "Musculus spinalis thoracis sinistrum",
+  "en": "left spinalis thoracis",
+  "ta2id": "2268"
+ },
+ "FMA22781": {
+  "pt": "Músculo espinal do pescoço direito",
+  "la": "Musculus spinalis cervicis dextrum",
+  "en": "right spinalis cervicis",
+  "ta2id": null
+ },
+ "FMA22782": {
+  "pt": "Músculo espinal do pescoço esquerdo",
+  "la": "Musculus spinalis cervicis sinistrum",
+  "en": "left spinalis cervicis",
+  "ta2id": null
+ },
+ "FMA22872": {
+  "pt": "Músculo semi-espinal do tórax direito",
+  "la": "Musculus semispinalis thoracis dextrum",
+  "en": "right semispinalis thoracis",
+  "ta2id": "2281"
+ },
+ "FMA22873": {
+  "pt": "Músculo semi-espinal do tórax esquerdo",
+  "la": "Musculus semispinalis thoracis sinistrum",
+  "en": "left semispinalis thoracis",
+  "ta2id": "2281"
+ },
+ "FMA22874": {
+  "pt": "Músculo semiespinal do pescoço direito",
+  "la": "Musculus semispinalis cervicis dextrum",
+  "en": "right semispinalis cervicis",
+  "ta2id": null
+ },
+ "FMA22875": {
+  "pt": "Músculo semiespinal do pescoço esquerdo",
+  "la": "Musculus semispinalis cervicis sinistrum",
+  "en": "left semispinalis cervicis",
+  "ta2id": null
+ },
+ "FMA22876": {
+  "pt": "Músculo semi-espinal da cabeça direita",
+  "la": "Musculus semispinalis capitis dextrum",
+  "en": "right semispinalis capitis",
+  "ta2id": "2283"
+ },
+ "FMA22877": {
+  "pt": "Músculo semi-espinal da cabeça esquerda",
+  "la": "Musculus semispinalis capitis sinistrum",
+  "en": "left semispinalis capitis",
+  "ta2id": "2283"
+ },
+ "FMA22878": {
+  "pt": "Músculo multífido direito",
+  "la": "Musculus multifidus dextrum",
+  "en": "right multifidus",
+  "ta2id": null
+ },
+ "FMA22879": {
+  "pt": "Músculo multífido esquerdo",
+  "la": "Musculus multifidus sinistrum",
+  "en": "left multifidus",
+  "ta2id": null
+ },
+ "FMA23083": {
+  "pt": "Músculos rotadores do tórax",
+  "la": "Musculi rotatores thoracis",
+  "en": "thoracic rotator",
+  "ta2id": null
+ },
+ "FMA23089": {
+  "pt": "Músculos rotadores lombares direito",
+  "la": "Musculi rotatores lumborum dextrum",
+  "en": "right lumbar rotator",
+  "ta2id": null
+ },
+ "FMA23090": {
+  "pt": "Músculos rotadores lombares esquerdo",
+  "la": "Musculi rotatores lumborum sinistrum",
+  "en": "left lumbar rotator",
+  "ta2id": null
+ },
+ "FMA258847": {
+  "pt": "Tendão calcâneo direito",
+  "la": "Tendo calcaneus dextrum",
+  "en": "right calcaneal tendon",
+  "ta2id": "2662"
+ },
+ "FMA258850": {
+  "pt": "Tendão intermediário direito",
+  "la": "Tendo intermedius dextrum",
+  "en": "right intermediate tendon",
+  "ta2id": "2011"
+ },
+ "FMA264840": {
+  "pt": "Tendão intermediário esquerdo",
+  "la": "Tendo intermedius sinistrum",
+  "en": "left intermediate tendon",
+  "ta2id": "2011"
+ },
+ "FMA264844": {
+  "pt": "Tendão calcâneo esquerdo",
+  "la": "Tendo calcaneus sinistrum",
+  "en": "left calcaneal tendon",
+  "ta2id": "2662"
+ },
+ "FMA32530": {
+  "pt": "Músculo reto posterior maior da cabeça direita",
+  "la": "Musculus rectus posterior major capitis dextrum",
+  "en": "right rectus capitis posterior major",
+  "ta2id": "2249"
+ },
+ "FMA32531": {
+  "pt": "Músculo reto posterior maior da cabeça esquerda",
+  "la": "Musculus rectus posterior major capitis sinistrum",
+  "en": "left rectus capitis posterior major",
+  "ta2id": "2249"
+ },
+ "FMA32532": {
+  "pt": "Músculo reto posterior menor da cabeça direita",
+  "la": "Musculus rectus posterior minor capitis dextrum",
+  "en": "right rectus capitis posterior minor",
+  "ta2id": "2250"
+ },
+ "FMA32533": {
+  "pt": "Músculo reto posterior menor da cabeça esquerda",
+  "la": "Musculus rectus posterior minor capitis sinistrum",
+  "en": "left rectus capitis posterior minor",
+  "ta2id": "2250"
+ },
+ "FMA32534": {
+  "pt": "Músculo superior oblíquo da cabeça direita",
+  "la": "Musculus obliquus superior capitis dextrum",
+  "en": "right obliquus capitis superior",
+  "ta2id": "2251"
+ },
+ "FMA32535": {
+  "pt": "Músculo superior oblíquo da cabeça esquerda",
+  "la": "Musculus obliquus superior capitis sinistrum",
+  "en": "left obliquus capitis superior",
+  "ta2id": "2251"
+ },
+ "FMA32536": {
+  "pt": "Músculo inferior oblíquo da cabeça direita",
+  "la": "Musculus obliquus inferior capitis dextrum",
+  "en": "right obliquus capitis inferior",
+  "ta2id": "2252"
+ },
+ "FMA32537": {
+  "pt": "Músculo inferior oblíquo da cabeça esquerda",
+  "la": "Musculus obliquus inferior capitis sinistrum",
+  "en": "left obliquus capitis inferior",
+  "ta2id": "2252"
+ },
+ "FMA32540": {
+  "pt": "Levantador da escápula direita",
+  "la": "Levator scapulae dextrum",
+  "en": "right levator scapulae",
+  "ta2id": "2234"
+ },
+ "FMA32541": {
+  "pt": "Levantador da escápula esquerda",
+  "la": "Levator scapulae sinistrum",
+  "en": "left levator scapulae",
+  "ta2id": "2234"
+ },
+ "FMA32544": {
+  "pt": "Músculo supra-espinhal direito",
+  "la": "Musculus supraspinatus dextrum",
+  "en": "right supraspinatus",
+  "ta2id": "2457"
+ },
+ "FMA32545": {
+  "pt": "Músculo supra-espinhal esquerdo",
+  "la": "Musculus supraspinatus sinistrum",
+  "en": "left supraspinatus",
+  "ta2id": "2457"
+ },
+ "FMA32547": {
+  "pt": "Músculo infra-espinhal direito",
+  "la": "Musculus infraspinatus dextrum",
+  "en": "right infraspinatus muscle",
+  "ta2id": "2458"
+ },
+ "FMA32548": {
+  "pt": "Músculo infra-espinhal esquerdo",
+  "la": "Musculus infraspinatus sinistrum",
+  "en": "left infraspinatus muscle",
+  "ta2id": "2458"
+ },
+ "FMA32551": {
+  "pt": "Músculo redondo maior direito",
+  "la": "Musculus teres major dextrum",
+  "en": "right teres major",
+  "ta2id": "2462"
+ },
+ "FMA32552": {
+  "pt": "Músculo redondo maior esquerdo",
+  "la": "Musculus teres major sinistrum",
+  "en": "left teres major",
+  "ta2id": "2462"
+ },
+ "FMA32553": {
+  "pt": "Músculo redondo menor direito",
+  "la": "Musculus teres minor dextrum",
+  "en": "right teres minor",
+  "ta2id": "2459"
+ },
+ "FMA32554": {
+  "pt": "Músculo redondo menor esquerdo",
+  "la": "Musculus teres minor sinistrum",
+  "en": "left teres minor",
+  "ta2id": "2459"
+ },
+ "FMA33581": {
+  "pt": "Parte ascendente do músculo trapézio direito",
+  "la": "Pars ascendens musculi trapezii dextrum",
+  "en": "ascending part of right trapezius",
+  "ta2id": "2229"
+ },
+ "FMA33583": {
+  "pt": "Parte ascendente do músculo trapézio esquerdo",
+  "la": "Pars ascendens musculi trapezii sinistrum",
+  "en": "ascending part of left trapezius",
+  "ta2id": "2229"
+ },
+ "FMA33584": {
+  "pt": "Parte transversal do músculo trapézio direito",
+  "la": "Pars transversa musculi trapezii dextrum",
+  "en": "transverse part of right trapezius",
+  "ta2id": "2228"
+ },
+ "FMA33585": {
+  "pt": "Parte transversal do músculo trapézio esquerdo",
+  "la": "Pars transversa musculi trapezii sinistrum",
+  "en": "transverse part of left trapezius",
+  "ta2id": "2228"
+ },
+ "FMA33586": {
+  "pt": "Parte descendente do músculo trapézio direito",
+  "la": "Pars descendens musculi trapezii dextrum",
+  "en": "descending part of right trapezius",
+  "ta2id": "2227"
+ },
+ "FMA33587": {
+  "pt": "Parte descendente do músculo trapézio esquerdo",
+  "la": "Pars descendens musculi trapezii sinistrum",
+  "en": "descending part of left trapezius",
+  "ta2id": "2227"
+ },
+ "FMA34680": {
+  "pt": "Parte clavicular do músculo deltóide direito",
+  "la": "Pars clavicularis musculi deltoidei dextrum",
+  "en": "clavicular part of right deltoid",
+  "ta2id": "2453"
+ },
+ "FMA34681": {
+  "pt": "Parte clavicular do músculo deltóide esquerdo",
+  "la": "Pars clavicularis musculi deltoidei sinistrum",
+  "en": "clavicular part of left deltoid",
+  "ta2id": "2453"
+ },
+ "FMA34682": {
+  "pt": "Parte acromial do músculo deltóide direito",
+  "la": "Pars acromialis musculi deltoidei dextrum",
+  "en": "acromial part of right deltoid",
+  "ta2id": "2454"
+ },
+ "FMA34683": {
+  "pt": "Parte acromial do músculo deltóide esquerdo",
+  "la": "Pars acromialis musculi deltoidei sinistrum",
+  "en": "acromial part of left deltoid",
+  "ta2id": "2454"
+ },
+ "FMA34684": {
+  "pt": "Parte espinal do músculo deltoide direito",
+  "la": "Pars spinalis musculi deltoidei dextrum",
+  "en": "spinal part of right deltoid",
+  "ta2id": null
+ },
+ "FMA34685": {
+  "pt": "Parte espinal do músculo deltoide esquerdo",
+  "la": "Pars spinalis musculi deltoidei sinistrum",
+  "en": "spinal part of left deltoid",
+  "ta2id": null
+ },
+ "FMA34690": {
+  "pt": "Parte clavicular do músculo peitoral maior direito",
+  "la": "Pars clavicularis musculi pectoralis majoris dextrum",
+  "en": "clavicular part of right pectoralis major",
+  "ta2id": null
+ },
+ "FMA34691": {
+  "pt": "Parte clavicular do músculo peitoral maior esquerdo",
+  "la": "Pars clavicularis musculi pectoralis majoris sinistrum",
+  "en": "clavicular part of left pectoralis major",
+  "ta2id": null
+ },
+ "FMA37386": {
+  "pt": "Abdutor curto do polegar direito",
+  "la": "Abductor brevis pollicis dextrum",
+  "en": "right abductor pollicis brevis",
+  "ta2id": "2521"
+ },
+ "FMA37387": {
+  "pt": "Abdutor curto do polegar esquerdo",
+  "la": "Abductor brevis pollicis sinistrum",
+  "en": "left abductor pollicis brevis",
+  "ta2id": "2521"
+ },
+ "FMA37390": {
+  "pt": "Músculo oponente do polegar direito",
+  "la": "Musculus opponens pollicis dextrum",
+  "en": "right opponens pollicis",
+  "ta2id": "2525"
+ },
+ "FMA37391": {
+  "pt": "Músculo oponente do polegar esquerdo",
+  "la": "Musculus opponens pollicis sinistrum",
+  "en": "left opponens pollicis",
+  "ta2id": "2525"
+ },
+ "FMA37396": {
+  "pt": "Abdutor do dedo mínimo da mão direita",
+  "la": "Abductor digiti minimi manus dextrum",
+  "en": "abductor digiti minimi of right hand",
+  "ta2id": "2529"
+ },
+ "FMA37397": {
+  "pt": "Abdutor do dedo mínimo da mão esquerda",
+  "la": "Abductor digiti minimi manus sinistrum",
+  "en": "abductor digiti minimi of left hand",
+  "ta2id": "2529"
+ },
+ "FMA37398": {
+  "pt": "Músculo flexor curto do dedo mínimo da mão direita",
+  "la": "Musculus flexor digiti minimi brevis manus dextrum",
+  "en": "flexor digiti minimi brevis of right hand",
+  "ta2id": null
+ },
+ "FMA37399": {
+  "pt": "Músculo flexor curto do dedo mínimo da mão esquerda",
+  "la": "Musculus flexor digiti minimi brevis manus sinistrum",
+  "en": "flexor digiti minimi brevis of left hand",
+  "ta2id": null
+ },
+ "FMA37400": {
+  "pt": "Músculo oponente do dedo mínimo da mão direita",
+  "la": "Musculus opponens digiti minimi manus dextrum",
+  "en": "opponens digiti minimi of right hand",
+  "ta2id": "2531"
+ },
+ "FMA37401": {
+  "pt": "Músculo oponente do dedo mínimo da mão esquerda",
+  "la": "Musculus opponens digiti minimi manus sinistrum",
+  "en": "opponens digiti minimi of left hand",
+  "ta2id": "2531"
+ },
+ "FMA37459": {
+  "pt": "Abdutor do hálux direito",
+  "la": "Abductor hallucis dextrum",
+  "en": "right abductor hallucis",
+  "ta2id": "2672"
+ },
+ "FMA37460": {
+  "pt": "Abdutor do hálux esquerdo",
+  "la": "Abductor hallucis sinistrum",
+  "en": "left abductor hallucis",
+  "ta2id": "2672"
+ },
+ "FMA37461": {
+  "pt": "Flexor digitorum brevis direito",
+  "la": "Flexor brevis digitorum dextrum",
+  "en": "right flexor digitorum brevis",
+  "ta2id": "2683"
+ },
+ "FMA37462": {
+  "pt": "Flexor digitorum brevis esquerdo",
+  "la": "Flexor brevis digitorum sinistrum",
+  "en": "left flexor digitorum brevis",
+  "ta2id": "2683"
+ },
+ "FMA37463": {
+  "pt": "Abdutor de dedos mínimos do pé direito",
+  "la": "Abductor digiti minimi pedis dextrum",
+  "en": "abductor digiti minimi of right foot",
+  "ta2id": "2679"
+ },
+ "FMA37464": {
+  "pt": "Abdutor de dedos mínimos do pé esquerdo",
+  "la": "Abductor digiti minimi pedis sinistrum",
+  "en": "abductor digiti minimi of left foot",
+  "ta2id": "2679"
+ },
+ "FMA37465": {
+  "pt": "Músculo quadrado plantar direito",
+  "la": "Musculus quadratus plantae dextrum",
+  "en": "right flexor accessorius",
+  "ta2id": null
+ },
+ "FMA37466": {
+  "pt": "Músculo quadrado plantar esquerdo",
+  "la": "Musculus quadratus plantae sinistrum",
+  "en": "left flexor accessorius",
+  "ta2id": null
+ },
+ "FMA37471": {
+  "pt": "Músculo flexor curto do dedo mínimo do pé direito",
+  "la": "Musculus flexor digiti minimi brevis pedis dextrum",
+  "en": "flexor digiti minimi brevis of right foot",
+  "ta2id": null
+ },
+ "FMA37472": {
+  "pt": "Músculo flexor curto do dedo mínimo do pé esquerdo",
+  "la": "Musculus flexor digiti minimi brevis pedis sinistrum",
+  "en": "flexor digiti minimi brevis of left foot",
+  "ta2id": null
+ },
+ "FMA37483": {
+  "pt": "4º músculo lumbrical do pé direito",
+  "la": "Musculus lumbricalis IV pedis dextra",
+  "en": "fourth lumbrical of right foot",
+  "ta2id": null
+ },
+ "FMA37484": {
+  "pt": "4º músculo lumbrical do pé esquerdo",
+  "la": "Musculus lumbricalis IV pedis sinistra",
+  "en": "fourth lumbrical of left foot",
+  "ta2id": null
+ },
+ "FMA37485": {
+  "pt": "3º músculo lumbrical do pé direito",
+  "la": "Musculus lumbricalis III pedis dextra",
+  "en": "third lumbrical of right foot",
+  "ta2id": null
+ },
+ "FMA37486": {
+  "pt": "3º músculo lumbrical do pé esquerdo",
+  "la": "Musculus lumbricalis III pedis sinistra",
+  "en": "third lumbrical of left foot",
+  "ta2id": null
+ },
+ "FMA37665": {
+  "pt": "Músculo coracobraquial direito",
+  "la": "Musculus coracobrachialis dextrum",
+  "en": "right coracobrachialis",
+  "ta2id": "2468"
+ },
+ "FMA37666": {
+  "pt": "Músculo coracobraquial esquerdo",
+  "la": "Musculus coracobrachialis sinistrum",
+  "en": "left coracobrachialis",
+  "ta2id": "2468"
+ },
+ "FMA37668": {
+  "pt": "Músculo braquial direito",
+  "la": "Musculus brachialis dextrum",
+  "en": "right brachialis",
+  "ta2id": "2469"
+ },
+ "FMA37669": {
+  "pt": "Músculo braquial esquerdo",
+  "la": "Musculus brachialis sinistrum",
+  "en": "left brachialis",
+  "ta2id": "2469"
+ },
+ "FMA37684": {
+  "pt": "Cabeça curta do bíceps braquial direito",
+  "la": "Caput breve musculi bicipitis brachii dextrum",
+  "en": "short head of right biceps brachii",
+  "ta2id": "2466"
+ },
+ "FMA37685": {
+  "pt": "Cabeça curta do bíceps braquial esquerdo",
+  "la": "Caput breve musculi bicipitis brachii sinistrum",
+  "en": "short head of left biceps brachii",
+  "ta2id": "2466"
+ },
+ "FMA37686": {
+  "pt": "Cabeça longa do bíceps braquial direito",
+  "la": "Caput longum musculi bicipitis brachii dextrum",
+  "en": "long head of right biceps brachii",
+  "ta2id": "2465"
+ },
+ "FMA37687": {
+  "pt": "Cabeça longa do bíceps braquial esquerdo",
+  "la": "Caput longum musculi bicipitis brachii sinistrum",
+  "en": "long head of left biceps brachii",
+  "ta2id": "2465"
+ },
+ "FMA37695": {
+  "pt": "Cabeça medial do tríceps braquial direito",
+  "la": "Caput mediale musculi tricipitis caput brachii dextrum",
+  "en": "medial head of right triceps brachii",
+  "ta2id": "2474"
+ },
+ "FMA37696": {
+  "pt": "Cabeça medial do tríceps braquial esquerdo",
+  "la": "Caput mediale musculi tricipitis caput brachii sinistrum",
+  "en": "medial head of left triceps brachii",
+  "ta2id": "2474"
+ },
+ "FMA37697": {
+  "pt": "Cabeça lateral do tríceps braquial direito",
+  "la": "Caput laterale musculi tricipitis brachii dextrum",
+  "en": "lateral head of right triceps brachii",
+  "ta2id": "2473"
+ },
+ "FMA37698": {
+  "pt": "Cabeça lateral do tríceps braquial esquerdo",
+  "la": "Caput laterale musculi tricipitis brachii sinistrum",
+  "en": "lateral head of left triceps brachii",
+  "ta2id": "2473"
+ },
+ "FMA37699": {
+  "pt": "Cabeça longa do tríceps braquial direito",
+  "la": "Caput longum musculi tricipitis brachii dextrum",
+  "en": "long head of right triceps brachii",
+  "ta2id": "2472"
+ },
+ "FMA37700": {
+  "pt": "Cabeça longa do tríceps braquial esquerdo",
+  "la": "Caput longum musculi tricipitis brachii sinistrum",
+  "en": "long head of left triceps brachii",
+  "ta2id": "2472"
+ },
+ "FMA37705": {
+  "pt": "Músculo ânconeus direito",
+  "la": "Musculus anconeus dextrum",
+  "en": "right anconeus",
+  "ta2id": "2510"
+ },
+ "FMA37706": {
+  "pt": "Músculo ânconeus esquerdo",
+  "la": "Musculus anconeus sinistrum",
+  "en": "left anconeus",
+  "ta2id": "2510"
+ },
+ "FMA37717": {
+  "pt": "1º músculo lumbrical do pé direito",
+  "la": "Musculus lumbricalis I pedis dextra",
+  "en": "first lumbrical of right foot",
+  "ta2id": null
+ },
+ "FMA37718": {
+  "pt": "1º músculo lumbrical do pé esquerdo",
+  "la": "Musculus lumbricalis I pedis sinistra",
+  "en": "first lumbrical of left foot",
+  "ta2id": null
+ },
+ "FMA37719": {
+  "pt": "2º músculo lumbrical do pé direito",
+  "la": "Musculus lumbricalis II pedis dextra",
+  "en": "second lumbrical of right foot",
+  "ta2id": null
+ },
+ "FMA37720": {
+  "pt": "2º músculo lumbrical do pé esquerdo",
+  "la": "Musculus lumbricalis II pedis sinistra",
+  "en": "second lumbrical of left foot",
+  "ta2id": null
+ },
+ "FMA37741": {
+  "pt": "3º músculo interósseo plantar do pé direito",
+  "la": "Musculus interosseus plantaris III pedis dextra",
+  "en": "third plantar interosseous of right foot",
+  "ta2id": null
+ },
+ "FMA37742": {
+  "pt": "3º músculo interósseo plantar do pé esquerdo",
+  "la": "Musculus interosseus plantaris III pedis sinistra",
+  "en": "third plantar interosseous of left foot",
+  "ta2id": null
+ },
+ "FMA37743": {
+  "pt": "2º músculo interósseo plantar do pé direito",
+  "la": "Musculus interosseus plantaris II pedis dextra",
+  "en": "second plantar interosseous of right foot",
+  "ta2id": null
+ },
+ "FMA37744": {
+  "pt": "2º músculo interósseo plantar do pé esquerdo",
+  "la": "Musculus interosseus plantaris II pedis sinistra",
+  "en": "second plantar interosseous of left foot",
+  "ta2id": null
+ },
+ "FMA37745": {
+  "pt": "1º músculo interósseo plantar do pé direito",
+  "la": "Musculus interosseus plantaris I pedis dextra",
+  "en": "first plantar interosseous of right foot",
+  "ta2id": null
+ },
+ "FMA37746": {
+  "pt": "1º músculo interósseo plantar do pé esquerdo",
+  "la": "Musculus interosseus plantaris I pedis sinistra",
+  "en": "first plantar interosseous of left foot",
+  "ta2id": null
+ },
+ "FMA38454": {
+  "pt": "Pronador quadrado direito",
+  "la": "Pronator quadratus dextrum",
+  "en": "right pronator quadratus",
+  "ta2id": "2493"
+ },
+ "FMA38455": {
+  "pt": "Pronador quadrado esquerdo",
+  "la": "Pronator quadratus sinistrum",
+  "en": "left pronator quadratus",
+  "ta2id": "2493"
+ },
+ "FMA38460": {
+  "pt": "Flexor carpi radialis direito",
+  "la": "Flexor radialis carpi dextrum",
+  "en": "right flexor carpi radialis",
+  "ta2id": "2481"
+ },
+ "FMA38461": {
+  "pt": "Flexor carpi radialis esquerdo",
+  "la": "Flexor radialis carpi sinistrum",
+  "en": "left flexor carpi radialis",
+  "ta2id": "2481"
+ },
+ "FMA38463": {
+  "pt": "Músculo palmar longo direito",
+  "la": "Musculus palmaris longus dextrum",
+  "en": "right palmaris longus",
+  "ta2id": "2482"
+ },
+ "FMA38464": {
+  "pt": "Músculo palmar longo esquerdo",
+  "la": "Musculus palmaris longus sinistrum",
+  "en": "left palmaris longus",
+  "ta2id": "2482"
+ },
+ "FMA38479": {
+  "pt": "Flexor profundo dos dedos direito",
+  "la": "Flexor profundus digitorum dextrum",
+  "en": "right flexor digitorum profundus",
+  "ta2id": "2491"
+ },
+ "FMA38480": {
+  "pt": "Flexor profundo dos dedos esquerdo",
+  "la": "Flexor profundus digitorum sinistrum",
+  "en": "left flexor digitorum profundus",
+  "ta2id": "2491"
+ },
+ "FMA38482": {
+  "pt": "Flexor longus do polegar direito",
+  "la": "Flexor longus pollicis dextrum",
+  "en": "right flexor pollicis longus",
+  "ta2id": "2492"
+ },
+ "FMA38484": {
+  "pt": "Flexor longus do polegar esquerdo",
+  "la": "Flexor longus pollicis sinistrum",
+  "en": "left flexor pollicis longus",
+  "ta2id": "2492"
+ },
+ "FMA38486": {
+  "pt": "Músculo braquiorradial direito",
+  "la": "Musculus brachioradialis dextrum",
+  "en": "right brachioradialis",
+  "ta2id": "2496"
+ },
+ "FMA38487": {
+  "pt": "Músculo braquiorradial esquerdo",
+  "la": "Musculus brachioradialis sinistrum",
+  "en": "left brachioradialis",
+  "ta2id": "2496"
+ },
+ "FMA38495": {
+  "pt": "Extensor carpi radialis longus direito",
+  "la": "Extensor radialis longus carpi dextrum",
+  "en": "right extensor carpi radialis longus",
+  "ta2id": "2497"
+ },
+ "FMA38496": {
+  "pt": "Extensor carpi radialis longus esquerdo",
+  "la": "Extensor radialis longus carpi sinistrum",
+  "en": "left extensor carpi radialis longus",
+  "ta2id": "2497"
+ },
+ "FMA38498": {
+  "pt": "Extensor carpi radialis brevis direito",
+  "la": "Extensor radialis brevis carpi dextrum",
+  "en": "right extensor carpi radialis brevis",
+  "ta2id": "2499"
+ },
+ "FMA38499": {
+  "pt": "Extensor carpi radialis brevis esquerdo",
+  "la": "Extensor radialis brevis carpi sinistrum",
+  "en": "left extensor carpi radialis brevis",
+  "ta2id": "2499"
+ },
+ "FMA38501": {
+  "pt": "Extensor digitorum direito",
+  "la": "Extensor digitorum dextrum",
+  "en": "right extensor digitorum",
+  "ta2id": "2500"
+ },
+ "FMA38502": {
+  "pt": "Extensor digitorum esquerdo",
+  "la": "Extensor digitorum sinistrum",
+  "en": "left extensor digitorum",
+  "ta2id": "2500"
+ },
+ "FMA38504": {
+  "pt": "Extensor digiti minimi direito",
+  "la": "Extensor digiti minimi dextrum",
+  "en": "right extensor digiti minimi",
+  "ta2id": "2506"
+ },
+ "FMA38505": {
+  "pt": "Extensor digiti minimi esquerdo",
+  "la": "Extensor digiti minimi sinistrum",
+  "en": "left extensor digiti minimi",
+  "ta2id": "2506"
+ },
+ "FMA38513": {
+  "pt": "Supinator direito",
+  "la": "Supinator dextrum",
+  "en": "right supinator",
+  "ta2id": "2512"
+ },
+ "FMA38514": {
+  "pt": "Supinator esquerdo",
+  "la": "Supinator sinistrum",
+  "en": "left supinator",
+  "ta2id": "2512"
+ },
+ "FMA38516": {
+  "pt": "Abdutor longo do polegar direito",
+  "la": "Abductor longus pollicis dextrum",
+  "en": "right abductor pollicis longus",
+  "ta2id": "2517"
+ },
+ "FMA38517": {
+  "pt": "Abdutor longo do polegar esquerdo",
+  "la": "Abductor longus pollicis sinistrum",
+  "en": "left abductor pollicis longus",
+  "ta2id": "2517"
+ },
+ "FMA38519": {
+  "pt": "Extensor brevis do polegar direito",
+  "la": "Extensor brevis pollicis dextrum",
+  "en": "right extensor pollicis brevis",
+  "ta2id": "2518"
+ },
+ "FMA38520": {
+  "pt": "Extensor brevis do polegar esquerdo",
+  "la": "Extensor brevis pollicis sinistrum",
+  "en": "left extensor pollicis brevis",
+  "ta2id": "2518"
+ },
+ "FMA38522": {
+  "pt": "Extensor pollicis longus direito",
+  "la": "Extensor longus pollicis dextrum",
+  "en": "right extensor pollicis longus",
+  "ta2id": "2516"
+ },
+ "FMA38523": {
+  "pt": "Extensor pollicis longus esquerdo",
+  "la": "Extensor longus pollicis sinistrum",
+  "en": "left extensor pollicis longus",
+  "ta2id": "2516"
+ },
+ "FMA38525": {
+  "pt": "Extensor indicis direito",
+  "la": "Extensor indicis dextrum",
+  "en": "right extensor indicis",
+  "ta2id": "2515"
+ },
+ "FMA38526": {
+  "pt": "Extensor indicis esquerdo",
+  "la": "Extensor indicis sinistrum",
+  "en": "left extensor indicis",
+  "ta2id": "2515"
+ },
+ "FMA38560": {
+  "pt": "Cabeça umeral do músculo pronador redondo direito",
+  "la": "Caput humerale musculi pronatoris teretis dextrum",
+  "en": "humeral head of right pronator teres",
+  "ta2id": null
+ },
+ "FMA38561": {
+  "pt": "Cabeça umeral do músculo pronador redondo esquerdo",
+  "la": "Caput humerale musculi pronatoris teretis sinistrum",
+  "en": "humeral head of left pronator teres",
+  "ta2id": null
+ },
+ "FMA38562": {
+  "pt": "Cabeça ulnar do músculo pronador redondo direito",
+  "la": "Caput ulnare musculi pronatoris teretis dextrum",
+  "en": "ulnar head of right pronator teres",
+  "ta2id": null
+ },
+ "FMA38563": {
+  "pt": "Cabeça ulnar do músculo pronador redondo esquerdo",
+  "la": "Caput ulnare musculi pronatoris teretis sinistrum",
+  "en": "ulnar head of left pronator teres",
+  "ta2id": null
+ },
+ "FMA38617": {
+  "pt": "Cabeça umeral do flexor do carpo direito",
+  "la": "Caput humerale flexoris ulnaris carpi dextrum",
+  "en": "humeral head of right flexor carpi ulnaris",
+  "ta2id": "2484"
+ },
+ "FMA38618": {
+  "pt": "Cabeça umeral do flexor do carpo esquerdo",
+  "la": "Caput humerale flexoris ulnaris carpi sinistrum",
+  "en": "humeral head of left flexor carpi ulnaris",
+  "ta2id": "2484"
+ },
+ "FMA38619": {
+  "pt": "Cabeça ulnar do flexor ulnar do carpo direito",
+  "la": "Caput ulnare flexoris ulnaris carpi dextrum",
+  "en": "ulnar head of right flexor carpi ulnaris",
+  "ta2id": "2485"
+ },
+ "FMA38620": {
+  "pt": "Cabeça ulnar do flexor ulnar do carpo esquerdo",
+  "la": "Caput ulnare flexoris ulnaris carpi sinistrum",
+  "en": "ulnar head of left flexor carpi ulnaris",
+  "ta2id": "2485"
+ },
+ "FMA38638": {
+  "pt": "Cabeça umeroulnar do músculo flexor superficial dos dedos direito",
+  "la": "Caput humeroulnare musculi flexoris digitorum superficialis dextrum",
+  "en": "humeroulnar head of right flexor digitorum superficialis",
+  "ta2id": null
+ },
+ "FMA38639": {
+  "pt": "Cabeça umeroulnar do músculo flexor superficial dos dedos esquerdo",
+  "la": "Caput humeroulnare musculi flexoris digitorum superficialis sinistrum",
+  "en": "humeroulnar head of left flexor digitorum superficialis",
+  "ta2id": null
+ },
+ "FMA38640": {
+  "pt": "Cabeça radial do flexor superficial dos dedos direito",
+  "la": "Caput radiale flexoris superficialis digitorum dextrum",
+  "en": "radial head of right flexor digitorum superficialis",
+  "ta2id": "2488"
+ },
+ "FMA38641": {
+  "pt": "Cabeça radial do flexor superficial dos dedos esquerdo",
+  "la": "Caput radiale flexoris superficialis digitorum sinistrum",
+  "en": "radial head of left flexor digitorum superficialis",
+  "ta2id": "2488"
+ },
+ "FMA38928": {
+  "pt": "Músculo reto femoral direito",
+  "la": "Musculus rectus femoris dextrum",
+  "en": "right rectus femoris",
+  "ta2id": "2614"
+ },
+ "FMA38929": {
+  "pt": "Músculo reto femoral esquerdo",
+  "la": "Musculus rectus femoris sinistrum",
+  "en": "left rectus femoris",
+  "ta2id": "2614"
+ },
+ "FMA38930": {
+  "pt": "Músculo vasto lateral direito",
+  "la": "Musculus vastus lateralis dextrum",
+  "en": "right vastus lateralis",
+  "ta2id": "2618"
+ },
+ "FMA38931": {
+  "pt": "Músculo vasto lateral esquerdo",
+  "la": "Musculus vastus lateralis sinistrum",
+  "en": "left vastus lateralis",
+  "ta2id": "2618"
+ },
+ "FMA38932": {
+  "pt": "Músculo vasto medial direito",
+  "la": "Musculus vastus medialis dextrum",
+  "en": "right vastus medialis",
+  "ta2id": "2620"
+ },
+ "FMA38933": {
+  "pt": "Músculo vasto medial esquerdo",
+  "la": "Musculus vastus medialis sinistrum",
+  "en": "left vastus medialis",
+  "ta2id": "2620"
+ },
+ "FMA38934": {
+  "pt": "Músculo vasto intermediário direito",
+  "la": "Musculus vastus intermedius dextrum",
+  "en": "right vastus intermedius",
+  "ta2id": "2619"
+ },
+ "FMA38935": {
+  "pt": "Músculo vasto intermediário esquerdo",
+  "la": "Musculus vastus intermedius sinistrum",
+  "en": "left vastus intermedius",
+  "ta2id": "2619"
+ },
+ "FMA40120": {
+  "pt": "Retináculo dos flexores do punho direito",
+  "la": "Retinaculum flexorium carpi dextrum",
+  "en": "flexor retinaculum of right wrist",
+  "ta2id": "2550"
+ },
+ "FMA40121": {
+  "pt": "Retináculo dos flexores do punho esquerdo",
+  "la": "Retinaculum flexorium carpi sinistrum",
+  "en": "flexor retinaculum of left wrist",
+  "ta2id": "2550"
+ },
+ "FMA42398": {
+  "pt": "Músculos lumbricais da mão direita",
+  "la": "Musculi lumbricales manus dextrum",
+  "en": "set of lumbricals of right hand",
+  "ta2id": null
+ },
+ "FMA42399": {
+  "pt": "Músculos lumbricais da mão esquerda",
+  "la": "Musculi lumbricales manus sinistrum",
+  "en": "set of lumbricals of left hand",
+  "ta2id": null
+ },
+ "FMA42402": {
+  "pt": "Músculos interósseos palmares direito",
+  "la": "Musculi interossei palmares dextrum",
+  "en": "set of palmar interossei of right hand",
+  "ta2id": null
+ },
+ "FMA42403": {
+  "pt": "Músculos interósseos palmares esquerdo",
+  "la": "Musculi interossei palmares sinistrum",
+  "en": "set of palmar interossei of left hand",
+  "ta2id": null
+ },
+ "FMA42404": {
+  "pt": "Músculos interósseos dorsais da mão direita",
+  "la": "Musculi interossei dorsales manus dextrum",
+  "en": "set of dorsal interossei of right hand",
+  "ta2id": null
+ },
+ "FMA42405": {
+  "pt": "Músculos interósseos dorsais da mão esquerda",
+  "la": "Musculi interossei dorsales manus sinistrum",
+  "en": "set of dorsal interossei of left hand",
+  "ta2id": null
+ },
+ "FMA43883": {
+  "pt": "Músculo gracilis direito",
+  "la": "Musculus gracilis dextrum",
+  "en": "right gracilis",
+  "ta2id": "2635"
+ },
+ "FMA43884": {
+  "pt": "Músculo gracilis esquerdo",
+  "la": "Musculus gracilis sinistrum",
+  "en": "left gracilis",
+  "ta2id": "2635"
+ },
+ "FMA43886": {
+  "pt": "Músculo adutor mínimo direito",
+  "la": "Musculus adductor minimus dextrum",
+  "en": "right adductor minimus",
+  "ta2id": null
+ },
+ "FMA43887": {
+  "pt": "Músculo adutor mínimo esquerdo",
+  "la": "Musculus adductor minimus sinistrum",
+  "en": "left adductor minimus",
+  "ta2id": null
+ },
+ "FMA45739": {
+  "pt": "Platisma direita",
+  "la": "Platysma dextrum",
+  "en": "right platysma",
+  "ta2id": "2147"
+ },
+ "FMA45740": {
+  "pt": "Platisma esquerda",
+  "la": "Platysma sinistrum",
+  "en": "left platysma",
+  "ta2id": "2147"
+ },
+ "FMA45826": {
+  "pt": "Músculo estilohióideo direito",
+  "la": "Musculus stylohyoideus dextrum",
+  "en": "right stylohyoid",
+  "ta2id": "2164"
+ },
+ "FMA45827": {
+  "pt": "Músculo estilohióideo esquerdo",
+  "la": "Musculus stylohyoideus sinistrum",
+  "en": "left stylohyoid",
+  "ta2id": "2164"
+ },
+ "FMA45854": {
+  "pt": "Músculo pubococcígeo direito",
+  "la": "Musculus pubococcygeus dextrum",
+  "en": "right pubococcygeus",
+  "ta2id": "2405"
+ },
+ "FMA45855": {
+  "pt": "Músculo pubococcígeo esquerdo",
+  "la": "Musculus pubococcygeus sinistrum",
+  "en": "left pubococcygeus",
+  "ta2id": "2405"
+ },
+ "FMA45856": {
+  "pt": "Músculo puborretal direito",
+  "la": "Musculus puborectalis dextrum",
+  "en": "right puborectalis",
+  "ta2id": null
+ },
+ "FMA45857": {
+  "pt": "Músculo puborretal esquerdo",
+  "la": "Musculus puborectalis sinistrum",
+  "en": "left puborectalis",
+  "ta2id": null
+ },
+ "FMA45858": {
+  "pt": "Músculo iliococcígeo direito",
+  "la": "Musculus iliococcygeus dextrum",
+  "en": "right iliococcygeus",
+  "ta2id": "2404"
+ },
+ "FMA45859": {
+  "pt": "Músculo iliococcígeo esquerdo",
+  "la": "Musculus iliococcygeus sinistrum",
+  "en": "left iliococcygeus",
+  "ta2id": "2404"
+ },
+ "FMA45874": {
+  "pt": "Parte abdominal do músculo peitoral maior direito",
+  "la": "Pars abdominalis musculi pectoralis majoris dextrum",
+  "en": "abdominal part of right pectoralis major",
+  "ta2id": null
+ },
+ "FMA45875": {
+  "pt": "Parte abdominal do músculo peitoral maior esquerdo",
+  "la": "Pars abdominalis musculi pectoralis majoris sinistrum",
+  "en": "abdominal part of left pectoralis major",
+  "ta2id": null
+ },
+ "FMA45888": {
+  "pt": "Cabeça longa do bíceps femoral direito",
+  "la": "Caput longum musculi bicipitis femoris dextrum",
+  "en": "long head of right biceps femoris",
+  "ta2id": "2639"
+ },
+ "FMA45889": {
+  "pt": "Cabeça longa do bíceps femoral esquerdo",
+  "la": "Caput longum musculi bicipitis femoris sinistrum",
+  "en": "long head of left biceps femoris",
+  "ta2id": "2639"
+ },
+ "FMA45891": {
+  "pt": "Cabeça curta do bíceps femoral direito",
+  "la": "Caput breve musculi bicipitis femoris dextrum",
+  "en": "short head of right biceps femoris",
+  "ta2id": "2640"
+ },
+ "FMA45892": {
+  "pt": "Cabeça curta do bíceps femoral esquerdo",
+  "la": "Caput breve musculi bicipitis femoris sinistrum",
+  "en": "short head of left biceps femoris",
+  "ta2id": "2640"
+ },
+ "FMA45957": {
+  "pt": "Cabeça medial do gastrocnêmio direito",
+  "la": "Caput mediale musculi gastrocnemii dextrum",
+  "en": "medial head of right gastrocnemius",
+  "ta2id": "2659"
+ },
+ "FMA45958": {
+  "pt": "Cabeça medial do gastrocnêmio esquerdo",
+  "la": "Caput mediale musculi gastrocnemii sinistrum",
+  "en": "medial head of left gastrocnemius",
+  "ta2id": "2659"
+ },
+ "FMA45960": {
+  "pt": "Cabeça lateral do gastrocnêmio direito",
+  "la": "Caput laterale musculi gastrocnemii dextrum",
+  "en": "lateral head of right gastrocnemius",
+  "ta2id": "2658"
+ },
+ "FMA45961": {
+  "pt": "Cabeça lateral do gastrocnêmio esquerdo",
+  "la": "Caput laterale musculi gastrocnemii sinistrum",
+  "en": "lateral head of left gastrocnemius",
+  "ta2id": "2658"
+ },
+ "FMA45971": {
+  "pt": "Cabeça medial do flexor curto do hálux direito",
+  "la": "Caput mediale flexoris brevis hallucis dextrum",
+  "en": "medial head of right flexor hallucis brevis",
+  "ta2id": "2674"
+ },
+ "FMA45972": {
+  "pt": "Cabeça medial do flexor curto do hálux esquerdo",
+  "la": "Caput mediale flexoris brevis hallucis sinistrum",
+  "en": "medial head of left flexor hallucis brevis",
+  "ta2id": "2674"
+ },
+ "FMA45973": {
+  "pt": "Cabeça lateral do flexor curto do hálux direito",
+  "la": "Caput laterale flexoris brevis hallucis dextrum",
+  "en": "lateral head of right flexor hallucis brevis",
+  "ta2id": "2675"
+ },
+ "FMA45974": {
+  "pt": "Cabeça lateral do flexor curto do hálux esquerdo",
+  "la": "Caput laterale flexoris brevis hallucis sinistrum",
+  "en": "lateral head of left flexor hallucis brevis",
+  "ta2id": "2675"
+ },
+ "FMA46018": {
+  "pt": "Cabeça oblíqua do adutor do hálux direito",
+  "la": "Caput obliquum adductoris hallucis dextrum",
+  "en": "oblique head of right adductor hallucis",
+  "ta2id": "2677"
+ },
+ "FMA46019": {
+  "pt": "Cabeça oblíqua do adutor do hálux esquerdo",
+  "la": "Caput obliquum adductoris hallucis sinistrum",
+  "en": "oblique head of left adductor hallucis",
+  "ta2id": "2677"
+ },
+ "FMA46020": {
+  "pt": "Cabeça transversal do adutor do hálux direito",
+  "la": "Caput transversum adductoris hallucis dextrum",
+  "en": "transverse head of right adductor hallucis",
+  "ta2id": "2678"
+ },
+ "FMA46021": {
+  "pt": "Cabeça transversal do adutor do hálux esquerdo",
+  "la": "Caput transversum adductoris hallucis sinistrum",
+  "en": "transverse head of left adductor hallucis",
+  "ta2id": "2678"
+ },
+ "FMA46110": {
+  "pt": "Cabeça profunda do flexor curto do polegar direito",
+  "la": "Caput profundum flexoris brevis pollicis dextrum",
+  "en": "deep head of right flexor pollicis brevis",
+  "ta2id": "2524"
+ },
+ "FMA46111": {
+  "pt": "Cabeça profunda do flexor curto do polegar esquerdo",
+  "la": "Caput profundum flexoris brevis pollicis sinistrum",
+  "en": "deep head of left flexor pollicis brevis",
+  "ta2id": "2524"
+ },
+ "FMA46121": {
+  "pt": "Cabeça oblíqua do adutor do polegar direito",
+  "la": "Caput obliquum adductoris pollicis dextrum",
+  "en": "oblique head of right adductor pollicis",
+  "ta2id": "2527"
+ },
+ "FMA46122": {
+  "pt": "Cabeça oblíqua do adutor do polegar esquerdo",
+  "la": "Caput obliquum adductoris pollicis sinistrum",
+  "en": "oblique head of left adductor pollicis",
+  "ta2id": "2527"
+ },
+ "FMA46123": {
+  "pt": "Cabeça transversal do adutor do polegar direito",
+  "la": "Caput transversum adductoris pollicis dextrum",
+  "en": "transverse head of right adductor pollicis",
+  "ta2id": "2528"
+ },
+ "FMA46124": {
+  "pt": "Cabeça transversal do adutor do polegar esquerdo",
+  "la": "Caput transversum adductoris pollicis sinistrum",
+  "en": "transverse head of left adductor pollicis",
+  "ta2id": "2528"
+ },
+ "FMA46283": {
+  "pt": "Músculo oblíquo superior direito",
+  "la": "Musculus obliquus superior bulbi oculi dextrum",
+  "en": "superior oblique part of right longus colli",
+  "ta2id": "2048"
+ },
+ "FMA46284": {
+  "pt": "Músculo oblíquo superior esquerdo",
+  "la": "Musculus obliquus superior bulbi oculi sinistrum",
+  "en": "superior oblique part of left longus colli",
+  "ta2id": "2048"
+ },
+ "FMA46285": {
+  "pt": "Parte intermédia vertical do músculo longo do pescoço direito",
+  "la": "Pars intermedia verticalis musculi longi colli dextrum",
+  "en": "vertical intermediate part of right longus colli",
+  "ta2id": null
+ },
+ "FMA46286": {
+  "pt": "Parte intermédia vertical do músculo longo do pescoço esquerdo",
+  "la": "Pars intermedia verticalis musculi longi colli sinistrum",
+  "en": "vertical intermediate part of left longus colli",
+  "ta2id": null
+ },
+ "FMA46287": {
+  "pt": "Músculo oblíquo inferior direito",
+  "la": "Musculus obliquus inferior bulbi oculi dextrum",
+  "en": "inferior oblique part of right longus colli",
+  "ta2id": "2051"
+ },
+ "FMA46288": {
+  "pt": "Músculo oblíquo inferior esquerdo",
+  "la": "Musculus obliquus inferior bulbi oculi sinistrum",
+  "en": "inferior oblique part of left longus colli",
+  "ta2id": "2051"
+ },
+ "FMA46304": {
+  "pt": "Ventre anterior do músculo digástrico direito",
+  "la": "Venter anterior musculi digastrici dextrum",
+  "en": "anterior belly of right digastric",
+  "ta2id": "2161"
+ },
+ "FMA46305": {
+  "pt": "Ventre anterior do músculo digástrico esquerdo",
+  "la": "Venter anterior musculi digastrici sinistrum",
+  "en": "anterior belly of left digastric",
+  "ta2id": "2161"
+ },
+ "FMA46306": {
+  "pt": "Ventre posterior do músculo digástrico direito",
+  "la": "Venter posterior musculi digastrici dextrum",
+  "en": "posterior belly of right digastric",
+  "ta2id": "2163"
+ },
+ "FMA46307": {
+  "pt": "Ventre posterior do músculo digástrico esquerdo",
+  "la": "Venter posterior musculi digastrici sinistrum",
+  "en": "posterior belly of left digastric",
+  "ta2id": "2163"
+ },
+ "FMA46309": {
+  "pt": "Músculo longo da cabeça direita",
+  "la": "Musculus longus capitis dextrum",
+  "en": "right longus capitis",
+  "ta2id": "2149"
+ },
+ "FMA46310": {
+  "pt": "Músculo longo da cabeça esquerda",
+  "la": "Musculus longus capitis sinistrum",
+  "en": "left longus capitis",
+  "ta2id": "2149"
+ },
+ "FMA46313": {
+  "pt": "Músculo reto anterior da cabeça direita",
+  "la": "Musculus rectus anterior capitis dextrum",
+  "en": "right rectus capitis anterior",
+  "ta2id": "2150"
+ },
+ "FMA46314": {
+  "pt": "Músculo reto anterior da cabeça esquerda",
+  "la": "Musculus rectus anterior capitis sinistrum",
+  "en": "left rectus capitis anterior",
+  "ta2id": "2150"
+ },
+ "FMA46317": {
+  "pt": "Músculo reto lateral da cabeça direita",
+  "la": "Musculus rectus lateralis capitis dextrum",
+  "en": "right rectus capitis lateralis",
+  "ta2id": "2151"
+ },
+ "FMA46318": {
+  "pt": "Músculo reto lateral da cabeça esquerda",
+  "la": "Musculus rectus lateralis capitis sinistrum",
+  "en": "left rectus capitis lateralis",
+  "ta2id": "2151"
+ },
+ "FMA46321": {
+  "pt": "Músculo milohióideo direito",
+  "la": "Musculus mylohyoideus dextrum",
+  "en": "right mylohyoid",
+  "ta2id": "2165"
+ },
+ "FMA46322": {
+  "pt": "Músculo milohióideo esquerdo",
+  "la": "Musculus mylohyoideus sinistrum",
+  "en": "left mylohyoid",
+  "ta2id": "2165"
+ },
+ "FMA46326": {
+  "pt": "Músculo geniohióideo direito",
+  "la": "Musculus geniohyoideus dextrum",
+  "en": "right geniohyoid",
+  "ta2id": "2166"
+ },
+ "FMA46327": {
+  "pt": "Músculo geniohióideo esquerdo",
+  "la": "Musculus geniohyoideus sinistrum",
+  "en": "left geniohyoid",
+  "ta2id": "2166"
+ },
+ "FMA46442": {
+  "pt": "Arco tendíneo do elevador do ânus",
+  "la": "Arcus tendineus levatoris ani",
+  "en": "tendinous arch of levator ani",
+  "ta2id": "2434"
+ },
+ "FMA46443": {
+  "pt": "Músculo coccígeo direito",
+  "la": "Musculus coccygeus dextrum",
+  "en": "right coccygeus",
+  "ta2id": "2412"
+ },
+ "FMA46444": {
+  "pt": "Músculo coccígeo esquerdo",
+  "la": "Musculus coccygeus sinistrum",
+  "en": "left coccygeus",
+  "ta2id": "2412"
+ },
+ "FMA46759": {
+  "pt": "Músculo frontal direito",
+  "la": "Musculus frontalis dextrum",
+  "en": "right frontalis",
+  "ta2id": "2056"
+ },
+ "FMA46760": {
+  "pt": "Músculo frontal esquerdo",
+  "la": "Musculus frontalis sinistrum",
+  "en": "left frontalis",
+  "ta2id": "2056"
+ },
+ "FMA46761": {
+  "pt": "Músculo occipital direito",
+  "la": "Musculus occipitalis dextrum",
+  "en": "right occipitalis",
+  "ta2id": "2057"
+ },
+ "FMA46762": {
+  "pt": "Músculo occipital esquerdo",
+  "la": "Musculus occipitalis sinistrum",
+  "en": "left occipitalis",
+  "ta2id": "2057"
+ },
+ "FMA46763": {
+  "pt": "Músculo temporoparietal direito",
+  "la": "Musculus temporoparietalis dextrum",
+  "en": "right temporoparietalis",
+  "ta2id": "2058"
+ },
+ "FMA46764": {
+  "pt": "Músculo temporoparietal esquerdo",
+  "la": "Musculus temporoparietalis sinistrum",
+  "en": "left temporoparietalis",
+  "ta2id": "2058"
+ },
+ "FMA46768": {
+  "pt": "Aponeurose",
+  "la": "Aponeurosis",
+  "en": "aponeurosis of epicranius",
+  "ta2id": "2012"
+ },
+ "FMA46782": {
+  "pt": "Parte orbital do músculo orbicular do olho direito",
+  "la": "Pars orbitalis musculi orbicularis oculi dextrum",
+  "en": "orbital part of right orbicularis oculi",
+  "ta2id": "2070"
+ },
+ "FMA46783": {
+  "pt": "Parte orbital do músculo orbicular do olho esquerdo",
+  "la": "Pars orbitalis musculi orbicularis oculi sinistrum",
+  "en": "orbital part of left orbicularis oculi",
+  "ta2id": "2070"
+ },
+ "FMA46785": {
+  "pt": "Parte palpebral do músculo orbicular dos olhos direito",
+  "la": "Pars palpebralis musculi orbicularis oculi dextrum",
+  "en": "palpebral part of right orbicularis oculi",
+  "ta2id": "2067"
+ },
+ "FMA46786": {
+  "pt": "Parte palpebral do músculo orbicular dos olhos esquerdo",
+  "la": "Pars palpebralis musculi orbicularis oculi sinistrum",
+  "en": "palpebral part of left orbicularis oculi",
+  "ta2id": "2067"
+ },
+ "FMA46796": {
+  "pt": "Músculo corrugador do supercílio direito",
+  "la": "Musculus corrugator supercilii dextrum",
+  "en": "right corrugator supercilii",
+  "ta2id": "2071"
+ },
+ "FMA46797": {
+  "pt": "Músculo corrugador do supercílio esquerdo",
+  "la": "Musculus corrugator supercilii sinistrum",
+  "en": "left corrugator supercilii",
+  "ta2id": "2071"
+ },
+ "FMA46803": {
+  "pt": "Músculo levantador do lábio superior e da asa do nariz direito",
+  "la": "Musculus levator labii superioris alaeque nasi dextrum",
+  "en": "right levator labii superioris alaeque nasi",
+  "ta2id": null
+ },
+ "FMA46804": {
+  "pt": "Músculo levantador do lábio superior e da asa do nariz esquerdo",
+  "la": "Musculus levator labii superioris alaeque nasi sinistrum",
+  "en": "left levator labii superioris alaeque nasi",
+  "ta2id": null
+ },
+ "FMA46806": {
+  "pt": "Levantador do lábio superior direito",
+  "la": "Levator labii superioris dextrum",
+  "en": "right levator labii superioris",
+  "ta2id": "2081"
+ },
+ "FMA46807": {
+  "pt": "Levantador do lábio superior esquerdo",
+  "la": "Levator labii superioris sinistrum",
+  "en": "left levator labii superioris",
+  "ta2id": "2081"
+ },
+ "FMA46812": {
+  "pt": "Músculo zigomático maior direito",
+  "la": "Musculus zygomaticus major dextrum",
+  "en": "right zygomaticus major",
+  "ta2id": "2079"
+ },
+ "FMA46813": {
+  "pt": "Músculo zigomático maior esquerdo",
+  "la": "Musculus zygomaticus major sinistrum",
+  "en": "left zygomaticus major",
+  "ta2id": "2079"
+ },
+ "FMA46814": {
+  "pt": "Músculo zigomático menor direito",
+  "la": "Musculus zygomaticus minor dextrum",
+  "en": "right zygomaticus minor",
+  "ta2id": "2080"
+ },
+ "FMA46815": {
+  "pt": "Músculo zigomático menor esquerdo",
+  "la": "Musculus zygomaticus minor sinistrum",
+  "en": "left zygomaticus minor",
+  "ta2id": "2080"
+ },
+ "FMA46817": {
+  "pt": "Depressor do lábio inferior direito",
+  "la": "Depressor labii inferioris dextrum",
+  "en": "right depressor labii inferioris",
+  "ta2id": "2083"
+ },
+ "FMA46818": {
+  "pt": "Depressor do lábio inferior esquerdo",
+  "la": "Depressor labii inferioris sinistrum",
+  "en": "left depressor labii inferioris",
+  "ta2id": "2083"
+ },
+ "FMA46823": {
+  "pt": "Levantador do ângulo da boca direita",
+  "la": "Levator anguli oris dextrum",
+  "en": "right levator anguli oris",
+  "ta2id": "2084"
+ },
+ "FMA46824": {
+  "pt": "Levantador do ângulo da boca esquerda",
+  "la": "Levator anguli oris sinistrum",
+  "en": "left levator anguli oris",
+  "ta2id": "2084"
+ },
+ "FMA46826": {
+  "pt": "Músculo mentual direito",
+  "la": "Musculus mentalis dextrum",
+  "en": "right mentalis",
+  "ta2id": "2087"
+ },
+ "FMA46827": {
+  "pt": "Músculo mentual esquerdo",
+  "la": "Musculus mentalis sinistrum",
+  "en": "left mentalis",
+  "ta2id": "2087"
+ },
+ "FMA46829": {
+  "pt": "Depressor do ângulo da boca direita",
+  "la": "Depressor anguli oris dextrum",
+  "en": "right depressor anguli oris",
+  "ta2id": "2076"
+ },
+ "FMA46830": {
+  "pt": "Depressor do ângulo da boca esquerda",
+  "la": "Depressor anguli oris sinistrum",
+  "en": "left depressor anguli oris",
+  "ta2id": "2076"
+ },
+ "FMA46835": {
+  "pt": "Músculo bucinador direito",
+  "la": "Musculus buccinator dextrum",
+  "en": "right buccinator",
+  "ta2id": null
+ },
+ "FMA46836": {
+  "pt": "Músculo bucinador esquerdo",
+  "la": "Musculus buccinator sinistrum",
+  "en": "left buccinator",
+  "ta2id": null
+ },
+ "FMA46839": {
+  "pt": "Músculo risório direito",
+  "la": "Musculus risorius dextrum",
+  "en": "right risorius",
+  "ta2id": "2078"
+ },
+ "FMA46840": {
+  "pt": "Músculo risório esquerdo",
+  "la": "Musculus risorius sinistrum",
+  "en": "left risorius",
+  "ta2id": "2078"
+ },
+ "FMA46841": {
+  "pt": "Músculo orbicular da boca",
+  "la": "Musculus orbicularis oris",
+  "en": "orbicularis oris",
+  "ta2id": "2073"
+ },
+ "FMA49001": {
+  "pt": "Parte superficial do masseter direito",
+  "la": "Pars superficialis masseteris dextrum",
+  "en": "superficial part of right masseter",
+  "ta2id": "2106"
+ },
+ "FMA49002": {
+  "pt": "Parte superficial do masseter esquerdo",
+  "la": "Pars superficialis masseteris sinistrum",
+  "en": "superficial part of left masseter",
+  "ta2id": "2106"
+ },
+ "FMA49004": {
+  "pt": "Parte profunda do masseter direito",
+  "la": "Pars profunda masseteris dextrum",
+  "en": "deep part of right masseter",
+  "ta2id": "2107"
+ },
+ "FMA49005": {
+  "pt": "Parte profunda do masseter esquerdo",
+  "la": "Pars profunda masseteris sinistrum",
+  "en": "deep part of left masseter",
+  "ta2id": "2107"
+ },
+ "FMA49007": {
+  "pt": "Músculo temporal direito",
+  "la": "Musculus temporalis dextrum",
+  "en": "right temporalis",
+  "ta2id": "2108"
+ },
+ "FMA49008": {
+  "pt": "Músculo temporal esquerdo",
+  "la": "Musculus temporalis sinistrum",
+  "en": "left temporalis",
+  "ta2id": "2108"
+ },
+ "FMA49012": {
+  "pt": "Músculo pterigóideo medial direito",
+  "la": "Musculus pterygoideus medialis dextrum",
+  "en": "right medial pterygoid",
+  "ta2id": "2113"
+ },
+ "FMA49013": {
+  "pt": "Músculo pterigóideo medial esquerdo",
+  "la": "Musculus pterygoideus medialis sinistrum",
+  "en": "left medial pterygoid",
+  "ta2id": "2113"
+ },
+ "FMA49022": {
+  "pt": "Cabeça inferior do músculo pterigóideo lateral direito",
+  "la": "Caput inferius musculi pterygoidei lateralis dextrum",
+  "en": "lower head of right lateral pterygoid",
+  "ta2id": "2111"
+ },
+ "FMA49023": {
+  "pt": "Cabeça inferior do músculo pterigóideo lateral esquerdo",
+  "la": "Caput inferius musculi pterygoidei lateralis sinistrum",
+  "en": "lower head of left lateral pterygoid",
+  "ta2id": "2111"
+ },
+ "FMA49024": {
+  "pt": "Cabeça superior do músculo pterigóideo lateral direito",
+  "la": "Caput superius musculi pterygoidei lateralis dextrum",
+  "en": "upper head of right lateral pterygoid",
+  "ta2id": "2110"
+ },
+ "FMA49025": {
+  "pt": "Cabeça superior do músculo pterigóideo lateral esquerdo",
+  "la": "Caput superius musculi pterygoidei lateralis sinistrum",
+  "en": "upper head of left lateral pterygoid",
+  "ta2id": "2110"
+ },
+ "FMA51142": {
+  "pt": "Extensor digitorum brevis direito",
+  "la": "Extensor brevis digitorum dextrum",
+  "en": "right extensor digitorum brevis",
+  "ta2id": "2671"
+ },
+ "FMA51143": {
+  "pt": "Extensor digitorum brevis esquerdo",
+  "la": "Extensor brevis digitorum sinistrum",
+  "en": "left extensor digitorum brevis",
+  "ta2id": "2671"
+ },
+ "FMA51144": {
+  "pt": "Extensor hallucis brevis direito",
+  "la": "Extensor brevis hallucis dextrum",
+  "en": "right extensor hallucis brevis",
+  "ta2id": "2670"
+ },
+ "FMA51145": {
+  "pt": "Extensor hallucis brevis esquerdo",
+  "la": "Extensor brevis hallucis sinistrum",
+  "en": "left extensor hallucis brevis",
+  "ta2id": "2670"
+ },
+ "FMA55606": {
+  "pt": "Músculo nasal direito",
+  "la": "Musculus nasalis dextrum",
+  "en": "right nasalis",
+  "ta2id": "2062"
+ },
+ "FMA55607": {
+  "pt": "Músculo nasal esquerdo",
+  "la": "Musculus nasalis sinistrum",
+  "en": "left nasalis",
+  "ta2id": "2062"
+ },
+ "FMA55608": {
+  "pt": "Depressor do septo nasal direito",
+  "la": "Depressor septi nasi dextrum",
+  "en": "right depressor septi nasi",
+  "ta2id": "2065"
+ },
+ "FMA55609": {
+  "pt": "Depressor do septo nasal esquerdo",
+  "la": "Depressor septi nasi sinistrum",
+  "en": "left depressor septi nasi",
+  "ta2id": "2065"
+ },
+ "FMA55610": {
+  "pt": "Músculo prócero direito",
+  "la": "Musculus procerus dextrum",
+  "en": "right procerus",
+  "ta2id": "2061"
+ },
+ "FMA55611": {
+  "pt": "Músculo prócero esquerdo",
+  "la": "Musculus procerus sinistrum",
+  "en": "left procerus",
+  "ta2id": "2061"
+ },
+ "FMA58776": {
+  "pt": "Trato iliotibial direito",
+  "la": "Tractus iliotibialis dextrum",
+  "en": "right iliotibial tract",
+  "ta2id": "2690"
+ },
+ "FMA58777": {
+  "pt": "Trato iliotibial esquerdo",
+  "la": "Tractus iliotibialis sinistrum",
+  "en": "left iliotibial tract",
+  "ta2id": "2690"
+ },
+ "FMA65014": {
+  "pt": "Flexor hallucis longus direito",
+  "la": "Flexor longus hallucis dextrum",
+  "en": "right flexor hallucis longus",
+  "ta2id": "2668"
+ },
+ "FMA65015": {
+  "pt": "Flexor hallucis longus esquerdo",
+  "la": "Flexor longus hallucis sinistrum",
+  "en": "left flexor hallucis longus",
+  "ta2id": "2668"
+ },
+ "FMA65016": {
+  "pt": "Flexor digitorum longus direito",
+  "la": "Musculus flexor digitorum longus dextrum",
+  "en": "right flexor digitorum longus",
+  "ta2id": "2667"
+ },
+ "FMA65017": {
+  "pt": "Flexor digitorum longus esquerdo",
+  "la": "Musculus flexor digitorum longus sinistrum",
+  "en": "left flexor digitorum longus",
+  "ta2id": "2667"
+ },
+ "FMA65018": {
+  "pt": "Músculo tibial posterior direito",
+  "la": "Musculus tibialis posterior dextrum",
+  "en": "right tibialis posterior",
+  "ta2id": "2666"
+ },
+ "FMA65019": {
+  "pt": "Músculo tibial posterior esquerdo",
+  "la": "Musculus tibialis posterior sinistrum",
+  "en": "left tibialis posterior",
+  "ta2id": "2666"
+ },
+ "FMA65198": {
+  "pt": "Cabeça superficial do flexor curto do polegar direito",
+  "la": "Caput superficiale flexoris brevis pollicis dextrum",
+  "en": "superficial head of right flexor pollicis brevis",
+  "ta2id": "2523"
+ },
+ "FMA65199": {
+  "pt": "Cabeça superficial do flexor curto do polegar esquerdo",
+  "la": "Caput superficiale flexoris brevis pollicis sinistrum",
+  "en": "superficial head of left flexor pollicis brevis",
+  "ta2id": "2523"
+ },
+ "FMA71307": {
+  "pt": "Músculos interespinais lombares",
+  "la": "Musculi interspinales lumborum",
+  "en": "set of interspinales lumborum",
+  "ta2id": null
+ },
+ "FMA71308": {
+  "pt": "Músculos interespinais do tórax",
+  "la": "Musculi interspinales thoracis",
+  "en": "set of interspinales thoracis",
+  "ta2id": null
+ },
+ "FMA71309": {
+  "pt": "Músculos interespinais do pescoço",
+  "la": "Musculi interspinales cervicis",
+  "en": "set of interspinales cervicis",
+  "ta2id": null
+ },
+ "FMA71442": {
+  "pt": "Músculos intertransversários anteriores do pescoço",
+  "la": "Musculi intertransversarii anteriores cervicis",
+  "en": "set of anterior cervical intertransversarii",
+  "ta2id": null
+ },
+ "FMA71443": {
+  "pt": "Músculos intertransversários posteriores do pescoço",
+  "la": "Musculi intertransversarii posteriores cervicis",
+  "en": "set of posterior cervical intertransversarii",
+  "ta2id": null
+ },
+ "FMA71444": {
+  "pt": "Músculos intertransversários laterais lombares",
+  "la": "Musculi intertransversarii laterales lumborum",
+  "en": "set of lateral lumbar intertransversarius muscles",
+  "ta2id": null
+ },
+ "FMA74075": {
+  "pt": "Levantadores longos das costelas direito",
+  "la": "Levatores longi costarum dextrum",
+  "en": "set of right levatores costarum longi",
+  "ta2id": "2309"
+ },
+ "FMA74076": {
+  "pt": "Levantadores longos das costelas esquerdo",
+  "la": "Levatores longi costarum sinistrum",
+  "en": "set of left levatores costarum longi",
+  "ta2id": "2309"
+ },
+ "FMA74077": {
+  "pt": "Levantadores curtos das costelas direito",
+  "la": "Levatores breves costarum dextrum",
+  "en": "set of right levatores costarum breves",
+  "ta2id": "2310"
+ },
+ "FMA74078": {
+  "pt": "Levantadores curtos das costelas esquerdo",
+  "la": "Levatores breves costarum sinistrum",
+  "en": "set of left levatores costarum breves",
+  "ta2id": "2310"
+ },
+ "FMA74140": {
+  "pt": "Músculos interósseos dorsais do pé direito",
+  "la": "Musculi interossei dorsales pedis dextrum",
+  "en": "set of dorsal interossei of right foot",
+  "ta2id": null
+ },
+ "FMA74141": {
+  "pt": "Músculos interósseos dorsais do pé esquerdo",
+  "la": "Musculi interossei dorsales pedis sinistrum",
+  "en": "set of dorsal interossei of left foot",
+  "ta2id": null
+ },
+ "FMA76775": {
+  "pt": "Músculos intertransversários mediais lombares",
+  "la": "Musculi intertransversarii mediales lumborum",
+  "en": "set of medial lumbar intertransversarius muscles",
+  "ta2id": null
+ },
+ "FMA79979": {
+  "pt": "Parte esternocostal do músculo peitoral maior direito",
+  "la": "Pars sternocostalis musculi pectoralis majoris dextrum",
+  "en": "sternocostal part of right pectoralis major",
+  "ta2id": null
+ },
+ "FMA79980": {
+  "pt": "Parte esternocostal do músculo peitoral maior esquerdo",
+  "la": "Pars sternocostalis musculi pectoralis majoris sinistrum",
+  "en": "sternocostal part of left pectoralis major",
+  "ta2id": null
+ },
+ "FMA81752": {
+  "pt": "Músculos rotadores do pescoço direito",
+  "la": "Musculi rotatores cervicis dextrum",
+  "en": "right cervical rotator",
+  "ta2id": null
+ },
+ "FMA81753": {
+  "pt": "Músculos rotadores do pescoço esquerdo",
+  "la": "Musculi rotatores cervicis sinistrum",
+  "en": "left cervical rotator",
+  "ta2id": null
+ },
+ "FMA86034": {
+  "pt": "Músculo oponente do dedo mínimo do pé direito",
+  "la": "Musculus opponens digiti minimi pedis dextrum",
+  "en": "opponens digiti minimi of right foot",
+  "ta2id": null
+ },
+ "FMA86035": {
+  "pt": "Músculo oponente do dedo mínimo do pé esquerdo",
+  "la": "Musculus opponens digiti minimi pedis sinistrum",
+  "en": "opponens digiti minimi of left foot",
+  "ta2id": null
+ },
+ "FMA9756": {
+  "pt": "Músculo intercostal externo",
+  "la": "Musculus intercostalis externus",
+  "en": "external intercostal muscle",
+  "ta2id": null
+ },
+ "FMA9757": {
+  "pt": "Músculo intercostal interno",
+  "la": "Musculus intercostalis internus",
+  "en": "internal intercostal muscle",
+  "ta2id": null
+ },
+ "FMA9758": {
+  "pt": "Músculo intercostal íntimo",
+  "la": "Musculus intercostalis intimus",
+  "en": "innermost intercostal muscle",
+  "ta2id": null
+ },
+ "FMA9761": {
+  "pt": "Músculo transverso do tórax direito",
+  "la": "Musculus transversus thoracis dextrum",
+  "en": "right transversus thoracis",
+  "ta2id": "2315"
+ },
+ "FMA9762": {
+  "pt": "Músculo transverso do tórax esquerdo",
+  "la": "Musculus transversus thoracis sinistrum",
+  "en": "left transversus thoracis",
+  "ta2id": "2315"
+ },
+ "BP24": {
+  "pt": "Cartilagem costal esquerda",
+  "la": "Cartilago costalis sinistra",
+  "en": "left costal cartilage",
+  "ta2id": null
+ },
+ "BP28": {
+  "pt": "Cartilagem costal direita",
+  "la": "Cartilago costalis dextra",
+  "en": "right costal cartilage",
+  "ta2id": null
+ },
+ "FMA10014": {
+  "pt": "Vértebra torácica T9",
+  "la": "Vertebra thoracica IX",
+  "en": "ninth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA10037": {
+  "pt": "Vértebra torácica T10",
+  "la": "Vertebra thoracica X",
+  "en": "tenth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA10059": {
+  "pt": "Vértebra torácica T11",
+  "la": "Vertebra thoracica XI",
+  "en": "eleventh thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA10081": {
+  "pt": "Vértebra torácica T12",
+  "la": "Vertebra thoracica XII",
+  "en": "twelfth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA10458": {
+  "pt": "Disco intervertebral abaixo de T1",
+  "la": "Discus intervertebralis thoracica I",
+  "en": "intervertebral disk of first thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA12519": {
+  "pt": "Atlas (C1)",
+  "la": "Atlas (C1)",
+  "en": "atlas",
+  "ta2id": "1038"
+ },
+ "FMA12520": {
+  "pt": "Áxis (C2)",
+  "la": "Axis (C2)",
+  "en": "axis",
+  "ta2id": "1050"
+ },
+ "FMA12521": {
+  "pt": "Vértebra cervical C3",
+  "la": "Vertebra cervicalis III",
+  "en": "third cervical vertebra",
+  "ta2id": null
+ },
+ "FMA12522": {
+  "pt": "Vértebra cervical C4",
+  "la": "Vertebra cervicalis IV",
+  "en": "fourth cervical vertebra",
+  "ta2id": null
+ },
+ "FMA12523": {
+  "pt": "Vértebra cervical C5",
+  "la": "Vertebra cervicalis V",
+  "en": "fifth cervical vertebra",
+  "ta2id": null
+ },
+ "FMA12524": {
+  "pt": "Vértebra cervical C6",
+  "la": "Vertebra cervicalis VI",
+  "en": "sixth cervical vertebra",
+  "ta2id": null
+ },
+ "FMA12525": {
+  "pt": "Vértebra cervical C7",
+  "la": "Vertebra cervicalis VII",
+  "en": "seventh cervical vertebra",
+  "ta2id": null
+ },
+ "FMA13072": {
+  "pt": "Vértebra lombar L1",
+  "la": "Vertebra lumbalis I",
+  "en": "first lumbar vertebra",
+  "ta2id": null
+ },
+ "FMA13073": {
+  "pt": "Vértebra lombar L2",
+  "la": "Vertebra lumbalis II",
+  "en": "second lumbar vertebra",
+  "ta2id": null
+ },
+ "FMA13074": {
+  "pt": "Vértebra lombar L3",
+  "la": "Vertebra lumbalis III",
+  "en": "third lumbar vertebra",
+  "ta2id": null
+ },
+ "FMA13075": {
+  "pt": "Vértebra lombar L4",
+  "la": "Vertebra lumbalis IV",
+  "en": "fourth lumbar vertebra",
+  "ta2id": null
+ },
+ "FMA13076": {
+  "pt": "Vértebra lombar L5",
+  "la": "Vertebra lumbalis V",
+  "en": "fifth lumbar vertebra",
+  "ta2id": null
+ },
+ "FMA13322": {
+  "pt": "Clavícula direita",
+  "la": "Clavicula dextrum",
+  "en": "right clavicle",
+  "ta2id": "1168"
+ },
+ "FMA13323": {
+  "pt": "Clavícula esquerda",
+  "la": "Clavicula sinistrum",
+  "en": "left clavicle",
+  "ta2id": "1168"
+ },
+ "FMA13395": {
+  "pt": "Escápula direita",
+  "la": "Scapula dextrum",
+  "en": "right scapula",
+  "ta2id": "1143"
+ },
+ "FMA13396": {
+  "pt": "Escápula esquerda",
+  "la": "Scapula sinistrum",
+  "en": "left scapula",
+  "ta2id": "1143"
+ },
+ "FMA13495": {
+  "pt": "Disco intervertebral abaixo de T2",
+  "la": "Discus intervertebralis thoracica II",
+  "en": "intervertebral disk of second thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA13500": {
+  "pt": "Disco intervertebral abaixo de T3",
+  "la": "Discus intervertebralis thoracica III",
+  "en": "intervertebral disk of third thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA13501": {
+  "pt": "Disco intervertebral abaixo de T4",
+  "la": "Discus intervertebralis thoracica IV",
+  "en": "intervertebral disk of fourth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA13502": {
+  "pt": "Disco intervertebral abaixo de T5",
+  "la": "Discus intervertebralis thoracica V",
+  "en": "intervertebral disk of fifth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA13503": {
+  "pt": "Disco intervertebral abaixo de T6",
+  "la": "Discus intervertebralis thoracica VI",
+  "en": "intervertebral disk of sixth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA13504": {
+  "pt": "Disco intervertebral abaixo de T7",
+  "la": "Discus intervertebralis thoracica VII",
+  "en": "intervertebral disk of seventh thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA13505": {
+  "pt": "Disco intervertebral abaixo de T8",
+  "la": "Discus intervertebralis thoracica VIII",
+  "en": "intervertebral disk of eighth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA13506": {
+  "pt": "Disco intervertebral abaixo de T9",
+  "la": "Discus intervertebralis thoracica IX",
+  "en": "intervertebral disk of ninth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA13507": {
+  "pt": "Disco intervertebral abaixo de T10",
+  "la": "Discus intervertebralis thoracica X",
+  "en": "intervertebral disk of tenth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA13508": {
+  "pt": "Disco intervertebral abaixo de T11",
+  "la": "Discus intervertebralis thoracica XI",
+  "en": "intervertebral disk of eleventh thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA13509": {
+  "pt": "Disco intervertebral abaixo de T12",
+  "la": "Discus intervertebralis thoracica XII",
+  "en": "intervertebral disk of twelfth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA13896": {
+  "pt": "Disco intervertebral abaixo de C3",
+  "la": "Discus intervertebralis cervicalis III",
+  "en": "intervertebral disk of third cervical vertebra",
+  "ta2id": null
+ },
+ "FMA13897": {
+  "pt": "Disco intervertebral abaixo de C4",
+  "la": "Discus intervertebralis cervicalis IV",
+  "en": "intervertebral disk of fourth cervical vertebra",
+  "ta2id": null
+ },
+ "FMA13898": {
+  "pt": "Disco intervertebral abaixo de C5",
+  "la": "Discus intervertebralis cervicalis V",
+  "en": "intervertebral disk of fifth cervical vertebra",
+  "ta2id": null
+ },
+ "FMA13899": {
+  "pt": "Disco intervertebral abaixo de C6",
+  "la": "Discus intervertebralis cervicalis VI",
+  "en": "intervertebral disk of sixth cervical vertebra",
+  "ta2id": null
+ },
+ "FMA13900": {
+  "pt": "Disco intervertebral abaixo de C7",
+  "la": "Discus intervertebralis cervicalis VII",
+  "en": "intervertebral disk of seventh cervical vertebra",
+  "ta2id": null
+ },
+ "FMA16033": {
+  "pt": "Disco intervertebral abaixo de L1",
+  "la": "Discus intervertebralis lumbalis I",
+  "en": "intervertebral disk of first lumbar vertebra",
+  "ta2id": null
+ },
+ "FMA16034": {
+  "pt": "Disco intervertebral abaixo de L2",
+  "la": "Discus intervertebralis lumbalis II",
+  "en": "intervertebral disk of second lumbar vertebra",
+  "ta2id": null
+ },
+ "FMA16035": {
+  "pt": "Disco intervertebral abaixo de L3",
+  "la": "Discus intervertebralis lumbalis III",
+  "en": "intervertebral disk of third lumbar vertebra",
+  "ta2id": null
+ },
+ "FMA16036": {
+  "pt": "Disco intervertebral abaixo de L4",
+  "la": "Discus intervertebralis lumbalis IV",
+  "en": "intervertebral disk of fourth lumbar vertebra",
+  "ta2id": null
+ },
+ "FMA16037": {
+  "pt": "Disco intervertebral abaixo de L5",
+  "la": "Discus intervertebralis lumbalis V",
+  "en": "intervertebral disk of fifth lumbar vertebra",
+  "ta2id": null
+ },
+ "FMA16202": {
+  "pt": "Sacro",
+  "la": "Os sacrum",
+  "en": "sacrum",
+  "ta2id": "1071"
+ },
+ "FMA16586": {
+  "pt": "Osso do quadril direito",
+  "la": "Os coxae dextrum",
+  "en": "right hip bone",
+  "ta2id": "1307"
+ },
+ "FMA16587": {
+  "pt": "Osso do quadril esquerdo",
+  "la": "Os coxae sinistrum",
+  "en": "left hip bone",
+  "ta2id": "1307"
+ },
+ "FMA230986": {
+  "pt": "Falange média do dedo mínimo do pé direito",
+  "la": "Phalanx media digiti minimi pedis dextra",
+  "en": "middle phalanx of right little toe",
+  "ta2id": null
+ },
+ "FMA230988": {
+  "pt": "Falange média do dedo mínimo do pé esquerdo",
+  "la": "Phalanx media digiti minimi pedis sinistra",
+  "en": "middle phalanx of left little toe",
+  "ta2id": null
+ },
+ "FMA23130": {
+  "pt": "Úmero direito",
+  "la": "Humerus dextrum",
+  "en": "right humerus",
+  "ta2id": "1180"
+ },
+ "FMA23131": {
+  "pt": "Úmero esquerdo",
+  "la": "Humerus sinistrum",
+  "en": "left humerus",
+  "ta2id": "1180"
+ },
+ "FMA23464": {
+  "pt": "Rádio direito",
+  "la": "Radius dextrum",
+  "en": "right radius",
+  "ta2id": "1210"
+ },
+ "FMA23465": {
+  "pt": "Rádio esquerdo",
+  "la": "Radius sinistrum",
+  "en": "left radius",
+  "ta2id": "1210"
+ },
+ "FMA23467": {
+  "pt": "Ulna direita",
+  "la": "Ulna dextrum",
+  "en": "right ulna",
+  "ta2id": "1230"
+ },
+ "FMA23468": {
+  "pt": "Ulna esquerda",
+  "la": "Ulna sinistrum",
+  "en": "left ulna",
+  "ta2id": "1230"
+ },
+ "FMA23707": {
+  "pt": "Membrana interóssea",
+  "la": "Membrana interossea",
+  "en": "interosseous membrane of right forearm",
+  "ta2id": "1520"
+ },
+ "FMA23708": {
+  "pt": "Membrana interóssea",
+  "la": "Membrana interossea",
+  "en": "interosseous membrane of left forearm",
+  "ta2id": "1520"
+ },
+ "FMA23725": {
+  "pt": "Osso trapézoide direito",
+  "la": "Os trapezoideum dextrum",
+  "en": "right trapezoid",
+  "ta2id": "1257"
+ },
+ "FMA23938": {
+  "pt": "Falange média do dedo indicador esquerdo",
+  "la": "Phalanx media indicis sinistra",
+  "en": "middle phalanx of left index finger",
+  "ta2id": null
+ },
+ "FMA23940": {
+  "pt": "Falange média do dedo médio esquerdo",
+  "la": "Phalanx media digiti medii sinistra",
+  "en": "middle phalanx of left middle finger",
+  "ta2id": null
+ },
+ "FMA23942": {
+  "pt": "Falange média do dedo anular esquerdo",
+  "la": "Phalanx media digiti anularis sinistra",
+  "en": "middle phalanx of left ring finger",
+  "ta2id": null
+ },
+ "FMA23944": {
+  "pt": "Falange média do dedo mínimo esquerdo",
+  "la": "Phalanx media digiti minimi sinistra",
+  "en": "middle phalanx of left little finger",
+  "ta2id": null
+ },
+ "FMA23951": {
+  "pt": "Falange distal do polegar esquerdo",
+  "la": "Phalanx distalis pollicis sinistra",
+  "en": "distal phalanx of left thumb",
+  "ta2id": null
+ },
+ "FMA23953": {
+  "pt": "Falange distal do dedo indicador esquerdo",
+  "la": "Phalanx distalis indicis sinistra",
+  "en": "distal phalanx of left index finger",
+  "ta2id": null
+ },
+ "FMA23955": {
+  "pt": "Falange distal do dedo médio esquerdo",
+  "la": "Phalanx distalis digiti medii sinistra",
+  "en": "distal phalanx of left middle finger",
+  "ta2id": null
+ },
+ "FMA23957": {
+  "pt": "Falange distal do dedo anular esquerdo",
+  "la": "Phalanx distalis digiti anularis sinistra",
+  "en": "distal phalanx of left ring finger",
+  "ta2id": null
+ },
+ "FMA23959": {
+  "pt": "Falange distal do dedo mínimo esquerdo",
+  "la": "Phalanx distalis digiti minimi sinistra",
+  "en": "distal phalanx of left little finger",
+  "ta2id": null
+ },
+ "FMA24435": {
+  "pt": "Osso escafoide direito",
+  "la": "Os scaphoideum dextrum",
+  "en": "right scaphoid",
+  "ta2id": "1250"
+ },
+ "FMA24436": {
+  "pt": "Osso escafoide esquerdo",
+  "la": "Os scaphoideum sinistrum",
+  "en": "left scaphoid",
+  "ta2id": "1250"
+ },
+ "FMA24437": {
+  "pt": "Osso semilunar direito",
+  "la": "Os lunatum dextrum",
+  "en": "right lunate",
+  "ta2id": "1252"
+ },
+ "FMA24438": {
+  "pt": "Osso semilunar esquerdo",
+  "la": "Os lunatum sinistrum",
+  "en": "left lunate",
+  "ta2id": "1252"
+ },
+ "FMA24439": {
+  "pt": "Osso piramidal direito",
+  "la": "Os triquetrum dextrum",
+  "en": "right triquetral",
+  "ta2id": null
+ },
+ "FMA24440": {
+  "pt": "Osso piramidal esquerdo",
+  "la": "Os triquetrum sinistrum",
+  "en": "left triquetral",
+  "ta2id": null
+ },
+ "FMA24441": {
+  "pt": "Osso pisiforme direito",
+  "la": "Os pisiforme dextrum",
+  "en": "right pisiform",
+  "ta2id": "1254"
+ },
+ "FMA24442": {
+  "pt": "Osso pisiforme esquerdo",
+  "la": "Os pisiforme sinistrum",
+  "en": "left pisiform",
+  "ta2id": "1254"
+ },
+ "FMA24443": {
+  "pt": "Osso trapézio direito",
+  "la": "Os trapezium dextrum",
+  "en": "right trapezium",
+  "ta2id": "1255"
+ },
+ "FMA24444": {
+  "pt": "Osso trapézio esquerdo",
+  "la": "Os trapezium sinistrum",
+  "en": "left trapezium",
+  "ta2id": "1255"
+ },
+ "FMA24445": {
+  "pt": "Osso trapézoide esquerdo",
+  "la": "Os trapezoideum sinistrum",
+  "en": "left trapezoid",
+  "ta2id": "1257"
+ },
+ "FMA24446": {
+  "pt": "Osso capitato direito",
+  "la": "Os capitatum dextrum",
+  "en": "right capitate",
+  "ta2id": "1258"
+ },
+ "FMA24447": {
+  "pt": "Osso capitato esquerdo",
+  "la": "Os capitatum sinistrum",
+  "en": "left capitate",
+  "ta2id": "1258"
+ },
+ "FMA24448": {
+  "pt": "Osso hamato direito",
+  "la": "Os hamatum dextrum",
+  "en": "right hamate",
+  "ta2id": "1259"
+ },
+ "FMA24449": {
+  "pt": "Osso hamato esquerdo",
+  "la": "Os hamatum sinistrum",
+  "en": "left hamate",
+  "ta2id": "1259"
+ },
+ "FMA24450": {
+  "pt": "Falange proximal do polegar direito",
+  "la": "Phalanx proximalis pollicis dextra",
+  "en": "proximal phalanx of right thumb",
+  "ta2id": null
+ },
+ "FMA24451": {
+  "pt": "Falange proximal do dedo indicador direito",
+  "la": "Phalanx proximalis indicis dextra",
+  "en": "proximal phalanx of right index finger",
+  "ta2id": null
+ },
+ "FMA24452": {
+  "pt": "Falange proximal do dedo médio direito",
+  "la": "Phalanx proximalis digiti medii dextra",
+  "en": "proximal phalanx of right middle finger",
+  "ta2id": null
+ },
+ "FMA24453": {
+  "pt": "Falange proximal do dedo anular direito",
+  "la": "Phalanx proximalis digiti anularis dextra",
+  "en": "proximal phalanx of right ring finger",
+  "ta2id": null
+ },
+ "FMA24454": {
+  "pt": "Falange proximal do dedo mínimo direito",
+  "la": "Phalanx proximalis digiti minimi dextra",
+  "en": "proximal phalanx of right little finger",
+  "ta2id": null
+ },
+ "FMA24455": {
+  "pt": "Falange média do dedo indicador direito",
+  "la": "Phalanx media indicis dextra",
+  "en": "middle phalanx of right index finger",
+  "ta2id": null
+ },
+ "FMA24456": {
+  "pt": "Falange média do dedo médio direito",
+  "la": "Phalanx media digiti medii dextra",
+  "en": "middle phalanx of right middle finger",
+  "ta2id": null
+ },
+ "FMA24457": {
+  "pt": "Falange média do dedo anular direito",
+  "la": "Phalanx media digiti anularis dextra",
+  "en": "middle phalanx of right ring finger",
+  "ta2id": null
+ },
+ "FMA24458": {
+  "pt": "Falange média do dedo mínimo direito",
+  "la": "Phalanx media digiti minimi dextra",
+  "en": "middle phalanx of right little finger",
+  "ta2id": null
+ },
+ "FMA24459": {
+  "pt": "Falange distal do polegar direito",
+  "la": "Phalanx distalis pollicis dextra",
+  "en": "distal phalanx of right thumb",
+  "ta2id": null
+ },
+ "FMA24460": {
+  "pt": "Falange distal do dedo indicador direito",
+  "la": "Phalanx distalis indicis dextra",
+  "en": "distal phalanx of right index finger",
+  "ta2id": null
+ },
+ "FMA24461": {
+  "pt": "Falange distal do dedo médio direito",
+  "la": "Phalanx distalis digiti medii dextra",
+  "en": "distal phalanx of right middle finger",
+  "ta2id": null
+ },
+ "FMA24462": {
+  "pt": "Falange distal do dedo anular direito",
+  "la": "Phalanx distalis digiti anularis dextra",
+  "en": "distal phalanx of right ring finger",
+  "ta2id": null
+ },
+ "FMA24463": {
+  "pt": "Falange distal do dedo mínimo direito",
+  "la": "Phalanx distalis digiti minimi dextra",
+  "en": "distal phalanx of right little finger",
+  "ta2id": null
+ },
+ "FMA24464": {
+  "pt": "Osso primeiro metacarpo direito",
+  "la": "Os primum metarcapi dextrum",
+  "en": "right first metacarpal bone",
+  "ta2id": "1265*1"
+ },
+ "FMA24465": {
+  "pt": "Osso primeiro metacarpo esquerdo",
+  "la": "Os primum metarcapi sinistrum",
+  "en": "left first metacarpal bone",
+  "ta2id": "1265*1"
+ },
+ "FMA24466": {
+  "pt": "Osso segundo metacarpo direito",
+  "la": "Os secundum metacarpi dextrum",
+  "en": "right second metacarpal bone",
+  "ta2id": "1265*2"
+ },
+ "FMA24467": {
+  "pt": "Osso segundo metacarpo esquerdo",
+  "la": "Os secundum metacarpi sinistrum",
+  "en": "left second metacarpal bone",
+  "ta2id": "1265*2"
+ },
+ "FMA24468": {
+  "pt": "Osso terceiro metacarpo direito",
+  "la": "Os tertium metacarpi dextrum",
+  "en": "right third metacarpal bone",
+  "ta2id": "1269"
+ },
+ "FMA24469": {
+  "pt": "Osso terceiro metacarpo esquerdo",
+  "la": "Os tertium metacarpi sinistrum",
+  "en": "left third metacarpal bone",
+  "ta2id": "1269"
+ },
+ "FMA24470": {
+  "pt": "Osso quarto metacarpo direito",
+  "la": "Os quartum metacarpi dextrum",
+  "en": "right fourth metacarpal bone",
+  "ta2id": "1265*4"
+ },
+ "FMA24471": {
+  "pt": "Osso quarto metacarpo esquerdo",
+  "la": "Os quartum metacarpi sinistrum",
+  "en": "left fourth metacarpal bone",
+  "ta2id": "1265*4"
+ },
+ "FMA24472": {
+  "pt": "Osso quinto metacarpo direito",
+  "la": "Os quintum metacarpi dextrum",
+  "en": "right fifth metacarpal bone",
+  "ta2id": "1265*5"
+ },
+ "FMA24473": {
+  "pt": "Osso quinto metacarpo esquerdo",
+  "la": "Os quintum metacarpi sinistrum",
+  "en": "left fifth metacarpal bone",
+  "ta2id": "1265*5"
+ },
+ "FMA24474": {
+  "pt": "Fêmur direito",
+  "la": "Os femoris dextrum",
+  "en": "right femur",
+  "ta2id": "1360"
+ },
+ "FMA24475": {
+  "pt": "Fêmur esquerdo",
+  "la": "Os femoris sinistrum",
+  "en": "left femur",
+  "ta2id": "1360"
+ },
+ "FMA24477": {
+  "pt": "Tíbia direita",
+  "la": "Tibia dextrum",
+  "en": "right tibia",
+  "ta2id": "1397"
+ },
+ "FMA24478": {
+  "pt": "Tíbia esquerda",
+  "la": "Tibia sinistrum",
+  "en": "left tibia",
+  "ta2id": "1397"
+ },
+ "FMA24480": {
+  "pt": "Fíbula direita",
+  "la": "Fibula dextrum",
+  "en": "right fibula",
+  "ta2id": "1427"
+ },
+ "FMA24481": {
+  "pt": "Fíbula esquerda",
+  "la": "Fibula sinistrum",
+  "en": "left fibula",
+  "ta2id": "1427"
+ },
+ "FMA24482": {
+  "pt": "Talus direito",
+  "la": "Os tali dextrum",
+  "en": "right talus",
+  "ta2id": "1448"
+ },
+ "FMA24483": {
+  "pt": "Talus esquerdo",
+  "la": "Os tali sinistrum",
+  "en": "left talus",
+  "ta2id": "1448"
+ },
+ "FMA24486": {
+  "pt": "Patela direita",
+  "la": "Patella dextrum",
+  "en": "right patella",
+  "ta2id": "1390"
+ },
+ "FMA24487": {
+  "pt": "Patela esquerda",
+  "la": "Patella sinistrum",
+  "en": "left patella",
+  "ta2id": "1390"
+ },
+ "FMA24497": {
+  "pt": "Calcâneo direito",
+  "la": "Calcaneus dextrum",
+  "en": "right calcaneus",
+  "ta2id": "1468"
+ },
+ "FMA24498": {
+  "pt": "Calcâneo esquerdo",
+  "la": "Calcaneus sinistrum",
+  "en": "left calcaneus",
+  "ta2id": "1468"
+ },
+ "FMA24500": {
+  "pt": "Osso navicular",
+  "la": "Os naviculare",
+  "en": "navicular bone of right foot",
+  "ta2id": "1484"
+ },
+ "FMA24501": {
+  "pt": "Osso navicular",
+  "la": "Os naviculare",
+  "en": "navicular bone of left foot",
+  "ta2id": "1484"
+ },
+ "FMA24507": {
+  "pt": "Osso primeiro metatarso direito",
+  "la": "Os primum metatarsi dextrum",
+  "en": "right first metatarsal bone",
+  "ta2id": "1500"
+ },
+ "FMA24508": {
+  "pt": "Osso primeiro metatarso esquerdo",
+  "la": "Os primum metatarsi sinistrum",
+  "en": "left first metatarsal bone",
+  "ta2id": "1500"
+ },
+ "FMA24509": {
+  "pt": "Osso segundo metatarso direito",
+  "la": "Os secundum metatarsi dextrum",
+  "en": "right second metatarsal bone",
+  "ta2id": "1496*2"
+ },
+ "FMA24510": {
+  "pt": "Osso segundo metatarso esquerdo",
+  "la": "Os secundum metatarsi sinistrum",
+  "en": "left second metatarsal bone",
+  "ta2id": "1496*2"
+ },
+ "FMA24511": {
+  "pt": "Osso terceiro metatarso direito",
+  "la": "Os tertium metatarsi dextrum",
+  "en": "right third metatarsal bone",
+  "ta2id": "1496*3"
+ },
+ "FMA24512": {
+  "pt": "Osso terceiro metatarso esquerdo",
+  "la": "Os tertium metatarsi sinistrum",
+  "en": "left third metatarsal bone",
+  "ta2id": "1496*3"
+ },
+ "FMA24513": {
+  "pt": "Osso quarto metatarso direito",
+  "la": "Os quatum metatarsi dextrum",
+  "en": "right fourth metatarsal bone",
+  "ta2id": "1496*4"
+ },
+ "FMA24514": {
+  "pt": "Osso quarto metatarso esquerdo",
+  "la": "Os quatum metatarsi sinistrum",
+  "en": "left fourth metatarsal bone",
+  "ta2id": "1496*4"
+ },
+ "FMA24515": {
+  "pt": "Osso quinto metatarso direito",
+  "la": "Os quintum metatarsi dextrum",
+  "en": "right fifth metatarsal bone",
+  "ta2id": "1502"
+ },
+ "FMA24516": {
+  "pt": "Osso quinto metatarso esquerdo",
+  "la": "Os quintum metatarsi sinistrum",
+  "en": "left fifth metatarsal bone",
+  "ta2id": "1502"
+ },
+ "FMA24521": {
+  "pt": "Osso cuneiforme medial direito",
+  "la": "Os cuneiforme mediale dextrum",
+  "en": "right medial cuneiform bone",
+  "ta2id": "1486"
+ },
+ "FMA24522": {
+  "pt": "Osso cuneiforme medial esquerdo",
+  "la": "Os cuneiforme mediale sinistrum",
+  "en": "left medial cuneiform bone",
+  "ta2id": "1486"
+ },
+ "FMA24523": {
+  "pt": "Osso cuneiforme intermédio direito",
+  "la": "Os cuneiforme intermedium dextrum",
+  "en": "right intermediate cuneiform bone",
+  "ta2id": "1487"
+ },
+ "FMA24524": {
+  "pt": "Osso cuneiforme intermédio esquerdo",
+  "la": "Os cuneiforme intermedium sinistrum",
+  "en": "left intermediate cuneiform bone",
+  "ta2id": "1487"
+ },
+ "FMA24525": {
+  "pt": "Osso cuneiforme lateral direito",
+  "la": "Os cuneiforme laterale dextrum",
+  "en": "right lateral cuneiform bone",
+  "ta2id": "1488"
+ },
+ "FMA24526": {
+  "pt": "Osso cuneiforme lateral esquerdo",
+  "la": "Os cuneiforme laterale sinistrum",
+  "en": "left lateral cuneiform bone",
+  "ta2id": "1488"
+ },
+ "FMA24528": {
+  "pt": "Osso cubóide direito",
+  "la": "Os cuboideum dextrum",
+  "en": "right cuboid bone",
+  "ta2id": "1489"
+ },
+ "FMA24529": {
+  "pt": "Osso cubóide esquerdo",
+  "la": "Os cuboideum sinistrum",
+  "en": "left cuboid bone",
+  "ta2id": "1489"
+ },
+ "FMA25058": {
+  "pt": "Disco intervertebral abaixo de C2",
+  "la": "Discus intervertebralis axis",
+  "en": "intervertebral disk of axis",
+  "ta2id": null
+ },
+ "FMA32634": {
+  "pt": "Falange proximal do segundo dedo do pé direito",
+  "la": "Phalanx proximalis digiti secundi pedis dextra",
+  "en": "proximal phalanx of right second toe",
+  "ta2id": null
+ },
+ "FMA32635": {
+  "pt": "Falange proximal do segundo dedo do pé esquerdo",
+  "la": "Phalanx proximalis digiti secundi pedis sinistra",
+  "en": "proximal phalanx of left second toe",
+  "ta2id": null
+ },
+ "FMA32636": {
+  "pt": "Falange proximal do terceiro dedo do pé direito",
+  "la": "Phalanx proximalis digiti tertii pedis dextra",
+  "en": "proximal phalanx of right third toe",
+  "ta2id": null
+ },
+ "FMA32637": {
+  "pt": "Falange proximal do terceiro dedo do pé esquerdo",
+  "la": "Phalanx proximalis digiti tertii pedis sinistra",
+  "en": "proximal phalanx of left third toe",
+  "ta2id": null
+ },
+ "FMA32638": {
+  "pt": "Falange proximal do quarto dedo do pé direito",
+  "la": "Phalanx proximalis digiti quarti pedis dextra",
+  "en": "proximal phalanx of right fourth toe",
+  "ta2id": null
+ },
+ "FMA32639": {
+  "pt": "Falange proximal do quarto dedo do pé esquerdo",
+  "la": "Phalanx proximalis digiti quarti pedis sinistra",
+  "en": "proximal phalanx of left fourth toe",
+  "ta2id": null
+ },
+ "FMA32640": {
+  "pt": "Falange proximal do dedo mínimo do pé direito",
+  "la": "Phalanx proximalis digiti minimi pedis dextra",
+  "en": "proximal phalanx of right little toe",
+  "ta2id": null
+ },
+ "FMA32641": {
+  "pt": "Falange proximal do dedo mínimo do pé esquerdo",
+  "la": "Phalanx proximalis digiti minimi pedis sinistra",
+  "en": "proximal phalanx of left little toe",
+  "ta2id": null
+ },
+ "FMA32642": {
+  "pt": "Falange média do segundo dedo do pé direito",
+  "la": "Phalanx media digiti secundi pedis dextra",
+  "en": "middle phalanx of right second toe",
+  "ta2id": null
+ },
+ "FMA32643": {
+  "pt": "Falange média do segundo dedo do pé esquerdo",
+  "la": "Phalanx media digiti secundi pedis sinistra",
+  "en": "middle phalanx of left second toe",
+  "ta2id": null
+ },
+ "FMA32644": {
+  "pt": "Falange média do terceiro dedo do pé direito",
+  "la": "Phalanx media digiti tertii pedis dextra",
+  "en": "middle phalanx of right third toe",
+  "ta2id": null
+ },
+ "FMA32645": {
+  "pt": "Falange média do terceiro dedo do pé esquerdo",
+  "la": "Phalanx media digiti tertii pedis sinistra",
+  "en": "middle phalanx of left third toe",
+  "ta2id": null
+ },
+ "FMA32646": {
+  "pt": "Falange média do quarto dedo do pé direito",
+  "la": "Phalanx media digiti quarti pedis dextra",
+  "en": "middle phalanx of right fourth toe",
+  "ta2id": null
+ },
+ "FMA32647": {
+  "pt": "Falange média do quarto dedo do pé esquerdo",
+  "la": "Phalanx media digiti quarti pedis sinistra",
+  "en": "middle phalanx of left fourth toe",
+  "ta2id": null
+ },
+ "FMA32650": {
+  "pt": "Falange distal do hálux direito",
+  "la": "Phalanx distalis hallucis dextra",
+  "en": "distal phalanx of right big toe",
+  "ta2id": null
+ },
+ "FMA32651": {
+  "pt": "Falange distal do hálux esquerdo",
+  "la": "Phalanx distalis hallucis sinistra",
+  "en": "distal phalanx of left big toe",
+  "ta2id": null
+ },
+ "FMA32652": {
+  "pt": "Falange distal do segundo dedo do pé direito",
+  "la": "Phalanx distalis digiti secundi pedis dextra",
+  "en": "distal phalanx of right second toe",
+  "ta2id": null
+ },
+ "FMA32653": {
+  "pt": "Falange distal do segundo dedo do pé esquerdo",
+  "la": "Phalanx distalis digiti secundi pedis sinistra",
+  "en": "distal phalanx of left second toe",
+  "ta2id": null
+ },
+ "FMA32654": {
+  "pt": "Falange distal do terceiro dedo do pé direito",
+  "la": "Phalanx distalis digiti tertii pedis dextra",
+  "en": "distal phalanx of right third toe",
+  "ta2id": null
+ },
+ "FMA32655": {
+  "pt": "Falange distal do terceiro dedo do pé esquerdo",
+  "la": "Phalanx distalis digiti tertii pedis sinistra",
+  "en": "distal phalanx of left third toe",
+  "ta2id": null
+ },
+ "FMA32656": {
+  "pt": "Falange distal do quarto dedo do pé direito",
+  "la": "Phalanx distalis digiti quarti pedis dextra",
+  "en": "distal phalanx of right fourth toe",
+  "ta2id": null
+ },
+ "FMA32657": {
+  "pt": "Falange distal do quarto dedo do pé esquerdo",
+  "la": "Phalanx distalis digiti quarti pedis sinistra",
+  "en": "distal phalanx of left fourth toe",
+  "ta2id": null
+ },
+ "FMA32658": {
+  "pt": "Falange distal do dedo mínimo do pé direito",
+  "la": "Phalanx distalis digiti minimi pedis dextra",
+  "en": "distal phalanx of right little toe",
+  "ta2id": null
+ },
+ "FMA32659": {
+  "pt": "Falange distal do dedo mínimo do pé esquerdo",
+  "la": "Phalanx distalis digiti minimi pedis sinistra",
+  "en": "distal phalanx of left little toe",
+  "ta2id": null
+ },
+ "FMA35192": {
+  "pt": "Membrana interóssea",
+  "la": "Membrana interossea",
+  "en": "interosseous membrane of right leg",
+  "ta2id": "1520"
+ },
+ "FMA35193": {
+  "pt": "Membrana interóssea",
+  "la": "Membrana interossea",
+  "en": "interosseous membrane of left leg",
+  "ta2id": "1520"
+ },
+ "FMA43253": {
+  "pt": "Falange proximal do hálux direito",
+  "la": "Phalanx proximalis hallucis dextra",
+  "en": "proximal phalanx of right big toe",
+  "ta2id": null
+ },
+ "FMA43254": {
+  "pt": "Falange proximal do hálux esquerdo",
+  "la": "Phalanx proximalis hallucis sinistra",
+  "en": "proximal phalanx of left big toe",
+  "ta2id": null
+ },
+ "FMA44249": {
+  "pt": "Ligamento plantar longo direito",
+  "la": "Ligamentum plantare longum dextrum",
+  "en": "right long plantar ligament",
+  "ta2id": "1934"
+ },
+ "FMA44250": {
+  "pt": "Ligamento plantar longo esquerdo",
+  "la": "Ligamentum plantare longum sinistrum",
+  "en": "left long plantar ligament",
+  "ta2id": "1934"
+ },
+ "FMA45097": {
+  "pt": "Osso sesamóide",
+  "la": "Os sesamoideum",
+  "en": "sesamoid bone of right foot",
+  "ta2id": "374"
+ },
+ "FMA45098": {
+  "pt": "Osso sesamóide",
+  "la": "Os sesamoideum",
+  "en": "sesamoid bone of left foot",
+  "ta2id": "374"
+ },
+ "FMA52734": {
+  "pt": "Osso frontal",
+  "la": "Os frontale",
+  "en": "frontal bone",
+  "ta2id": "520"
+ },
+ "FMA52735": {
+  "pt": "Osso occipital",
+  "la": "Os occipitale",
+  "en": "occipital bone",
+  "ta2id": "552"
+ },
+ "FMA52736": {
+  "pt": "Osso esfenóide",
+  "la": "Os sphenoideum",
+  "en": "sphenoid bone",
+  "ta2id": "584"
+ },
+ "FMA52738": {
+  "pt": "Osso temporal direito",
+  "la": "Os temporale dextrum",
+  "en": "right temporal bone",
+  "ta2id": "641"
+ },
+ "FMA52739": {
+  "pt": "Osso temporal esquerdo",
+  "la": "Os temporale sinistrum",
+  "en": "left temporal bone",
+  "ta2id": "641"
+ },
+ "FMA52740": {
+  "pt": "Osso etmóide",
+  "la": "Os ethmoideum",
+  "en": "ethmoid",
+  "ta2id": "721"
+ },
+ "FMA52748": {
+  "pt": "Mandíbula",
+  "la": "Mandibula",
+  "en": "mandible",
+  "ta2id": "835"
+ },
+ "FMA52749": {
+  "pt": "Osso hióide",
+  "la": "Os hyoideum",
+  "en": "hyoid bone",
+  "ta2id": "876"
+ },
+ "FMA52788": {
+  "pt": "Osso parietal direito",
+  "la": "Os parietale dextrum",
+  "en": "right parietal bone",
+  "ta2id": "504"
+ },
+ "FMA52789": {
+  "pt": "Osso parietal esquerdo",
+  "la": "Os parietale sinistrum",
+  "en": "left parietal bone",
+  "ta2id": "504"
+ },
+ "FMA52892": {
+  "pt": "Osso zigomático direito",
+  "la": "Os zygomaticum dextrum",
+  "en": "right zygomatic bone",
+  "ta2id": "818"
+ },
+ "FMA52893": {
+  "pt": "Osso zigomático esquerdo",
+  "la": "Os zygomaticum sinistrum",
+  "en": "left zygomatic bone",
+  "ta2id": "818"
+ },
+ "FMA53645": {
+  "pt": "Osso lacrimal direito",
+  "la": "Os lacrimale dextrum",
+  "en": "right lacrimal bone",
+  "ta2id": "744"
+ },
+ "FMA53646": {
+  "pt": "Osso lacrimal esquerdo",
+  "la": "Os lacrimale sinistrum",
+  "en": "left lacrimal bone",
+  "ta2id": "744"
+ },
+ "FMA53647": {
+  "pt": "Osso nasal direito",
+  "la": "Os nasale dextrum",
+  "en": "right nasal bone",
+  "ta2id": "748"
+ },
+ "FMA53648": {
+  "pt": "Osso nasal esquerdo",
+  "la": "Os nasale sinistrum",
+  "en": "left nasal bone",
+  "ta2id": "748"
+ },
+ "FMA53649": {
+  "pt": "Osso maxilar direito",
+  "la": "Maxilla dextrum",
+  "en": "right maxilla",
+  "ta2id": "756"
+ },
+ "FMA53650": {
+  "pt": "Osso maxilar esquerdo",
+  "la": "Maxilla sinistrum",
+  "en": "left maxilla",
+  "ta2id": "756"
+ },
+ "FMA53655": {
+  "pt": "Osso palatino direito",
+  "la": "Os palatinum dextrum",
+  "en": "right palatine bone",
+  "ta2id": "798"
+ },
+ "FMA53656": {
+  "pt": "Osso palatino esquerdo",
+  "la": "Os palatinum sinistrum",
+  "en": "left palatine bone",
+  "ta2id": "798"
+ },
+ "FMA54737": {
+  "pt": "Concha nasal inferior direita",
+  "la": "Concha inferior nasi dextrum",
+  "en": "right inferior nasal concha",
+  "ta2id": "3151"
+ },
+ "FMA54738": {
+  "pt": "Concha nasal inferior esquerda",
+  "la": "Concha inferior nasi sinistrum",
+  "en": "left inferior nasal concha",
+  "ta2id": "3151"
+ },
+ "FMA65470": {
+  "pt": "Falange proximal do polegar esquerdo",
+  "la": "Phalanx proximalis pollicis sinistra",
+  "en": "proximal phalanx of left thumb",
+  "ta2id": null
+ },
+ "FMA66791": {
+  "pt": "Falange proximal do dedo mínimo esquerdo",
+  "la": "Phalanx proximalis digiti minimi sinistra",
+  "en": "proximal phalanx of left little finger",
+  "ta2id": null
+ },
+ "FMA71908": {
+  "pt": "Falange proximal do dedo médio esquerdo",
+  "la": "Phalanx proximalis digiti medii sinistra",
+  "en": "proximal phalanx of left middle finger",
+  "ta2id": null
+ },
+ "FMA71915": {
+  "pt": "Falange proximal do dedo indicador esquerdo",
+  "la": "Phalanx proximalis indicis sinistra",
+  "en": "proximal phalanx of left index finger",
+  "ta2id": null
+ },
+ "FMA71916": {
+  "pt": "Falange proximal do dedo anular esquerdo",
+  "la": "Phalanx proximalis digiti anularis sinistra",
+  "en": "proximal phalanx of left ring finger",
+  "ta2id": null
+ },
+ "FMA7486": {
+  "pt": "Manúbrio do esterno",
+  "la": "Manubrium sterni",
+  "en": "manubrium",
+  "ta2id": null
+ },
+ "FMA7487": {
+  "pt": "Corpo do esterno",
+  "la": "Corpus sterni",
+  "en": "body of sternum",
+  "ta2id": "1134"
+ },
+ "FMA7488": {
+  "pt": "Processo xifóide",
+  "la": "Processus xiphoideus",
+  "en": "xiphoid process",
+  "ta2id": "1135"
+ },
+ "FMA7857": {
+  "pt": "1ª costela direita",
+  "la": "Costa I dextra",
+  "en": "right first rib",
+  "ta2id": null
+ },
+ "FMA7875": {
+  "pt": "1ª cartilagem costal direita",
+  "la": "Cartilago costalis I dextra",
+  "en": "right first costal cartilage",
+  "ta2id": null
+ },
+ "FMA7882": {
+  "pt": "2ª costela direita",
+  "la": "Costa II dextra",
+  "en": "right second rib",
+  "ta2id": null
+ },
+ "FMA7886": {
+  "pt": "2ª cartilagem costal direita",
+  "la": "Cartilago costalis II dextra",
+  "en": "right second costal cartilage",
+  "ta2id": null
+ },
+ "FMA7909": {
+  "pt": "3ª costela direita",
+  "la": "Costa III dextra",
+  "en": "right third rib",
+  "ta2id": null
+ },
+ "FMA7913": {
+  "pt": "3ª cartilagem costal direita",
+  "la": "Cartilago costalis III dextra",
+  "en": "right third costal cartilage",
+  "ta2id": null
+ },
+ "FMA7957": {
+  "pt": "4ª costela direita",
+  "la": "Costa IV dextra",
+  "en": "right fourth rib",
+  "ta2id": null
+ },
+ "FMA7976": {
+  "pt": "4ª cartilagem costal direita",
+  "la": "Cartilago costalis IV dextra",
+  "en": "right fourth costal cartilage",
+  "ta2id": null
+ },
+ "FMA7987": {
+  "pt": "1ª costela esquerda",
+  "la": "Costa I sinistra",
+  "en": "left first rib",
+  "ta2id": null
+ },
+ "FMA8005": {
+  "pt": "1ª cartilagem costal esquerda",
+  "la": "Cartilago costalis I sinistra",
+  "en": "left first costal cartilage",
+  "ta2id": null
+ },
+ "FMA8012": {
+  "pt": "2ª costela esquerda",
+  "la": "Costa II sinistra",
+  "en": "left second rib",
+  "ta2id": null
+ },
+ "FMA8031": {
+  "pt": "2ª cartilagem costal esquerda",
+  "la": "Cartilago costalis II sinistra",
+  "en": "left second costal cartilage",
+  "ta2id": null
+ },
+ "FMA8039": {
+  "pt": "3ª costela esquerda",
+  "la": "Costa III sinistra",
+  "en": "left third rib",
+  "ta2id": null
+ },
+ "FMA8058": {
+  "pt": "3ª cartilagem costal esquerda",
+  "la": "Cartilago costalis III sinistra",
+  "en": "left third costal cartilage",
+  "ta2id": null
+ },
+ "FMA8066": {
+  "pt": "5ª costela direita",
+  "la": "Costa V dextra",
+  "en": "right fifth rib",
+  "ta2id": null
+ },
+ "FMA8070": {
+  "pt": "5ª cartilagem costal direita",
+  "la": "Cartilago costalis V dextra",
+  "en": "right fifth costal cartilage",
+  "ta2id": null
+ },
+ "FMA8093": {
+  "pt": "5ª costela esquerda",
+  "la": "Costa V sinistra",
+  "en": "left fifth rib",
+  "ta2id": null
+ },
+ "FMA8112": {
+  "pt": "5ª cartilagem costal esquerda",
+  "la": "Cartilago costalis V sinistra",
+  "en": "left fifth costal cartilage",
+  "ta2id": null
+ },
+ "FMA8148": {
+  "pt": "4ª costela esquerda",
+  "la": "Costa IV sinistra",
+  "en": "left fourth rib",
+  "ta2id": null
+ },
+ "FMA8167": {
+  "pt": "4ª cartilagem costal esquerda",
+  "la": "Cartilago costalis IV sinistra",
+  "en": "left fourth costal cartilage",
+  "ta2id": null
+ },
+ "FMA8175": {
+  "pt": "6ª costela direita",
+  "la": "Costa VI dextra",
+  "en": "right sixth rib",
+  "ta2id": null
+ },
+ "FMA8194": {
+  "pt": "6ª cartilagem costal direita",
+  "la": "Cartilago costalis VI dextra",
+  "en": "right sixth costal cartilage",
+  "ta2id": null
+ },
+ "FMA8202": {
+  "pt": "6ª costela esquerda",
+  "la": "Costa VI sinistra",
+  "en": "left sixth rib",
+  "ta2id": null
+ },
+ "FMA8221": {
+  "pt": "6ª cartilagem costal esquerda",
+  "la": "Cartilago costalis VI sinistra",
+  "en": "left sixth costal cartilage",
+  "ta2id": null
+ },
+ "FMA8229": {
+  "pt": "7ª costela direita",
+  "la": "Costa VII dextra",
+  "en": "right seventh rib",
+  "ta2id": null
+ },
+ "FMA8248": {
+  "pt": "7ª cartilagem costal direita",
+  "la": "Cartilago costalis VII dextra",
+  "en": "right seventh costal cartilage",
+  "ta2id": null
+ },
+ "FMA8256": {
+  "pt": "7ª costela esquerda",
+  "la": "Costa VII sinistra",
+  "en": "left seventh rib",
+  "ta2id": null
+ },
+ "FMA8275": {
+  "pt": "7ª cartilagem costal esquerda",
+  "la": "Cartilago costalis VII sinistra",
+  "en": "left seventh costal cartilage",
+  "ta2id": null
+ },
+ "FMA8283": {
+  "pt": "8ª costela direita",
+  "la": "Costa VIII dextra",
+  "en": "right eighth rib",
+  "ta2id": null
+ },
+ "FMA8310": {
+  "pt": "8ª costela esquerda",
+  "la": "Costa VIII sinistra",
+  "en": "left eighth rib",
+  "ta2id": null
+ },
+ "FMA8364": {
+  "pt": "9ª costela direita",
+  "la": "Costa IX dextra",
+  "en": "right ninth rib",
+  "ta2id": null
+ },
+ "FMA8391": {
+  "pt": "9ª costela esquerda",
+  "la": "Costa IX sinistra",
+  "en": "left ninth rib",
+  "ta2id": null
+ },
+ "FMA8445": {
+  "pt": "10ª costela direita",
+  "la": "Costa X dextra",
+  "en": "right tenth rib",
+  "ta2id": null
+ },
+ "FMA8472": {
+  "pt": "10ª costela esquerda",
+  "la": "Costa X sinistra",
+  "en": "left tenth rib",
+  "ta2id": null
+ },
+ "FMA8531": {
+  "pt": "11ª costela direita",
+  "la": "Costa XI dextra",
+  "en": "right eleventh rib",
+  "ta2id": null
+ },
+ "FMA8532": {
+  "pt": "11ª costela esquerda",
+  "la": "Costa XI sinistra",
+  "en": "left eleventh rib",
+  "ta2id": null
+ },
+ "FMA8533": {
+  "pt": "12ª costela direita",
+  "la": "Costa XII dextra",
+  "en": "right twelfth rib",
+  "ta2id": null
+ },
+ "FMA8534": {
+  "pt": "12ª costela esquerda",
+  "la": "Costa XII sinistra",
+  "en": "left twelfth rib",
+  "ta2id": null
+ },
+ "FMA9165": {
+  "pt": "Vértebra torácica T1",
+  "la": "Vertebra thoracica I",
+  "en": "first thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA9187": {
+  "pt": "Vértebra torácica T2",
+  "la": "Vertebra thoracica II",
+  "en": "second thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA9209": {
+  "pt": "Vértebra torácica T3",
+  "la": "Vertebra thoracica III",
+  "en": "third thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA9248": {
+  "pt": "Vértebra torácica T4",
+  "la": "Vertebra thoracica IV",
+  "en": "fourth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA9710": {
+  "pt": "Vômer",
+  "la": "Vomer",
+  "en": "vomer",
+  "ta2id": "751"
+ },
+ "FMA9922": {
+  "pt": "Vértebra torácica T5",
+  "la": "Vertebra thoracica V",
+  "en": "fifth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA9945": {
+  "pt": "Vértebra torácica T6",
+  "la": "Vertebra thoracica VI",
+  "en": "sixth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA9968": {
+  "pt": "Vértebra torácica T7",
+  "la": "Vertebra thoracica VII",
+  "en": "seventh thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA9991": {
+  "pt": "Vértebra torácica T8",
+  "la": "Vertebra thoracica VIII",
+  "en": "eighth thoracic vertebra",
+  "ta2id": null
+ },
+ "FMA70751": {
+  "pt": "Cabelo",
+  "la": "Capilli",
+  "en": "set of head hairs",
+  "ta2id": "7055"
+ },
+ "FMA70754": {
+  "pt": "Pelos pubianos",
+  "la": "Pubes",
+  "en": "set of pubic hairs",
+  "ta2id": "7062"
+ },
+ "FMA71098": {
+  "pt": "Sobrancelha",
+  "la": "Supercilium",
+  "en": "set of eyebrows",
+  "ta2id": "181"
+ },
+ "FMA7163": {
+  "pt": "Pele",
+  "la": "Cutis",
+  "en": "skin",
+  "ta2id": "7041"
+ }
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "testiculos",
+    "sistema": "genital",
+    "nome": "Testículos",
+    "nomeLatim": "Testes",
+    "pecas": [
+      "testis$"
+    ],
+    "localizacao": "Escroto, fora da cavidade abdominal.",
+    "funcao": "Produzem espermatozoides e testosterona.",
+    "irrigacao": "Artérias testiculares, ramos diretos da aorta abdominal.",
+    "curiosidade": "A posição escrotal mantém a temperatura cerca de 2 °C abaixo da corporal, necessária à espermatogênese.",
+    "fmaIds": [
+      "FMA7211",
+      "FMA7212"
+    ]
+  },
+  {
+    "id": "epididimo",
+    "sistema": "genital",
+    "nome": "Epidídimo",
+    "nomeLatim": "Epididymis",
+    "pecas": [
+      "epididymis$"
+    ],
+    "localizacao": "Face posterolateral do testículo, com cabeça, corpo e cauda.",
+    "funcao": "Local de maturação e armazenamento dos espermatozoides.",
+    "fmaIds": [
+      "FMA18256",
+      "FMA18257"
+    ]
+  },
+  {
+    "id": "ducto-deferente",
+    "sistema": "genital",
+    "nome": "Ducto deferente",
+    "nomeLatim": "Ductus deferens",
+    "pecas": [
+      "deferent duct$"
+    ],
+    "localizacao": "Da cauda do epidídimo, pelo canal inguinal, até a face posterior da bexiga.",
+    "funcao": "Transporta os espermatozoides até o ducto ejaculatório.",
+    "curiosidade": "É o ducto seccionado na vasectomia.",
+    "fmaIds": [
+      "FMA19235",
+      "FMA19236"
+    ]
+  },
+  {
+    "id": "glandulas-seminais",
+    "sistema": "genital",
+    "nome": "Glândulas seminais",
+    "nomeLatim": "Glandulae vesiculosae",
+    "sinonimos": [
+      "vesículas seminais"
+    ],
+    "pecas": [
+      "seminal vesicle$"
+    ],
+    "localizacao": "Entre a bexiga e o reto, acima da próstata.",
+    "funcao": "Produzem cerca de 70 % do volume do sêmen, rico em frutose.",
+    "fmaIds": [
+      "FMA19387",
+      "FMA19388"
+    ]
+  },
+  {
+    "id": "prostata",
+    "sistema": "genital",
+    "nome": "Próstata",
+    "nomeLatim": "Prostata",
+    "pecas": [
+      "^prostate$"
+    ],
+    "localizacao": "Abaixo da bexiga, envolvendo a uretra prostática; palpável ao toque retal.",
+    "funcao": "Secreta líquido alcalino que nutre e protege os espermatozoides.",
+    "irrigacao": "Artérias vesical inferior, pudenda interna e retal média.",
+    "curiosidade": "A hiperplasia da zona de transição comprime a uretra e causa sintomas urinários no homem idoso.",
+    "fmaIds": [
+      "FMA9600"
+    ]
+  },
+  {
+    "id": "penis",
+    "sistema": "genital",
+    "nome": "Pênis",
+    "nomeLatim": "Penis",
+    "pecas": [
+      "corpus cavernosum of penis",
+      "corpus spongiosum of penis",
+      "^glans penis$"
+    ],
+    "localizacao": "Períneo anterior, com raiz fixa e corpo pêndulo.",
+    "funcao": "Órgão da cópula e via final da micção; a ereção resulta do ingurgitamento dos corpos cavernosos.",
+    "irrigacao": "Artérias profundas e dorsal do pênis, ramos da pudenda interna.",
+    "inervacao": "Nervo dorsal do pênis (pudendo) e fibras parassimpáticas de S2–S4.",
+    "fmaIds": [
+      "FMA18247",
+      "FMA19617nsn",
+      "FMA19618"
+    ]
+  }
+]

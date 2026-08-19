@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bulbo-do-olho",
+    "sistema": "sentidos",
+    "nome": "Bulbo do olho",
+    "nomeLatim": "Bulbus oculi",
+    "sinonimos": [
+      "globo ocular"
+    ],
+    "pecas": [
+      "^eyeball$"
+    ],
+    "localizacao": "Órbita óssea, envolvido por gordura e pelos músculos extrínsecos do olho.",
+    "funcao": "Focaliza a luz na retina, onde fotorreceptores a convertem em impulsos conduzidos pelo nervo óptico.",
+    "irrigacao": "Artéria oftálmica, ramo da carótida interna; a artéria central da retina é terminal.",
+    "inervacao": "Nervo óptico (II) para a visão; III, IV e VI para os músculos extrínsecos.",
+    "curiosidade": "A oclusão da artéria central da retina causa perda visual súbita e indolor, por ser um vaso sem colaterais.",
+    "fmaIds": [
+      "FMA12513"
+    ]
+  },
+  {
+    "id": "orelha",
+    "sistema": "sentidos",
+    "nome": "Orelha",
+    "nomeLatim": "Auris",
+    "pecas": [
+      "^ear$"
+    ],
+    "localizacao": "Orelha externa na face lateral da cabeça; orelhas média e interna na parte petrosa do osso temporal.",
+    "funcao": "Capta e transmite o som até a cóclea e abriga o aparelho vestibular, responsável pelo equilíbrio.",
+    "inervacao": "Nervo vestibulococlear (VIII) para audição e equilíbrio.",
+    "curiosidade": "Os ossículos — martelo, bigorna e estribo — amplificam cerca de 20 vezes a pressão sonora que chega à janela oval.",
+    "fmaIds": [
+      "FMA52780"
+    ]
+  }
+]
