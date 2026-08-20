@@ -1,7 +1,7 @@
 # Publica o AnatoStudy em fidelidade total no GitHub Pages.
 #
-# Exige um passo manual, uma única vez: em Settings → Pages, escolher
-# "Source: GitHub Actions". Depois disso cada push publica em
+# `enablement: true` liga o Pages pela API na primeira execução, então não é
+# preciso configurar nada à mão. Cada push publica em
 # https://<usuário>.github.io/AnatoStudy/
 name: Publicar no GitHub Pages
 
@@ -33,6 +33,9 @@ jobs:
       - run: npm test
       - run: npm run build
       - uses: actions/configure-pages@v5
+        with:
+          # Habilita o Pages (origem: GitHub Actions) se ainda não estiver ligado.
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
