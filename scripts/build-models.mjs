@@ -45,14 +45,24 @@ function normaisParaGltf(normais) {
 // Orçamento de triângulos por peça: proporcional à complexidade original,
 // com piso (peças pequenas continuam legíveis) e teto (peças enormes não
 // dominam o arquivo). `tetoPorSistema` afina casos como a pele.
-const RAZAO = 0.15
-const PISO = 500
-const TETO = 6000
-const TETO_POR_SISTEMA = { tegumentar: 40000, nervoso: 6000 }
+// O perfil "leve" existe para a versão autocontida do site (Artifact), em que
+// todos os .glb viajam embutidos na página e precisam caber num teto de 16 MB.
+const PERFIS = {
+  padrao: { razao: 0.15, piso: 500, teto: 6000, porSistema: { tegumentar: 40000, nervoso: 6000 } },
+  leve: { razao: 0.06, piso: 350, teto: 2000, porSistema: { tegumentar: 12000, nervoso: 2500 } },
+}
+
+const PERFIL = PERFIS[process.env.PERFIL ?? 'padrao']
+if (!PERFIL) throw new Error(`perfil desconhecido: ${process.env.PERFIL}`)
+
+const DESTINO = process.env.SAIDA_MODELOS ?? join('public', 'models')
 
 function orcamento(sistema, triangulosOriginais) {
-  const teto = TETO_POR_SISTEMA[sistema] ?? TETO
-  return Math.min(triangulosOriginais, Math.max(PISO, Math.min(teto, Math.round(triangulosOriginais * RAZAO))))
+  const teto = PERFIL.porSistema[sistema] ?? PERFIL.teto
+  return Math.min(
+    triangulosOriginais,
+    Math.max(PERFIL.piso, Math.min(teto, Math.round(triangulosOriginais * PERFIL.razao))),
+  )
 }
 
 const CORES = {
@@ -103,7 +113,7 @@ async function main() {
     .registerExtensions([EXTMeshoptCompression, KHRMeshQuantization])
     .registerDependencies({ 'meshopt.encoder': MeshoptEncoder, 'meshopt.decoder': MeshoptDecoder })
   const manifesto = { fonte: 'BodyParts3D/Anatomography (DBCLS) — CC BY-SA 2.1 JP', sistemas: {}, pecas: {} }
-  await mkdir(join(RAIZ, 'public', 'models'), { recursive: true })
+  await mkdir(join(RAIZ, DESTINO), { recursive: true })
 
   for (const sistema of SISTEMAS) {
     const pecas = porSistema.get(sistema.id)
@@ -174,7 +184,7 @@ async function main() {
 
     const glb = await io.writeBinary(doc)
     const arquivo = `${sistema.id}.glb`
-    await writeFile(join(RAIZ, 'public', 'models', arquivo), glb)
+    await writeFile(join(RAIZ, DESTINO, arquivo), glb)
 
     manifesto.sistemas[sistema.id] = {
       arquivo: `models/${arquivo}`,
@@ -189,11 +199,15 @@ async function main() {
     )
   }
 
-  await mkdir(join(RAIZ, 'src', 'data', 'generated'), { recursive: true })
-  await writeFile(
-    join(RAIZ, 'src', 'data', 'generated', 'manifesto.json'),
-    `${JSON.stringify(manifesto, null, 1)}\n`,
-  )
+  // Só o perfil padrão escreve o manifesto que a aplicação consome; o perfil
+  // leve muda apenas a densidade das malhas, não o conjunto de peças.
+  if (!process.env.PERFIL || process.env.PERFIL === 'padrao') {
+    await mkdir(join(RAIZ, 'src', 'data', 'generated'), { recursive: true })
+    await writeFile(
+      join(RAIZ, 'src', 'data', 'generated', 'manifesto.json'),
+      `${JSON.stringify(manifesto, null, 1)}\n`,
+    )
+  }
   const totalBytes = Object.values(manifesto.sistemas).reduce((a, s) => a + s.bytes, 0)
   console.log(`\ntotal: ${Object.keys(manifesto.pecas).length} peças · ${(totalBytes / 1048576).toFixed(1)} MB`)
 }

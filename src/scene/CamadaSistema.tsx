@@ -3,6 +3,7 @@ import { useGLTF } from '@react-three/drei'
 import { Color, DoubleSide, Mesh, MeshStandardMaterial } from 'three'
 import type { ThreeEvent } from '@react-three/fiber'
 import { estruturaPorFma } from '../data'
+import { urlDoModelo } from '../lib/modelos'
 import type { Sistema } from '../data/tipos'
 import { useAtlas } from '../store/useAtlas'
 
@@ -17,7 +18,7 @@ interface Props {
 export function CamadaSistema({ sistema }: Props) {
   // `false` desativa o DRACOLoader do drei, que apontaria para uma CDN externa;
   // `true` mantém o decodificador meshopt, que vem embutido no bundle.
-  const { scene } = useGLTF(`${import.meta.env.BASE_URL}${sistema.arquivo}`, false, true)
+  const { scene } = useGLTF(urlDoModelo(sistema.arquivo), false, true)
 
   const selecionada = useAtlas((e) => e.selecionada)
   const hover = useAtlas((e) => e.hover)

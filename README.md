@@ -46,6 +46,7 @@ funciona logo após o `npm install` — não é preciso baixar nada.
 | `npm run data:resolver` | preenche os `fmaIds` das fichas a partir do campo `pecas` |
 | `npm run models` | regenera os `.glb` a partir do BodyParts3D (precisa de rede) |
 | `npm run models:terms` | regenera os nomes PT/latim a partir da TA2 |
+| `npm run artefato` | gera a versão em página única, autocontida (ver abaixo) |
 
 ## Como adicionar ou editar conteúdo
 
@@ -134,6 +135,27 @@ compressão `EXT_meshopt_compression`.
 | Tegumentar | 4 | 0,36 MB |
 | Respiratório | 10 | 0,30 MB |
 | Demais (genital, urinário, endócrino, linfático, sentidos) | 27 | 0,26 MB |
+
+## Publicando
+
+### GitHub Pages — fidelidade total
+
+`.github/workflows/pages.yml` faz build e publica `dist/` a cada push. Só é
+preciso habilitar uma vez: **Settings → Pages → Source: GitHub Actions**. A
+partir daí o atlas fica em `https://<usuário>.github.io/AnatoStudy/`, com os
+16,3 MB de modelos e todo o detalhe.
+
+### Página única autocontida
+
+`npm run artefato` gera `.cache/artefato/anatostudy.html`: **um** arquivo com
+JS, CSS e os doze `.glb` embutidos como `data:` URI, sem nenhuma dependência
+externa. Serve para hospedagens que só aceitam um arquivo, ou para abrir o
+atlas offline.
+
+Como tudo viaja dentro da página, essa versão usa o perfil leve do pipeline
+(`PERFIL=leve`, ~6,9 MB de modelos em vez de 16,3 MB) e o script falha se o
+HTML passar de 15 MB. A malha é menos densa; o conjunto de 934 estruturas, as
+fichas e a interface são idênticos.
 
 ## Stack
 

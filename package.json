@@ -12,7 +12,9 @@
     "test": "vitest run",
     "models": "node scripts/build-models.mjs",
     "models:terms": "node scripts/build-terms.mjs",
-    "data:resolver": "node scripts/resolver-pecas.mjs"
+    "data:resolver": "node scripts/resolver-pecas.mjs",
+    "models:leve": "PERFIL=leve SAIDA_MODELOS=.cache/models-leve node scripts/build-models.mjs",
+    "artefato": "npm run models:leve && node scripts/build-artefato.mjs"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.8",
